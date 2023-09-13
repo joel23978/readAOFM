@@ -229,8 +229,17 @@ index <- data.frame(
 ) 
 
 index_nav <- index %>%
-  select(c(4, 1:3)) %>%
-  `colnames<-`(c("Query Name", "Category", "Title", "Description"))
+  select(c(4, 7, 1:3)) %>%
+  `colnames<-`(c("Argument", "Function", "Category", "Title", "Description"))
+
+
+
+##### print index ######
+
+browse_tables <- function(x = index_nav){
+  print(x)
+}
+browse_tables()
 
 
 

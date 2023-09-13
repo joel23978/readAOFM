@@ -9,16 +9,6 @@ library(zoo)
 
 
 
-##### print index ######
-
-browse_tables <- function(x = index_nav){
-  print(x)
-}
-browse_tables()
-
-
-
-
 ##### download aofm data ######
 
 ## this downloads a specified table from the aofm as an xlsx and saves in /data
