@@ -1,0 +1,813 @@
+period,group,name,value
+2016-07-31,tenor,0-2 years,19186.3065
+2016-07-31,tenor,2-5 years,23060.2975
+2016-07-31,tenor,5-9 years,19103.615
+2016-07-31,tenor,9-12 years,13595.896
+2016-07-31,tenor,12+ years,8778.081
+2016-07-31,tenor,Total,83724.196
+2016-08-31,tenor,0-2 years,15603.9295
+2016-08-31,tenor,2-5 years,17880.0225
+2016-08-31,tenor,5-9 years,12973.967
+2016-08-31,tenor,9-12 years,14542.916
+2016-08-31,tenor,12+ years,5861.2965
+2016-08-31,tenor,Total,66862.1315
+2016-09-30,tenor,0-2 years,13093.0495
+2016-09-30,tenor,2-5 years,42211.639
+2016-09-30,tenor,5-9 years,28152.185
+2016-09-30,tenor,9-12 years,23424.6645
+2016-09-30,tenor,12+ years,7960.015
+2016-09-30,tenor,Total,114841.553
+2016-10-31,tenor,0-2 years,14085.942
+2016-10-31,tenor,2-5 years,30932.3455
+2016-10-31,tenor,5-9 years,19098.3825
+2016-10-31,tenor,9-12 years,16708.9445
+2016-10-31,tenor,12+ years,11826.099
+2016-10-31,tenor,Total,92651.7135
+2016-11-30,tenor,0-2 years,16776.0015
+2016-11-30,tenor,2-5 years,28086.0575
+2016-11-30,tenor,5-9 years,19521.477
+2016-11-30,tenor,9-12 years,17811.0895
+2016-11-30,tenor,12+ years,10190.495
+2016-11-30,tenor,Total,92385.1205
+2016-12-31,tenor,0-2 years,10486.1375
+2016-12-31,tenor,2-5 years,30207.4395
+2016-12-31,tenor,5-9 years,18223.304
+2016-12-31,tenor,9-12 years,28407.777
+2016-12-31,tenor,12+ years,5193.065
+2016-12-31,tenor,Total,92517.723
+2017-01-31,tenor,0-2 years,14771.869
+2017-01-31,tenor,2-5 years,27144.0025
+2017-01-31,tenor,5-9 years,18023.477
+2017-01-31,tenor,9-12 years,15048.187
+2017-01-31,tenor,12+ years,5444.7685
+2017-01-31,tenor,Total,80432.304
+2017-02-28,tenor,0-2 years,17112.572
+2017-02-28,tenor,2-5 years,30863.0455
+2017-02-28,tenor,5-9 years,14043.4735
+2017-02-28,tenor,9-12 years,32340.206
+2017-02-28,tenor,12+ years,9276.3285
+2017-02-28,tenor,Total,103635.6255
+2017-03-31,tenor,0-2 years,17428.438
+2017-03-31,tenor,2-5 years,31354.1465
+2017-03-31,tenor,5-9 years,18422.2325
+2017-03-31,tenor,9-12 years,23390.7915
+2017-03-31,tenor,12+ years,12400.9675
+2017-03-31,tenor,Total,102996.576
+2017-04-30,tenor,0-2 years,11731.6775
+2017-04-30,tenor,2-5 years,21224.809
+2017-04-30,tenor,5-9 years,16200.971
+2017-04-30,tenor,9-12 years,14134.558
+2017-04-30,tenor,12+ years,7673.0425
+2017-04-30,tenor,Total,70965.058
+2017-05-31,tenor,0-2 years,11497.219
+2017-05-31,tenor,2-5 years,28742.069
+2017-05-31,tenor,5-9 years,16379.815
+2017-05-31,tenor,9-12 years,13816.205
+2017-05-31,tenor,12+ years,6161.938
+2017-05-31,tenor,Total,76597.246
+2017-06-30,tenor,0-2 years,13187.538
+2017-06-30,tenor,2-5 years,25351.175
+2017-06-30,tenor,5-9 years,26836.253
+2017-06-30,tenor,9-12 years,29268.551
+2017-06-30,tenor,12+ years,8559.916
+2017-06-30,tenor,Total,103203.433
+2017-07-31,tenor,0-2 years,18607.1235
+2017-07-31,tenor,2-5 years,36221.318
+2017-07-31,tenor,5-9 years,22586.319
+2017-07-31,tenor,9-12 years,25249.79
+2017-07-31,tenor,12+ years,8038.0285
+2017-07-31,tenor,Total,110702.579
+2017-08-31,tenor,0-2 years,6723.1535
+2017-08-31,tenor,2-5 years,26246.0085
+2017-08-31,tenor,5-9 years,18784.716
+2017-08-31,tenor,9-12 years,21564.284
+2017-08-31,tenor,12+ years,3745.4255
+2017-08-31,tenor,Total,77063.5875
+2017-09-30,tenor,0-2 years,12817.2775
+2017-09-30,tenor,2-5 years,40748.2285
+2017-09-30,tenor,5-9 years,24956.1715
+2017-09-30,tenor,9-12 years,35528.801
+2017-09-30,tenor,12+ years,7108.622
+2017-09-30,tenor,Total,121159.1005
+2017-10-31,tenor,0-2 years,20932.26
+2017-10-31,tenor,2-5 years,26695.1215
+2017-10-31,tenor,5-9 years,20135.3575
+2017-10-31,tenor,9-12 years,20941.395
+2017-10-31,tenor,12+ years,7119.5915
+2017-10-31,tenor,Total,95823.7255
+2017-11-30,tenor,0-2 years,16629.8275
+2017-11-30,tenor,2-5 years,21586.4005
+2017-11-30,tenor,5-9 years,15035.0415
+2017-11-30,tenor,9-12 years,21028.0005
+2017-11-30,tenor,12+ years,6875.8155
+2017-11-30,tenor,Total,81155.0855
+2017-12-31,tenor,0-2 years,14821.7815
+2017-12-31,tenor,2-5 years,23171.14
+2017-12-31,tenor,5-9 years,13503.296
+2017-12-31,tenor,9-12 years,19201.2725
+2017-12-31,tenor,12+ years,4108.726
+2017-12-31,tenor,Total,74806.216
+2018-01-31,tenor,0-2 years,31466.7725
+2018-01-31,tenor,2-5 years,42161.394
+2018-01-31,tenor,5-9 years,19733.8495
+2018-01-31,tenor,9-12 years,30914.093
+2018-01-31,tenor,12+ years,5582.2885
+2018-01-31,tenor,Total,129858.3975
+2018-02-28,tenor,0-2 years,16337.347
+2018-02-28,tenor,2-5 years,35218.4675
+2018-02-28,tenor,5-9 years,27314.843
+2018-02-28,tenor,9-12 years,30356.1045
+2018-02-28,tenor,12+ years,5752.6575
+2018-02-28,tenor,Total,114979.4195
+2018-03-31,tenor,0-2 years,19926.742
+2018-03-31,tenor,2-5 years,38931.367
+2018-03-31,tenor,5-9 years,21550.3145
+2018-03-31,tenor,9-12 years,46324.1735
+2018-03-31,tenor,12+ years,5942.719
+2018-03-31,tenor,Total,132675.316
+2018-04-30,tenor,0-2 years,14924.106
+2018-04-30,tenor,2-5 years,23078.859
+2018-04-30,tenor,5-9 years,22816.3685
+2018-04-30,tenor,9-12 years,29948.3235
+2018-04-30,tenor,12+ years,9742.894
+2018-04-30,tenor,Total,100510.551
+2018-05-31,tenor,0-2 years,21938.8245
+2018-05-31,tenor,2-5 years,43850.473
+2018-05-31,tenor,5-9 years,32217.714
+2018-05-31,tenor,9-12 years,32703.655
+2018-05-31,tenor,12+ years,9656.9
+2018-05-31,tenor,Total,140367.5665
+2018-06-30,tenor,0-2 years,14654.0115
+2018-06-30,tenor,2-5 years,30909.7685
+2018-06-30,tenor,5-9 years,16687.0025
+2018-06-30,tenor,9-12 years,27530.0715
+2018-06-30,tenor,12+ years,4934.8995
+2018-06-30,tenor,Total,94715.7535
+2018-07-31,tenor,0-2 years,9369.047
+2018-07-31,tenor,2-5 years,29096.5395
+2018-07-31,tenor,5-9 years,15326.4845
+2018-07-31,tenor,9-12 years,26004.9735
+2018-07-31,tenor,12+ years,7469.4005
+2018-07-31,tenor,Total,87266.445
+2018-08-31,tenor,0-2 years,11463.7105
+2018-08-31,tenor,2-5 years,27061.4855
+2018-08-31,tenor,5-9 years,16321.551
+2018-08-31,tenor,9-12 years,23254.776
+2018-08-31,tenor,12+ years,4615.2905
+2018-08-31,tenor,Total,82716.8135
+2018-09-30,tenor,0-2 years,21569.517
+2018-09-30,tenor,2-5 years,40321.429
+2018-09-30,tenor,5-9 years,23884.907
+2018-09-30,tenor,9-12 years,44649.003
+2018-09-30,tenor,12+ years,7003.694
+2018-09-30,tenor,Total,137428.55
+2018-10-31,tenor,0-2 years,22640.7255
+2018-10-31,tenor,2-5 years,31519.434
+2018-10-31,tenor,5-9 years,19095.456
+2018-10-31,tenor,9-12 years,27398.974
+2018-10-31,tenor,12+ years,5013.676
+2018-10-31,tenor,Total,105668.2655
+2018-11-30,tenor,0-2 years,16192.1855
+2018-11-30,tenor,2-5 years,22464.1015
+2018-11-30,tenor,5-9 years,17766.464
+2018-11-30,tenor,9-12 years,28409.81
+2018-11-30,tenor,12+ years,6275.0595
+2018-11-30,tenor,Total,91107.6205
+2018-12-31,tenor,0-2 years,15861.0005
+2018-12-31,tenor,2-5 years,28876.168
+2018-12-31,tenor,5-9 years,19006.878
+2018-12-31,tenor,9-12 years,22309.2205
+2018-12-31,tenor,12+ years,4061.9665
+2018-12-31,tenor,Total,90115.2335
+2019-01-31,tenor,0-2 years,22285.9375
+2019-01-31,tenor,2-5 years,40211.506
+2019-01-31,tenor,5-9 years,34028.358
+2019-01-31,tenor,9-12 years,32567.168
+2019-01-31,tenor,12+ years,4241.5225
+2019-01-31,tenor,Total,133334.492
+2019-02-28,tenor,0-2 years,16115.7215
+2019-02-28,tenor,2-5 years,26671.1635
+2019-02-28,tenor,5-9 years,35320.487
+2019-02-28,tenor,9-12 years,31215.071
+2019-02-28,tenor,12+ years,5642.2145
+2019-02-28,tenor,Total,114964.6575
+2019-03-31,tenor,0-2 years,22145.221
+2019-03-31,tenor,2-5 years,40876.8555
+2019-03-31,tenor,5-9 years,27911.9755
+2019-03-31,tenor,9-12 years,54699.0065
+2019-03-31,tenor,12+ years,9670.517
+2019-03-31,tenor,Total,155303.5755
+2019-04-30,tenor,0-2 years,18234.447
+2019-04-30,tenor,2-5 years,32751.3665
+2019-04-30,tenor,5-9 years,23897.599
+2019-04-30,tenor,9-12 years,28384.4945
+2019-04-30,tenor,12+ years,4955.146
+2019-04-30,tenor,Total,108223.053
+2019-05-31,tenor,0-2 years,22216.433
+2019-05-31,tenor,2-5 years,29451.165
+2019-05-31,tenor,5-9 years,24588.089
+2019-05-31,tenor,9-12 years,26583.516
+2019-05-31,tenor,12+ years,7533.515
+2019-05-31,tenor,Total,110372.718
+2019-06-30,tenor,0-2 years,14798.0445
+2019-06-30,tenor,2-5 years,23771.1935
+2019-06-30,tenor,5-9 years,14440.0485
+2019-06-30,tenor,9-12 years,22966.9
+2019-06-30,tenor,12+ years,6992.922
+2019-06-30,tenor,Total,82969.1085
+2019-07-31,tenor,0-2 years,15672.933
+2019-07-31,tenor,2-5 years,18356.2305
+2019-07-31,tenor,5-9 years,23199.924
+2019-07-31,tenor,9-12 years,32042.3525
+2019-07-31,tenor,12+ years,5513.0045
+2019-07-31,tenor,Total,94784.4445
+2019-08-31,tenor,0-2 years,12939.189
+2019-08-31,tenor,2-5 years,21219.417
+2019-08-31,tenor,5-9 years,20708.726
+2019-08-31,tenor,9-12 years,25808.63
+2019-08-31,tenor,12+ years,8481.536
+2019-08-31,tenor,Total,89157.498
+2019-09-30,tenor,0-2 years,16961.084
+2019-09-30,tenor,2-5 years,28365.5375
+2019-09-30,tenor,5-9 years,24929.2255
+2019-09-30,tenor,9-12 years,47584.597
+2019-09-30,tenor,12+ years,7004.7575
+2019-09-30,tenor,Total,124845.2015
+2019-10-31,tenor,0-2 years,20932.68
+2019-10-31,tenor,2-5 years,27898.696
+2019-10-31,tenor,5-9 years,20916.355
+2019-10-31,tenor,9-12 years,30018.2675
+2019-10-31,tenor,12+ years,7423.937
+2019-10-31,tenor,Total,107189.9355
+2019-11-30,tenor,0-2 years,16537.056
+2019-11-30,tenor,2-5 years,31592.972
+2019-11-30,tenor,5-9 years,29389.4885
+2019-11-30,tenor,9-12 years,25768.525
+2019-11-30,tenor,12+ years,7406.6635
+2019-11-30,tenor,Total,110694.705
+2019-12-31,tenor,0-2 years,20094.9465
+2019-12-31,tenor,2-5 years,28548.05
+2019-12-31,tenor,5-9 years,21457.602
+2019-12-31,tenor,9-12 years,29165.114
+2019-12-31,tenor,12+ years,4138.1595
+2019-12-31,tenor,Total,103403.872
+2020-01-31,tenor,0-2 years,23194.583
+2020-01-31,tenor,2-5 years,28713.5365
+2020-01-31,tenor,5-9 years,42878.9595
+2020-01-31,tenor,9-12 years,38088.781
+2020-01-31,tenor,12+ years,11848.939
+2020-01-31,tenor,Total,144724.799
+2020-02-29,tenor,0-2 years,13125.78
+2020-02-29,tenor,2-5 years,34109.2265
+2020-02-29,tenor,5-9 years,43568.5245
+2020-02-29,tenor,9-12 years,33605.987
+2020-02-29,tenor,12+ years,14018.921
+2020-02-29,tenor,Total,138428.439
+2020-03-31,tenor,0-2 years,24413.4205
+2020-03-31,tenor,2-5 years,49274.703
+2020-03-31,tenor,5-9 years,52742.55
+2020-03-31,tenor,9-12 years,48847.418
+2020-03-31,tenor,12+ years,18002.584
+2020-03-31,tenor,Total,193280.6755
+2020-04-30,tenor,0-2 years,16362.1705
+2020-04-30,tenor,2-5 years,47431.8055
+2020-04-30,tenor,5-9 years,35111.572
+2020-04-30,tenor,9-12 years,26747.5905
+2020-04-30,tenor,12+ years,14429.71
+2020-04-30,tenor,Total,140082.8485
+2020-05-31,tenor,0-2 years,12674.557
+2020-05-31,tenor,2-5 years,47132.5195
+2020-05-31,tenor,5-9 years,35817.861
+2020-05-31,tenor,9-12 years,45909.551
+2020-05-31,tenor,12+ years,13987.3375
+2020-05-31,tenor,Total,155521.826
+2020-06-30,tenor,0-2 years,13219.066
+2020-06-30,tenor,2-5 years,35413.094
+2020-06-30,tenor,5-9 years,34380.5135
+2020-06-30,tenor,9-12 years,50657.477
+2020-06-30,tenor,12+ years,9070.2765
+2020-06-30,tenor,Total,142740.427
+2020-07-31,tenor,0-2 years,8828.6145
+2020-07-31,tenor,2-5 years,27560.747
+2020-07-31,tenor,5-9 years,38804.3375
+2020-07-31,tenor,9-12 years,36751.849
+2020-07-31,tenor,12+ years,19353.669
+2020-07-31,tenor,Total,131299.217
+2020-08-31,tenor,0-2 years,12592.827
+2020-08-31,tenor,2-5 years,56358.327
+2020-08-31,tenor,5-9 years,41014.2005
+2020-08-31,tenor,9-12 years,44715.8165
+2020-08-31,tenor,12+ years,14714.4515
+2020-08-31,tenor,Total,169395.6225
+2020-09-30,tenor,0-2 years,9427.87
+2020-09-30,tenor,2-5 years,58159.621
+2020-09-30,tenor,5-9 years,62744.771
+2020-09-30,tenor,9-12 years,57236.9335
+2020-09-30,tenor,12+ years,15609.1885
+2020-09-30,tenor,Total,203178.384
+2020-10-31,tenor,0-2 years,8376.9465
+2020-10-31,tenor,2-5 years,30437.3715
+2020-10-31,tenor,5-9 years,56737.232
+2020-10-31,tenor,9-12 years,48051.765
+2020-10-31,tenor,12+ years,11842.3015
+2020-10-31,tenor,Total,155445.6165
+2020-11-30,tenor,0-2 years,12554.8735
+2020-11-30,tenor,2-5 years,53990.037
+2020-11-30,tenor,5-9 years,66126.012
+2020-11-30,tenor,9-12 years,50531.4025
+2020-11-30,tenor,12+ years,19757.801
+2020-11-30,tenor,Total,202960.126
+2020-12-31,tenor,0-2 years,13110.012
+2020-12-31,tenor,2-5 years,42980.219
+2020-12-31,tenor,5-9 years,48794.988
+2020-12-31,tenor,9-12 years,51904.186
+2020-12-31,tenor,12+ years,14261.9685
+2020-12-31,tenor,Total,171051.3735
+2021-01-31,tenor,0-2 years,8864.911
+2021-01-31,tenor,2-5 years,26170.287
+2021-01-31,tenor,5-9 years,64341.103
+2021-01-31,tenor,9-12 years,43000.089
+2021-01-31,tenor,12+ years,18604.491
+2021-01-31,tenor,Total,160980.881
+2021-02-28,tenor,0-2 years,15204.7435
+2021-02-28,tenor,2-5 years,65781.764
+2021-02-28,tenor,5-9 years,62763.809
+2021-02-28,tenor,9-12 years,51837.671
+2021-02-28,tenor,12+ years,17701.308
+2021-02-28,tenor,Total,213289.2955
+2021-03-31,tenor,0-2 years,9681.9525
+2021-03-31,tenor,2-5 years,73838.677
+2021-03-31,tenor,5-9 years,68114.6045
+2021-03-31,tenor,9-12 years,49408.465
+2021-03-31,tenor,12+ years,14289.4505
+2021-03-31,tenor,Total,215333.1495
+2021-04-30,tenor,0-2 years,11334.5625
+2021-04-30,tenor,2-5 years,34311.126
+2021-04-30,tenor,5-9 years,40573.5525
+2021-04-30,tenor,9-12 years,52381.968
+2021-04-30,tenor,12+ years,10276.1015
+2021-04-30,tenor,Total,148877.3105
+2021-05-31,tenor,0-2 years,16917.268
+2021-05-31,tenor,2-5 years,44936.9375
+2021-05-31,tenor,5-9 years,46480.633
+2021-05-31,tenor,9-12 years,46978.7985
+2021-05-31,tenor,12+ years,15319.268
+2021-05-31,tenor,Total,170632.905
+2021-06-30,tenor,0-2 years,8172.6475
+2021-06-30,tenor,2-5 years,49352.867
+2021-06-30,tenor,5-9 years,48788.221
+2021-06-30,tenor,9-12 years,40847.264
+2021-06-30,tenor,12+ years,18846.2935
+2021-06-30,tenor,Total,166007.293
+2021-07-31,tenor,0-2 years,8450.427
+2021-07-31,tenor,2-5 years,42719.38
+2021-07-31,tenor,5-9 years,43083.7125
+2021-07-31,tenor,9-12 years,44602.4455
+2021-07-31,tenor,12+ years,12728.737
+2021-07-31,tenor,Total,151584.702
+2021-08-31,tenor,0-2 years,7837.176
+2021-08-31,tenor,2-5 years,29154.17
+2021-08-31,tenor,5-9 years,25504.492
+2021-08-31,tenor,9-12 years,35457.6695
+2021-08-31,tenor,12+ years,7613.336
+2021-08-31,tenor,Total,105566.8435
+2021-09-30,tenor,0-2 years,5209.401
+2021-09-30,tenor,2-5 years,46030.677
+2021-09-30,tenor,5-9 years,25986.339
+2021-09-30,tenor,9-12 years,43302.953
+2021-09-30,tenor,12+ years,12658.286
+2021-09-30,tenor,Total,133187.656
+2021-10-31,tenor,0-2 years,10897.141
+2021-10-31,tenor,2-5 years,51293.5685
+2021-10-31,tenor,5-9 years,32334.4095
+2021-10-31,tenor,9-12 years,45247.094
+2021-10-31,tenor,12+ years,14431.4225
+2021-10-31,tenor,Total,154203.6355
+2021-11-30,tenor,0-2 years,11745.7405
+2021-11-30,tenor,2-5 years,47891.5325
+2021-11-30,tenor,5-9 years,27840.2765
+2021-11-30,tenor,9-12 years,51877.8735
+2021-11-30,tenor,12+ years,16573.838
+2021-11-30,tenor,Total,155929.261
+2021-12-31,tenor,0-2 years,11743.6045
+2021-12-31,tenor,2-5 years,38405.6045
+2021-12-31,tenor,5-9 years,27706.57
+2021-12-31,tenor,9-12 years,29749.7385
+2021-12-31,tenor,12+ years,5598.414
+2021-12-31,tenor,Total,113203.9315
+2022-01-31,tenor,0-2 years,11102.94
+2022-01-31,tenor,2-5 years,40902.461
+2022-01-31,tenor,5-9 years,24765.0385
+2022-01-31,tenor,9-12 years,23160.3585
+2022-01-31,tenor,12+ years,9728.4995
+2022-01-31,tenor,Total,109659.2975
+2022-02-28,tenor,0-2 years,9824.196
+2022-02-28,tenor,2-5 years,39316.835
+2022-02-28,tenor,5-9 years,24143.417
+2022-02-28,tenor,9-12 years,25250.5005
+2022-02-28,tenor,12+ years,9599.665
+2022-02-28,tenor,Total,108134.6135
+2022-03-31,tenor,0-2 years,11377.0325
+2022-03-31,tenor,2-5 years,39716.6605
+2022-03-31,tenor,5-9 years,22971.2675
+2022-03-31,tenor,9-12 years,33982.398
+2022-03-31,tenor,12+ years,14697.2185
+2022-03-31,tenor,Total,122744.577
+2022-04-30,tenor,0-2 years,13236.032
+2022-04-30,tenor,2-5 years,30559.0185
+2022-04-30,tenor,5-9 years,20732.958
+2022-04-30,tenor,9-12 years,40436.199
+2022-04-30,tenor,12+ years,10054.16
+2022-04-30,tenor,Total,115018.3675
+2022-05-31,tenor,0-2 years,13744.354
+2022-05-31,tenor,2-5 years,43381.9815
+2022-05-31,tenor,5-9 years,22011.539
+2022-05-31,tenor,9-12 years,46504.2685
+2022-05-31,tenor,12+ years,18234.7805
+2022-05-31,tenor,Total,143876.9235
+2022-06-30,tenor,0-2 years,12093.207
+2022-06-30,tenor,2-5 years,54071.678
+2022-06-30,tenor,5-9 years,26451.849
+2022-06-30,tenor,9-12 years,43889.29
+2022-06-30,tenor,12+ years,16510.805
+2022-06-30,tenor,Total,153016.829
+2022-07-31,tenor,0-2 years,11008.4325
+2022-07-31,tenor,2-5 years,27363.348
+2022-07-31,tenor,5-9 years,18481.258
+2022-07-31,tenor,9-12 years,24071.1045
+2022-07-31,tenor,12+ years,13995.7295
+2022-07-31,tenor,Total,94919.8725
+2022-08-31,tenor,0-2 years,11047.0095
+2022-08-31,tenor,2-5 years,43004.846
+2022-08-31,tenor,5-9 years,28477.28
+2022-08-31,tenor,9-12 years,33342.9455
+2022-08-31,tenor,12+ years,13789.675
+2022-08-31,tenor,Total,129661.756
+2022-09-30,tenor,0-2 years,7123.5875
+2022-09-30,tenor,2-5 years,32355.7825
+2022-09-30,tenor,5-9 years,19012.0635
+2022-09-30,tenor,9-12 years,39670.084
+2022-09-30,tenor,12+ years,12737.488
+2022-09-30,tenor,Total,110899.0055
+2022-10-31,tenor,0-2 years,11136.8175
+2022-10-31,tenor,2-5 years,22478.117
+2022-10-31,tenor,5-9 years,17707.364
+2022-10-31,tenor,9-12 years,20023.568
+2022-10-31,tenor,12+ years,9278.032
+2022-10-31,tenor,Total,80623.8985
+2022-11-30,tenor,0-2 years,21826.1455
+2022-11-30,tenor,2-5 years,35817.9105
+2022-11-30,tenor,5-9 years,19672.192
+2022-11-30,tenor,9-12 years,37816.1905
+2022-11-30,tenor,12+ years,14129.857
+2022-11-30,tenor,Total,129262.2955
+2022-12-31,tenor,0-2 years,6969.6175
+2022-12-31,tenor,2-5 years,36636.8955
+2022-12-31,tenor,5-9 years,17546.79
+2022-12-31,tenor,9-12 years,27188.835
+2022-12-31,tenor,12+ years,9396.728
+2022-12-31,tenor,Total,97738.866
+2023-01-31,tenor,0-2 years,7726.761
+2023-01-31,tenor,2-5 years,23160.3915
+2023-01-31,tenor,5-9 years,16518.2765
+2023-01-31,tenor,9-12 years,19091.456
+2023-01-31,tenor,12+ years,9413.109
+2023-01-31,tenor,Total,75909.994
+2023-02-28,tenor,0-2 years,12551.1605
+2023-02-28,tenor,2-5 years,27510.1775
+2023-02-28,tenor,5-9 years,21840.399
+2023-02-28,tenor,9-12 years,24254.6265
+2023-02-28,tenor,12+ years,10928.0395
+2023-02-28,tenor,Total,97084.403
+2023-03-31,tenor,0-2 years,12608.932
+2023-03-31,tenor,2-5 years,50193.5435
+2023-03-31,tenor,5-9 years,22800.5165
+2023-03-31,tenor,9-12 years,55064.175
+2023-03-31,tenor,12+ years,21026.8155
+2023-03-31,tenor,Total,161693.9825
+2023-04-30,tenor,0-2 years,12285.867
+2023-04-30,tenor,2-5 years,14627.089
+2023-04-30,tenor,5-9 years,15661
+2023-04-30,tenor,9-12 years,35024.0215
+2023-04-30,tenor,12+ years,12542.5805
+2023-04-30,tenor,Total,90140.558
+2023-05-31,tenor,0-2 years,19542.5145
+2023-05-31,tenor,2-5 years,32862.283
+2023-05-31,tenor,5-9 years,30067.657
+2023-05-31,tenor,9-12 years,29378.4435
+2023-05-31,tenor,12+ years,16069.3
+2023-05-31,tenor,Total,127920.198
+2023-06-30,tenor,0-2 years,11143.7895
+2023-06-30,tenor,2-5 years,38428.7115
+2023-06-30,tenor,5-9 years,39491.9475
+2023-06-30,tenor,9-12 years,34844.0785
+2023-06-30,tenor,12+ years,13368.537
+2023-06-30,tenor,Total,137277.064
+2016-09-30,investor_type,Reserve Bank of Australia,NA
+2016-09-30,investor_type,Interbank,75268.2975
+2016-09-30,investor_type,Bank balance sheet,24873.451
+2016-09-30,investor_type,Other domestic,52079.568
+2016-09-30,investor_type,Japan,16552.228
+2016-09-30,investor_type,Asia (ex Japan),37871.836
+2016-09-30,investor_type,UK,16220.507
+2016-09-30,investor_type,Europe,27619.39
+2016-09-30,investor_type,Americas,13740.945
+2016-09-30,investor_type,Other international,1201.658
+2016-09-30,investor_type,Total,265427.8805
+2016-12-31,investor_type,Reserve Bank of Australia,NA
+2016-12-31,investor_type,Interbank,81228.661
+2016-12-31,investor_type,Bank balance sheet,24054.478
+2016-12-31,investor_type,Other domestic,59314.84
+2016-12-31,investor_type,Japan,13825.879
+2016-12-31,investor_type,Asia (ex Japan),33287.707
+2016-12-31,investor_type,UK,18113.773
+2016-12-31,investor_type,Europe,26028.271
+2016-12-31,investor_type,Americas,19574.859
+2016-12-31,investor_type,Other international,2126.089
+2016-12-31,investor_type,Total,277554.557
+2017-03-31,investor_type,Reserve Bank of Australia,NA
+2017-03-31,investor_type,Interbank,75542.6425
+2017-03-31,investor_type,Bank balance sheet,33501.111
+2017-03-31,investor_type,Other domestic,56745.224
+2017-03-31,investor_type,Japan,11397.135
+2017-03-31,investor_type,Asia (ex Japan),41616.834
+2017-03-31,investor_type,UK,17441.498
+2017-03-31,investor_type,Europe,34710.515
+2017-03-31,investor_type,Americas,13891.066
+2017-03-31,investor_type,Other international,2218.48
+2017-03-31,investor_type,Total,287064.5055
+2017-06-30,investor_type,Reserve Bank of Australia,NA
+2017-06-30,investor_type,Interbank,70165.465
+2017-06-30,investor_type,Bank balance sheet,18726.476
+2017-06-30,investor_type,Other domestic,48883.98
+2017-06-30,investor_type,Japan,17083.801
+2017-06-30,investor_type,Asia (ex Japan),34937.13
+2017-06-30,investor_type,UK,15164.467
+2017-06-30,investor_type,Europe,29781.98
+2017-06-30,investor_type,Americas,14424.022
+2017-06-30,investor_type,Other international,1598.416
+2017-06-30,investor_type,Total,250765.737
+2017-09-30,investor_type,Reserve Bank of Australia,NA
+2017-09-30,investor_type,Interbank,88750.386
+2017-09-30,investor_type,Bank balance sheet,35389.1
+2017-09-30,investor_type,Other domestic,50948.002
+2017-09-30,investor_type,Japan,13960.21
+2017-09-30,investor_type,Asia (ex Japan),43952.647
+2017-09-30,investor_type,UK,22642.511
+2017-09-30,investor_type,Europe,36285.55
+2017-09-30,investor_type,Americas,15487.106
+2017-09-30,investor_type,Other international,1509.755
+2017-09-30,investor_type,Total,308925.267
+2017-12-31,investor_type,Reserve Bank of Australia,NA
+2017-12-31,investor_type,Interbank,71135.416
+2017-12-31,investor_type,Bank balance sheet,15338.667
+2017-12-31,investor_type,Other domestic,45449.806
+2017-12-31,investor_type,Japan,15148.461
+2017-12-31,investor_type,Asia (ex Japan),28672.802
+2017-12-31,investor_type,UK,20853.802
+2017-12-31,investor_type,Europe,35962.255
+2017-12-31,investor_type,Americas,17226.523
+2017-12-31,investor_type,Other international,1997.295
+2017-12-31,investor_type,Total,251785.027
+2018-03-31,investor_type,Reserve Bank of Australia,NA
+2018-03-31,investor_type,Interbank,101093.552
+2018-03-31,investor_type,Bank balance sheet,39440.521
+2018-03-31,investor_type,Other domestic,59328.745
+2018-03-31,investor_type,Japan,15181.314
+2018-03-31,investor_type,Asia (ex Japan),42897.889
+2018-03-31,investor_type,UK,31616.296
+2018-03-31,investor_type,Europe,45942.807
+2018-03-31,investor_type,Americas,37715.758
+2018-03-31,investor_type,Other international,4296.251
+2018-03-31,investor_type,Total,377513.133
+2018-06-30,investor_type,Reserve Bank of Australia,NA
+2018-06-30,investor_type,Interbank,78944.18
+2018-06-30,investor_type,Bank balance sheet,24709.461
+2018-06-30,investor_type,Other domestic,63902.837
+2018-06-30,investor_type,Japan,11667.456
+2018-06-30,investor_type,Asia (ex Japan),40591.37
+2018-06-30,investor_type,UK,44009.902
+2018-06-30,investor_type,Europe,33782.106
+2018-06-30,investor_type,Americas,35311.178
+2018-06-30,investor_type,Other international,2675.381
+2018-06-30,investor_type,Total,335593.871
+2018-09-30,investor_type,Reserve Bank of Australia,NA
+2018-09-30,investor_type,Interbank,76462.5065
+2018-09-30,investor_type,Bank balance sheet,25011.843
+2018-09-30,investor_type,Other domestic,67524.864
+2018-09-30,investor_type,Japan,12643.801
+2018-09-30,investor_type,Asia (ex Japan),34300.664
+2018-09-30,investor_type,UK,29325.408
+2018-09-30,investor_type,Europe,28325.516
+2018-09-30,investor_type,Americas,30384.517
+2018-09-30,investor_type,Other international,3432.689
+2018-09-30,investor_type,Total,307411.8085
+2018-12-31,investor_type,Reserve Bank of Australia,NA
+2018-12-31,investor_type,Interbank,70057.8245
+2018-12-31,investor_type,Bank balance sheet,17075.614
+2018-12-31,investor_type,Other domestic,66863.546
+2018-12-31,investor_type,Japan,10319.573
+2018-12-31,investor_type,Asia (ex Japan),32256.371
+2018-12-31,investor_type,UK,30331.888
+2018-12-31,investor_type,Europe,31599.629
+2018-12-31,investor_type,Americas,24412.625
+2018-12-31,investor_type,Other international,3974.049
+2018-12-31,investor_type,Total,286891.1195
+2019-03-31,investor_type,Reserve Bank of Australia,NA
+2019-03-31,investor_type,Interbank,95467.917
+2019-03-31,investor_type,Bank balance sheet,37679.762
+2019-03-31,investor_type,Other domestic,80300.386
+2019-03-31,investor_type,Japan,9851.243
+2019-03-31,investor_type,Asia (ex Japan),52558.953
+2019-03-31,investor_type,UK,45779.644
+2019-03-31,investor_type,Europe,34466.703
+2019-03-31,investor_type,Americas,43210.425
+2019-03-31,investor_type,Other international,4287.692
+2019-03-31,investor_type,Total,403602.725
+2019-06-30,investor_type,Reserve Bank of Australia,NA
+2019-06-30,investor_type,Interbank,66570.9845
+2019-06-30,investor_type,Bank balance sheet,21029.937
+2019-06-30,investor_type,Other domestic,64199.512
+2019-06-30,investor_type,Japan,13864.905
+2019-06-30,investor_type,Asia (ex Japan),42330.609
+2019-06-30,investor_type,UK,34500.602
+2019-06-30,investor_type,Europe,26933.873
+2019-06-30,investor_type,Americas,29414.616
+2019-06-30,investor_type,Other international,2719.841
+2019-06-30,investor_type,Total,301564.8795
+2019-09-30,investor_type,Reserve Bank of Australia,NA
+2019-09-30,investor_type,Interbank,83693.222
+2019-09-30,investor_type,Bank balance sheet,24284.916
+2019-09-30,investor_type,Other domestic,61865.267
+2019-09-30,investor_type,Japan,14502.347
+2019-09-30,investor_type,Asia (ex Japan),32947.494
+2019-09-30,investor_type,UK,29354.463
+2019-09-30,investor_type,Europe,26821.467
+2019-09-30,investor_type,Americas,32943.547
+2019-09-30,investor_type,Other international,2374.421
+2019-09-30,investor_type,Total,308787.144
+2019-12-31,investor_type,Reserve Bank of Australia,NA
+2019-12-31,investor_type,Interbank,99970.2115
+2019-12-31,investor_type,Bank balance sheet,29173.856
+2019-12-31,investor_type,Other domestic,63210.622
+2019-12-31,investor_type,Japan,10098.631
+2019-12-31,investor_type,Asia (ex Japan),31369.195
+2019-12-31,investor_type,UK,22959.881
+2019-12-31,investor_type,Europe,26046.429
+2019-12-31,investor_type,Americas,32244.303
+2019-12-31,investor_type,Other international,6215.384
+2019-12-31,investor_type,Total,321288.5125
+2020-03-31,investor_type,Reserve Bank of Australia,21627.5
+2020-03-31,investor_type,Interbank,139610.0155
+2020-03-31,investor_type,Bank balance sheet,34544.66
+2020-03-31,investor_type,Other domestic,80141.748
+2020-03-31,investor_type,Japan,13806.144
+2020-03-31,investor_type,Asia (ex Japan),68097.189
+2020-03-31,investor_type,UK,45017.197
+2020-03-31,investor_type,Europe,28123.482
+2020-03-31,investor_type,Americas,39883.825
+2020-03-31,investor_type,Other international,5582.153
+2020-03-31,investor_type,Total,476433.9135
+2020-06-30,investor_type,Reserve Bank of Australia,25362.332
+2020-06-30,investor_type,Interbank,118715.8335
+2020-06-30,investor_type,Bank balance sheet,31880.25
+2020-06-30,investor_type,Other domestic,78553.843
+2020-06-30,investor_type,Japan,16671.398
+2020-06-30,investor_type,Asia (ex Japan),59232.115
+2020-06-30,investor_type,UK,45453.867
+2020-06-30,investor_type,Europe,24405.635
+2020-06-30,investor_type,Americas,33459.811
+2020-06-30,investor_type,Other international,4610.017
+2020-06-30,investor_type,Total,438345.1015
+2020-09-30,investor_type,Reserve Bank of Australia,12258.55
+2020-09-30,investor_type,Interbank,144600.8995
+2020-09-30,investor_type,Bank balance sheet,53969.958
+2020-09-30,investor_type,Other domestic,83370.608
+2020-09-30,investor_type,Japan,14660.532
+2020-09-30,investor_type,Asia (ex Japan),59727.86
+2020-09-30,investor_type,UK,60651.868
+2020-09-30,investor_type,Europe,28558.862
+2020-09-30,investor_type,Americas,41054.978
+2020-09-30,investor_type,Other international,5019.108
+2020-09-30,investor_type,Total,503873.2235
+2020-12-31,investor_type,Reserve Bank of Australia,35218
+2020-12-31,investor_type,Interbank,123047.632
+2020-12-31,investor_type,Bank balance sheet,31483.223
+2020-12-31,investor_type,Other domestic,86381.56
+2020-12-31,investor_type,Japan,19949.918
+2020-12-31,investor_type,Asia (ex Japan),67769.206
+2020-12-31,investor_type,UK,77975.109
+2020-12-31,investor_type,Europe,30964.368
+2020-12-31,investor_type,Americas,47907.913
+2020-12-31,investor_type,Other international,8760.187
+2020-12-31,investor_type,Total,529457.116
+2021-03-31,investor_type,Reserve Bank of Australia,51923
+2021-03-31,investor_type,Interbank,134814.011
+2021-03-31,investor_type,Bank balance sheet,30452.471
+2021-03-31,investor_type,Other domestic,78931.258
+2021-03-31,investor_type,Japan,29391.041
+2021-03-31,investor_type,Asia (ex Japan),97284.311
+2021-03-31,investor_type,UK,83850.422
+2021-03-31,investor_type,Europe,27731.62
+2021-03-31,investor_type,Americas,50946.044
+2021-03-31,investor_type,Other international,4279.148
+2021-03-31,investor_type,Total,589603.326
+2021-06-30,investor_type,Reserve Bank of Australia,45426
+2021-06-30,investor_type,Interbank,102657.8795
+2021-06-30,investor_type,Bank balance sheet,31749.758
+2021-06-30,investor_type,Other domestic,68889.021
+2021-06-30,investor_type,Japan,19766.286
+2021-06-30,investor_type,Asia (ex Japan),104855.628
+2021-06-30,investor_type,UK,51911.473
+2021-06-30,investor_type,Europe,22893.106
+2021-06-30,investor_type,Americas,31456.177
+2021-06-30,investor_type,Other international,5912.18
+2021-06-30,investor_type,Total,485517.5085
+2021-09-30,investor_type,Reserve Bank of Australia,49326
+2021-09-30,investor_type,Interbank,62200.0095
+2021-09-30,investor_type,Bank balance sheet,19521.351
+2021-09-30,investor_type,Other domestic,48379.491
+2021-09-30,investor_type,Japan,14484.099
+2021-09-30,investor_type,Asia (ex Japan),110739.266
+2021-09-30,investor_type,UK,36431.417
+2021-09-30,investor_type,Europe,24158.276
+2021-09-30,investor_type,Americas,22672.332
+2021-09-30,investor_type,Other international,2426.96
+2021-09-30,investor_type,Total,390339.2015
+2021-12-31,investor_type,Reserve Bank of Australia,37550
+2021-12-31,investor_type,Interbank,81889.635
+2021-12-31,investor_type,Bank balance sheet,36697.198
+2021-12-31,investor_type,Other domestic,49207.356
+2021-12-31,investor_type,Japan,21487.738
+2021-12-31,investor_type,Asia (ex Japan),93696.487
+2021-12-31,investor_type,UK,41688.41
+2021-12-31,investor_type,Europe,30589.004
+2021-12-31,investor_type,Americas,25797.61
+2021-12-31,investor_type,Other international,4733.39
+2021-12-31,investor_type,Total,423336.828
+2022-03-31,investor_type,Reserve Bank of Australia,16139
+2022-03-31,investor_type,Interbank,86788.442
+2022-03-31,investor_type,Bank balance sheet,14838.239
+2022-03-31,investor_type,Other domestic,42151.496
+2022-03-31,investor_type,Japan,19192.352
+2022-03-31,investor_type,Asia (ex Japan),71068.79
+2022-03-31,investor_type,UK,39173.442
+2022-03-31,investor_type,Europe,24223.77
+2022-03-31,investor_type,Americas,22214.518
+2022-03-31,investor_type,Other international,4748.439
+2022-03-31,investor_type,Total,340538.488
+2022-06-30,investor_type,Reserve Bank of Australia,0
+2022-06-30,investor_type,Interbank,113026.112
+2022-06-30,investor_type,Bank balance sheet,27254.571
+2022-06-30,investor_type,Other domestic,74475.401
+2022-06-30,investor_type,Japan,25225.162
+2022-06-30,investor_type,Asia (ex Japan),65013.774
+2022-06-30,investor_type,UK,45146.526
+2022-06-30,investor_type,Europe,23827.559
+2022-06-30,investor_type,Americas,31149.393
+2022-06-30,investor_type,Other international,6793.622
+2022-06-30,investor_type,Total,411912.12
+2022-09-30,investor_type,Reserve Bank of Australia,0
+2022-09-30,investor_type,Interbank,109985.341
+2022-09-30,investor_type,Bank balance sheet,17189.803
+2022-09-30,investor_type,Other domestic,56186.144
+2022-09-30,investor_type,Japan,16976.976
+2022-09-30,investor_type,Asia (ex Japan),54469.589
+2022-09-30,investor_type,UK,40496.932
+2022-09-30,investor_type,Europe,16258.097
+2022-09-30,investor_type,Americas,21187.315
+2022-09-30,investor_type,Other international,2730.437
+2022-09-30,investor_type,Total,335480.634
+2022-12-31,investor_type,Reserve Bank of Australia,0
+2022-12-31,investor_type,Interbank,100197.873
+2022-12-31,investor_type,Bank balance sheet,19397.455
+2022-12-31,investor_type,Other domestic,43913.782
+2022-12-31,investor_type,Japan,13284.43
+2022-12-31,investor_type,Asia (ex Japan),45005.01
+2022-12-31,investor_type,UK,39095.734
+2022-12-31,investor_type,Europe,21645.678
+2022-12-31,investor_type,Americas,19811.999
+2022-12-31,investor_type,Other international,5273.099
+2022-12-31,investor_type,Total,307625.06
+2023-03-31,investor_type,Reserve Bank of Australia,0
+2023-03-31,investor_type,Interbank,122948.8265
+2023-03-31,investor_type,Bank balance sheet,22611.408
+2023-03-31,investor_type,Other domestic,40086.829
+2023-03-31,investor_type,Japan,12452.813
+2023-03-31,investor_type,Asia (ex Japan),48889.597
+2023-03-31,investor_type,UK,38985.264
+2023-03-31,investor_type,Europe,24489.539
+2023-03-31,investor_type,Americas,21913.435
+2023-03-31,investor_type,Other international,2310.668
+2023-03-31,investor_type,Total,334688.3795
+2023-06-30,investor_type,Reserve Bank of Australia,0
+2023-06-30,investor_type,Interbank,108372.407
+2023-06-30,investor_type,Bank balance sheet,19682.692
+2023-06-30,investor_type,Other domestic,59298.722
+2023-06-30,investor_type,Japan,14072.582
+2023-06-30,investor_type,Asia (ex Japan),50894.636
+2023-06-30,investor_type,UK,42246
+2023-06-30,investor_type,Europe,28836.296
+2023-06-30,investor_type,Americas,28320.364
+2023-06-30,investor_type,Other international,3614.121
+2023-06-30,investor_type,Total,355337.82

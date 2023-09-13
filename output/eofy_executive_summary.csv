@@ -1,0 +1,1211 @@
+Liability / Asset,Currency of Issue (all figures in AUD equivalent),Funding Group,Instrument,date,value
+LIABILITY,AUD,Main Funding Instruments,Treasury Bonds,2003-06-30,-49807298082
+LIABILITY,AUD,Main Funding Instruments,Treasury Bonds,2004-06-30,-47736930048
+LIABILITY,AUD,Main Funding Instruments,Treasury Bonds,2005-06-30,-48382676348
+LIABILITY,AUD,Main Funding Instruments,Treasury Bonds,2006-06-30,-48003295000
+LIABILITY,AUD,Main Funding Instruments,Treasury Bonds,2007-06-30,-47199443000
+LIABILITY,AUD,Main Funding Instruments,Treasury Bonds,2008-06-30,-49395141000
+LIABILITY,AUD,Main Funding Instruments,Treasury Bonds,2009-06-30,-78403136000
+LIABILITY,AUD,Main Funding Instruments,Treasury Bonds,2010-06-30,-124695087000
+LIABILITY,AUD,Main Funding Instruments,Treasury Bonds,2011-06-30,-161242900000
+LIABILITY,AUD,Main Funding Instruments,Treasury Bonds,2012-06-30,-205387900000
+LIABILITY,AUD,Main Funding Instruments,Treasury Bonds,2013-06-30,-233539500000
+LIABILITY,AUD,Main Funding Instruments,Treasury Bonds,2014-06-30,-290936151000
+LIABILITY,AUD,Main Funding Instruments,Treasury Bonds,2015-06-30,-335186219000
+LIABILITY,AUD,Main Funding Instruments,Treasury Bonds,2016-06-30,-385219783000
+LIABILITY,AUD,Main Funding Instruments,Treasury Bonds,2017-06-30,-464043805000
+LIABILITY,AUD,Main Funding Instruments,Treasury Bonds,2018-06-30,-493183934000
+LIABILITY,AUD,Main Funding Instruments,Treasury Bonds,2019-06-30,-502249285000
+LIABILITY,AUD,Main Funding Instruments,Treasury Bonds,2020-06-30,-587155109000
+LIABILITY,AUD,Main Funding Instruments,Treasury Bonds,2021-06-30,-750909775000
+LIABILITY,AUD,Main Funding Instruments,Treasury Bonds,2022-06-30,-830511750000
+LIABILITY,AUD,Main Funding Instruments,Treasury Bonds,2023-06-30,-823849369000
+LIABILITY,AUD,Main Funding Instruments,Treasury Bonds,2023-08-31,-830049369000
+LIABILITY,AUD,Main Funding Instruments,Treasury Indexed Bonds (Capital Indexed),2003-06-30,-6551793000
+LIABILITY,AUD,Main Funding Instruments,Treasury Indexed Bonds (Capital Indexed),2004-06-30,-6551793000
+LIABILITY,AUD,Main Funding Instruments,Treasury Indexed Bonds (Capital Indexed),2005-06-30,-6551793000
+LIABILITY,AUD,Main Funding Instruments,Treasury Indexed Bonds (Capital Indexed),2006-06-30,-6020000000
+LIABILITY,AUD,Main Funding Instruments,Treasury Indexed Bonds (Capital Indexed),2007-06-30,-6020000000
+LIABILITY,AUD,Main Funding Instruments,Treasury Indexed Bonds (Capital Indexed),2008-06-30,-6020000000
+LIABILITY,AUD,Main Funding Instruments,Treasury Indexed Bonds (Capital Indexed),2009-06-30,-6020000000
+LIABILITY,AUD,Main Funding Instruments,Treasury Indexed Bonds (Capital Indexed),2010-06-30,-11415265000
+LIABILITY,AUD,Main Funding Instruments,Treasury Indexed Bonds (Capital Indexed),2011-06-30,-13929000000
+LIABILITY,AUD,Main Funding Instruments,Treasury Indexed Bonds (Capital Indexed),2012-06-30,-16069000000
+LIABILITY,AUD,Main Funding Instruments,Treasury Indexed Bonds (Capital Indexed),2013-06-30,-18319000000
+LIABILITY,AUD,Main Funding Instruments,Treasury Indexed Bonds (Capital Indexed),2014-06-30,-23531353000
+LIABILITY,AUD,Main Funding Instruments,Treasury Indexed Bonds (Capital Indexed),2015-06-30,-27530819000
+LIABILITY,AUD,Main Funding Instruments,Treasury Indexed Bonds (Capital Indexed),2016-06-30,-30179141000
+LIABILITY,AUD,Main Funding Instruments,Treasury Indexed Bonds (Capital Indexed),2017-06-30,-33429002000
+LIABILITY,AUD,Main Funding Instruments,Treasury Indexed Bonds (Capital Indexed),2018-06-30,-36246706000
+LIABILITY,AUD,Main Funding Instruments,Treasury Indexed Bonds (Capital Indexed),2019-06-30,-36736790000
+LIABILITY,AUD,Main Funding Instruments,Treasury Indexed Bonds (Capital Indexed),2020-06-30,-38386553000
+LIABILITY,AUD,Main Funding Instruments,Treasury Indexed Bonds (Capital Indexed),2021-06-30,-38825548000
+LIABILITY,AUD,Main Funding Instruments,Treasury Indexed Bonds (Capital Indexed),2022-06-30,-37235372000
+LIABILITY,AUD,Main Funding Instruments,Treasury Indexed Bonds (Capital Indexed),2023-06-30,-39435297000
+LIABILITY,AUD,Main Funding Instruments,Treasury Indexed Bonds (Capital Indexed),2023-08-31,-39885189000
+LIABILITY,AUD,Main Funding Instruments,Treasury Notes,2003-06-30,0
+LIABILITY,AUD,Main Funding Instruments,Treasury Notes,2004-06-30,0
+LIABILITY,AUD,Main Funding Instruments,Treasury Notes,2005-06-30,0
+LIABILITY,AUD,Main Funding Instruments,Treasury Notes,2006-06-30,0
+LIABILITY,AUD,Main Funding Instruments,Treasury Notes,2007-06-30,0
+LIABILITY,AUD,Main Funding Instruments,Treasury Notes,2008-06-30,0
+LIABILITY,AUD,Main Funding Instruments,Treasury Notes,2009-06-30,-16700000000
+LIABILITY,AUD,Main Funding Instruments,Treasury Notes,2010-06-30,-11000000000
+LIABILITY,AUD,Main Funding Instruments,Treasury Notes,2011-06-30,-16100000000
+LIABILITY,AUD,Main Funding Instruments,Treasury Notes,2012-06-30,-12500000000
+LIABILITY,AUD,Main Funding Instruments,Treasury Notes,2013-06-30,-5500000000
+LIABILITY,AUD,Main Funding Instruments,Treasury Notes,2014-06-30,-5000000000
+LIABILITY,AUD,Main Funding Instruments,Treasury Notes,2015-06-30,-6000000000
+LIABILITY,AUD,Main Funding Instruments,Treasury Notes,2016-06-30,-5000000000
+LIABILITY,AUD,Main Funding Instruments,Treasury Notes,2017-06-30,-3500000000
+LIABILITY,AUD,Main Funding Instruments,Treasury Notes,2018-06-30,-2500000000
+LIABILITY,AUD,Main Funding Instruments,Treasury Notes,2019-06-30,-3000000000
+LIABILITY,AUD,Main Funding Instruments,Treasury Notes,2020-06-30,-58750000000
+LIABILITY,AUD,Main Funding Instruments,Treasury Notes,2021-06-30,-27250000000
+LIABILITY,AUD,Main Funding Instruments,Treasury Notes,2022-06-30,-27500000000
+LIABILITY,AUD,Main Funding Instruments,Treasury Notes,2023-06-30,-26500000000
+LIABILITY,AUD,Main Funding Instruments,Treasury Notes,2023-08-31,-28340000000
+LIABILITY,AUD,Main Funding Instruments,Total AUD Main Funding Instruments,2003-06-30,-56359091082
+LIABILITY,AUD,Main Funding Instruments,Total AUD Main Funding Instruments,2004-06-30,-54288723048
+LIABILITY,AUD,Main Funding Instruments,Total AUD Main Funding Instruments,2005-06-30,-54934469348
+LIABILITY,AUD,Main Funding Instruments,Total AUD Main Funding Instruments,2006-06-30,-54023295000
+LIABILITY,AUD,Main Funding Instruments,Total AUD Main Funding Instruments,2007-06-30,-53219443000
+LIABILITY,AUD,Main Funding Instruments,Total AUD Main Funding Instruments,2008-06-30,-55415141000
+LIABILITY,AUD,Main Funding Instruments,Total AUD Main Funding Instruments,2009-06-30,-101123136000
+LIABILITY,AUD,Main Funding Instruments,Total AUD Main Funding Instruments,2010-06-30,-147110352000
+LIABILITY,AUD,Main Funding Instruments,Total AUD Main Funding Instruments,2011-06-30,-191271900000
+LIABILITY,AUD,Main Funding Instruments,Total AUD Main Funding Instruments,2012-06-30,-233956900000
+LIABILITY,AUD,Main Funding Instruments,Total AUD Main Funding Instruments,2013-06-30,-257358500000
+LIABILITY,AUD,Main Funding Instruments,Total AUD Main Funding Instruments,2014-06-30,-319467504000
+LIABILITY,AUD,Main Funding Instruments,Total AUD Main Funding Instruments,2015-06-30,-368717038000
+LIABILITY,AUD,Main Funding Instruments,Total AUD Main Funding Instruments,2016-06-30,-420398924000
+LIABILITY,AUD,Main Funding Instruments,Total AUD Main Funding Instruments,2017-06-30,-500972807000
+LIABILITY,AUD,Main Funding Instruments,Total AUD Main Funding Instruments,2018-06-30,-531930640000
+LIABILITY,AUD,Main Funding Instruments,Total AUD Main Funding Instruments,2019-06-30,-541986075000
+LIABILITY,AUD,Main Funding Instruments,Total AUD Main Funding Instruments,2020-06-30,-684291662000
+LIABILITY,AUD,Main Funding Instruments,Total AUD Main Funding Instruments,2021-06-30,-816985323000
+LIABILITY,AUD,Main Funding Instruments,Total AUD Main Funding Instruments,2022-06-30,-895247122000
+LIABILITY,AUD,Main Funding Instruments,Total AUD Main Funding Instruments,2023-06-30,-889784666000
+LIABILITY,AUD,Main Funding Instruments,Total AUD Main Funding Instruments,2023-08-31,-898274558000
+LIABILITY,AUD,Other Funding Instruments,Treasury Indexed Bonds (Interest Indexed),2003-06-30,-52000
+LIABILITY,AUD,Other Funding Instruments,Treasury Indexed Bonds (Interest Indexed),2004-06-30,-52000
+LIABILITY,AUD,Other Funding Instruments,Treasury Indexed Bonds (Interest Indexed),2005-06-30,-52000
+LIABILITY,AUD,Other Funding Instruments,Treasury Indexed Bonds (Interest Indexed),2006-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Treasury Indexed Bonds (Interest Indexed),2007-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Treasury Indexed Bonds (Interest Indexed),2008-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Treasury Indexed Bonds (Interest Indexed),2009-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Treasury Indexed Bonds (Interest Indexed),2010-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Treasury Indexed Bonds (Interest Indexed),2011-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Treasury Indexed Bonds (Interest Indexed),2012-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Treasury Indexed Bonds (Interest Indexed),2013-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Treasury Indexed Bonds (Interest Indexed),2014-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Treasury Indexed Bonds (Interest Indexed),2015-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Treasury Indexed Bonds (Interest Indexed),2016-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Treasury Indexed Bonds (Interest Indexed),2017-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Treasury Indexed Bonds (Interest Indexed),2018-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Treasury Indexed Bonds (Interest Indexed),2019-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Treasury Indexed Bonds (Interest Indexed),2020-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Treasury Indexed Bonds (Interest Indexed),2021-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Treasury Indexed Bonds (Interest Indexed),2022-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Treasury Indexed Bonds (Interest Indexed),2023-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Treasury Indexed Bonds (Interest Indexed),2023-08-31,0
+LIABILITY,AUD,Other Funding Instruments,Total AUD Other Funding Instruments,2003-06-30,-52000
+LIABILITY,AUD,Other Funding Instruments,Total AUD Other Funding Instruments,2004-06-30,-52000
+LIABILITY,AUD,Other Funding Instruments,Total AUD Other Funding Instruments,2005-06-30,-52000
+LIABILITY,AUD,Other Funding Instruments,Total AUD Other Funding Instruments,2006-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Total AUD Other Funding Instruments,2007-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Total AUD Other Funding Instruments,2008-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Total AUD Other Funding Instruments,2009-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Total AUD Other Funding Instruments,2010-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Total AUD Other Funding Instruments,2011-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Total AUD Other Funding Instruments,2012-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Total AUD Other Funding Instruments,2013-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Total AUD Other Funding Instruments,2014-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Total AUD Other Funding Instruments,2015-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Total AUD Other Funding Instruments,2016-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Total AUD Other Funding Instruments,2017-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Total AUD Other Funding Instruments,2018-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Total AUD Other Funding Instruments,2019-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Total AUD Other Funding Instruments,2020-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Total AUD Other Funding Instruments,2021-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Total AUD Other Funding Instruments,2022-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Total AUD Other Funding Instruments,2023-06-30,0
+LIABILITY,AUD,Other Funding Instruments,Total AUD Other Funding Instruments,2023-08-31,0
+LIABILITY,AUD,Other Borrowings,Federal Airport Corp Loan,2003-06-30,-100000000
+LIABILITY,AUD,Other Borrowings,Federal Airport Corp Loan,2004-06-30,0
+LIABILITY,AUD,Other Borrowings,Federal Airport Corp Loan,2005-06-30,0
+LIABILITY,AUD,Other Borrowings,Federal Airport Corp Loan,2006-06-30,0
+LIABILITY,AUD,Other Borrowings,Federal Airport Corp Loan,2007-06-30,0
+LIABILITY,AUD,Other Borrowings,Federal Airport Corp Loan,2008-06-30,0
+LIABILITY,AUD,Other Borrowings,Federal Airport Corp Loan,2009-06-30,0
+LIABILITY,AUD,Other Borrowings,Federal Airport Corp Loan,2010-06-30,0
+LIABILITY,AUD,Other Borrowings,Federal Airport Corp Loan,2011-06-30,0
+LIABILITY,AUD,Other Borrowings,Federal Airport Corp Loan,2012-06-30,0
+LIABILITY,AUD,Other Borrowings,Federal Airport Corp Loan,2013-06-30,0
+LIABILITY,AUD,Other Borrowings,Federal Airport Corp Loan,2014-06-30,0
+LIABILITY,AUD,Other Borrowings,Federal Airport Corp Loan,2015-06-30,0
+LIABILITY,AUD,Other Borrowings,Federal Airport Corp Loan,2016-06-30,0
+LIABILITY,AUD,Other Borrowings,Federal Airport Corp Loan,2017-06-30,0
+LIABILITY,AUD,Other Borrowings,Federal Airport Corp Loan,2018-06-30,0
+LIABILITY,AUD,Other Borrowings,Federal Airport Corp Loan,2019-06-30,0
+LIABILITY,AUD,Other Borrowings,Federal Airport Corp Loan,2020-06-30,0
+LIABILITY,AUD,Other Borrowings,Federal Airport Corp Loan,2021-06-30,0
+LIABILITY,AUD,Other Borrowings,Federal Airport Corp Loan,2022-06-30,0
+LIABILITY,AUD,Other Borrowings,Federal Airport Corp Loan,2023-06-30,0
+LIABILITY,AUD,Other Borrowings,Federal Airport Corp Loan,2023-08-31,0
+LIABILITY,AUD,Other Borrowings,Snowy Mountain Hydro-Electric,2003-06-30,-181466572
+LIABILITY,AUD,Other Borrowings,Snowy Mountain Hydro-Electric,2004-06-30,-112966572
+LIABILITY,AUD,Other Borrowings,Snowy Mountain Hydro-Electric,2005-06-30,-49238122
+LIABILITY,AUD,Other Borrowings,Snowy Mountain Hydro-Electric,2006-06-30,-20000000
+LIABILITY,AUD,Other Borrowings,Snowy Mountain Hydro-Electric,2007-06-30,-20000000
+LIABILITY,AUD,Other Borrowings,Snowy Mountain Hydro-Electric,2008-06-30,-4000000
+LIABILITY,AUD,Other Borrowings,Snowy Mountain Hydro-Electric,2009-06-30,0
+LIABILITY,AUD,Other Borrowings,Snowy Mountain Hydro-Electric,2010-06-30,0
+LIABILITY,AUD,Other Borrowings,Snowy Mountain Hydro-Electric,2011-06-30,0
+LIABILITY,AUD,Other Borrowings,Snowy Mountain Hydro-Electric,2012-06-30,0
+LIABILITY,AUD,Other Borrowings,Snowy Mountain Hydro-Electric,2013-06-30,0
+LIABILITY,AUD,Other Borrowings,Snowy Mountain Hydro-Electric,2014-06-30,0
+LIABILITY,AUD,Other Borrowings,Snowy Mountain Hydro-Electric,2015-06-30,0
+LIABILITY,AUD,Other Borrowings,Snowy Mountain Hydro-Electric,2016-06-30,0
+LIABILITY,AUD,Other Borrowings,Snowy Mountain Hydro-Electric,2017-06-30,0
+LIABILITY,AUD,Other Borrowings,Snowy Mountain Hydro-Electric,2018-06-30,0
+LIABILITY,AUD,Other Borrowings,Snowy Mountain Hydro-Electric,2019-06-30,0
+LIABILITY,AUD,Other Borrowings,Snowy Mountain Hydro-Electric,2020-06-30,0
+LIABILITY,AUD,Other Borrowings,Snowy Mountain Hydro-Electric,2021-06-30,0
+LIABILITY,AUD,Other Borrowings,Snowy Mountain Hydro-Electric,2022-06-30,0
+LIABILITY,AUD,Other Borrowings,Snowy Mountain Hydro-Electric,2023-06-30,0
+LIABILITY,AUD,Other Borrowings,Snowy Mountain Hydro-Electric,2023-08-31,0
+LIABILITY,AUD,Other Borrowings,Tax Free Stock,2003-06-30,-10026642
+LIABILITY,AUD,Other Borrowings,Tax Free Stock,2004-06-30,-9996353
+LIABILITY,AUD,Other Borrowings,Tax Free Stock,2005-06-30,-9954005
+LIABILITY,AUD,Other Borrowings,Tax Free Stock,2006-06-30,-9940313
+LIABILITY,AUD,Other Borrowings,Tax Free Stock,2007-06-30,-9927229
+LIABILITY,AUD,Other Borrowings,Tax Free Stock,2008-06-30,-9506366
+LIABILITY,AUD,Other Borrowings,Tax Free Stock,2009-06-30,-9460529
+LIABILITY,AUD,Other Borrowings,Tax Free Stock,2010-06-30,-9386496
+LIABILITY,AUD,Other Borrowings,Tax Free Stock,2011-06-30,-8078846
+LIABILITY,AUD,Other Borrowings,Tax Free Stock,2012-06-30,-8078846
+LIABILITY,AUD,Other Borrowings,Tax Free Stock,2013-06-30,-8078846
+LIABILITY,AUD,Other Borrowings,Tax Free Stock,2014-06-30,-7978436
+LIABILITY,AUD,Other Borrowings,Tax Free Stock,2015-06-30,-7977536
+LIABILITY,AUD,Other Borrowings,Tax Free Stock,2016-06-30,-7973256
+LIABILITY,AUD,Other Borrowings,Tax Free Stock,2017-06-30,-243252
+LIABILITY,AUD,Other Borrowings,Tax Free Stock,2018-06-30,-237452
+LIABILITY,AUD,Other Borrowings,Tax Free Stock,2019-06-30,-237452.06
+LIABILITY,AUD,Other Borrowings,Tax Free Stock,2020-06-30,-237452.06
+LIABILITY,AUD,Other Borrowings,Tax Free Stock,2021-06-30,-225967.06
+LIABILITY,AUD,Other Borrowings,Tax Free Stock,2022-06-30,-180547.06
+LIABILITY,AUD,Other Borrowings,Tax Free Stock,2023-06-30,-144717.06
+LIABILITY,AUD,Other Borrowings,Tax Free Stock,2023-08-31,-144717.06
+LIABILITY,AUD,Other Borrowings,Overdue Loans,2003-06-30,-8328440.01
+LIABILITY,AUD,Other Borrowings,Overdue Loans,2004-06-30,-7729637.51
+LIABILITY,AUD,Other Borrowings,Overdue Loans,2005-06-30,-6578601.92
+LIABILITY,AUD,Other Borrowings,Overdue Loans,2006-06-30,-7775805.49
+LIABILITY,AUD,Other Borrowings,Overdue Loans,2007-06-30,-6960612.98
+LIABILITY,AUD,Other Borrowings,Overdue Loans,2008-06-30,-6715242.13
+LIABILITY,AUD,Other Borrowings,Overdue Loans,2009-06-30,-6376963.23
+LIABILITY,AUD,Other Borrowings,Overdue Loans,2010-06-30,-5800458.6
+LIABILITY,AUD,Other Borrowings,Overdue Loans,2011-06-30,-5722049.11
+LIABILITY,AUD,Other Borrowings,Overdue Loans,2012-06-30,-5612988.59
+LIABILITY,AUD,Other Borrowings,Overdue Loans,2013-06-30,-5498573.68
+LIABILITY,AUD,Other Borrowings,Overdue Loans,2014-06-30,-5664400.82
+LIABILITY,AUD,Other Borrowings,Overdue Loans,2015-06-30,-5595717
+LIABILITY,AUD,Other Borrowings,Overdue Loans,2016-06-30,-5599192
+LIABILITY,AUD,Other Borrowings,Overdue Loans,2017-06-30,-5912601
+LIABILITY,AUD,Other Borrowings,Overdue Loans,2018-06-30,-5897379
+LIABILITY,AUD,Other Borrowings,Overdue Loans,2019-06-30,-5536539.32
+LIABILITY,AUD,Other Borrowings,Overdue Loans,2020-06-30,-5480097.58
+LIABILITY,AUD,Other Borrowings,Overdue Loans,2021-06-30,-5010843.17
+LIABILITY,AUD,Other Borrowings,Overdue Loans,2022-06-30,-5026374.63
+LIABILITY,AUD,Other Borrowings,Overdue Loans,2023-06-30,-4933321.21
+LIABILITY,AUD,Other Borrowings,Overdue Loans,2023-08-31,-4933448.7
+LIABILITY,AUD,Other Borrowings,State Debt Raisings,2003-06-30,-206836730
+LIABILITY,AUD,Other Borrowings,State Debt Raisings,2004-06-30,-75004793
+LIABILITY,AUD,Other Borrowings,State Debt Raisings,2005-06-30,0
+LIABILITY,AUD,Other Borrowings,State Debt Raisings,2006-06-30,0
+LIABILITY,AUD,Other Borrowings,State Debt Raisings,2007-06-30,0
+LIABILITY,AUD,Other Borrowings,State Debt Raisings,2008-06-30,0
+LIABILITY,AUD,Other Borrowings,State Debt Raisings,2009-06-30,0
+LIABILITY,AUD,Other Borrowings,State Debt Raisings,2010-06-30,0
+LIABILITY,AUD,Other Borrowings,State Debt Raisings,2011-06-30,0
+LIABILITY,AUD,Other Borrowings,State Debt Raisings,2012-06-30,0
+LIABILITY,AUD,Other Borrowings,State Debt Raisings,2013-06-30,0
+LIABILITY,AUD,Other Borrowings,State Debt Raisings,2014-06-30,0
+LIABILITY,AUD,Other Borrowings,State Debt Raisings,2015-06-30,0
+LIABILITY,AUD,Other Borrowings,State Debt Raisings,2016-06-30,0
+LIABILITY,AUD,Other Borrowings,State Debt Raisings,2017-06-30,0
+LIABILITY,AUD,Other Borrowings,State Debt Raisings,2018-06-30,0
+LIABILITY,AUD,Other Borrowings,State Debt Raisings,2019-06-30,0
+LIABILITY,AUD,Other Borrowings,State Debt Raisings,2020-06-30,0
+LIABILITY,AUD,Other Borrowings,State Debt Raisings,2021-06-30,0
+LIABILITY,AUD,Other Borrowings,State Debt Raisings,2022-06-30,0
+LIABILITY,AUD,Other Borrowings,State Debt Raisings,2023-06-30,0
+LIABILITY,AUD,Other Borrowings,State Debt Raisings,2023-08-31,0
+LIABILITY,AUD,Other Borrowings,Total AUD Other Borrowings,2003-06-30,-506658384.01
+LIABILITY,AUD,Other Borrowings,Total AUD Other Borrowings,2004-06-30,-205697355.51
+LIABILITY,AUD,Other Borrowings,Total AUD Other Borrowings,2005-06-30,-65770728.92
+LIABILITY,AUD,Other Borrowings,Total AUD Other Borrowings,2006-06-30,-37716118.49
+LIABILITY,AUD,Other Borrowings,Total AUD Other Borrowings,2007-06-30,-36887841.98
+LIABILITY,AUD,Other Borrowings,Total AUD Other Borrowings,2008-06-30,-20221608.13
+LIABILITY,AUD,Other Borrowings,Total AUD Other Borrowings,2009-06-30,-15837492.23
+LIABILITY,AUD,Other Borrowings,Total AUD Other Borrowings,2010-06-30,-15186954.6
+LIABILITY,AUD,Other Borrowings,Total AUD Other Borrowings,2011-06-30,-13800895.11
+LIABILITY,AUD,Other Borrowings,Total AUD Other Borrowings,2012-06-30,-13691834.59
+LIABILITY,AUD,Other Borrowings,Total AUD Other Borrowings,2013-06-30,-13577419.68
+LIABILITY,AUD,Other Borrowings,Total AUD Other Borrowings,2014-06-30,-13642836.82
+LIABILITY,AUD,Other Borrowings,Total AUD Other Borrowings,2015-06-30,-13573253
+LIABILITY,AUD,Other Borrowings,Total AUD Other Borrowings,2016-06-30,-13572448
+LIABILITY,AUD,Other Borrowings,Total AUD Other Borrowings,2017-06-30,-6155853
+LIABILITY,AUD,Other Borrowings,Total AUD Other Borrowings,2018-06-30,-6134831
+LIABILITY,AUD,Other Borrowings,Total AUD Other Borrowings,2019-06-30,-5773991.38
+LIABILITY,AUD,Other Borrowings,Total AUD Other Borrowings,2020-06-30,-5717549.64
+LIABILITY,AUD,Other Borrowings,Total AUD Other Borrowings,2021-06-30,-5236810.23
+LIABILITY,AUD,Other Borrowings,Total AUD Other Borrowings,2022-06-30,-5206921.69
+LIABILITY,AUD,Other Borrowings,Total AUD Other Borrowings,2023-06-30,-5078038.27
+LIABILITY,AUD,Other Borrowings,Total AUD Other Borrowings,2023-08-31,-5078165.76
+LIABILITY,AUD,Interest Rate Swaps,Receive Fixed,2003-06-30,27618000000
+LIABILITY,AUD,Interest Rate Swaps,Receive Fixed,2004-06-30,28618000000
+LIABILITY,AUD,Interest Rate Swaps,Receive Fixed,2005-06-30,30518000000
+LIABILITY,AUD,Interest Rate Swaps,Receive Fixed,2006-06-30,25260000000
+LIABILITY,AUD,Interest Rate Swaps,Receive Fixed,2007-06-30,25960000000
+LIABILITY,AUD,Interest Rate Swaps,Receive Fixed,2008-06-30,21850000000
+LIABILITY,AUD,Interest Rate Swaps,Receive Fixed,2009-06-30,2425000000
+LIABILITY,AUD,Interest Rate Swaps,Receive Fixed,2010-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Fixed,2011-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Fixed,2012-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Fixed,2013-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Fixed,2014-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Fixed,2015-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Fixed,2016-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Fixed,2017-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Fixed,2018-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Fixed,2019-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Fixed,2020-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Fixed,2021-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Fixed,2022-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Fixed,2023-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Fixed,2023-08-31,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Floating,2003-06-30,-27618000000
+LIABILITY,AUD,Interest Rate Swaps,Pay Floating,2004-06-30,-28618000000
+LIABILITY,AUD,Interest Rate Swaps,Pay Floating,2005-06-30,-30518000000
+LIABILITY,AUD,Interest Rate Swaps,Pay Floating,2006-06-30,-25260000000
+LIABILITY,AUD,Interest Rate Swaps,Pay Floating,2007-06-30,-25960000000
+LIABILITY,AUD,Interest Rate Swaps,Pay Floating,2008-06-30,-21850000000
+LIABILITY,AUD,Interest Rate Swaps,Pay Floating,2009-06-30,-2425000000
+LIABILITY,AUD,Interest Rate Swaps,Pay Floating,2010-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Floating,2011-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Floating,2012-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Floating,2013-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Floating,2014-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Floating,2015-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Floating,2016-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Floating,2017-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Floating,2018-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Floating,2019-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Floating,2020-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Floating,2021-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Floating,2022-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Floating,2023-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Floating,2023-08-31,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Fixed,2003-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Fixed,2004-06-30,-3300000000
+LIABILITY,AUD,Interest Rate Swaps,Pay Fixed,2005-06-30,-5300000000
+LIABILITY,AUD,Interest Rate Swaps,Pay Fixed,2006-06-30,-3300000000
+LIABILITY,AUD,Interest Rate Swaps,Pay Fixed,2007-06-30,-3300000000
+LIABILITY,AUD,Interest Rate Swaps,Pay Fixed,2008-06-30,-1300000000
+LIABILITY,AUD,Interest Rate Swaps,Pay Fixed,2009-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Fixed,2010-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Fixed,2011-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Fixed,2012-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Fixed,2013-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Fixed,2014-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Fixed,2015-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Fixed,2016-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Fixed,2017-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Fixed,2018-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Fixed,2019-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Fixed,2020-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Fixed,2021-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Fixed,2022-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Fixed,2023-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Pay Fixed,2023-08-31,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Floating,2003-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Floating,2004-06-30,3300000000
+LIABILITY,AUD,Interest Rate Swaps,Receive Floating,2005-06-30,5300000000
+LIABILITY,AUD,Interest Rate Swaps,Receive Floating,2006-06-30,3300000000
+LIABILITY,AUD,Interest Rate Swaps,Receive Floating,2007-06-30,3300000000
+LIABILITY,AUD,Interest Rate Swaps,Receive Floating,2008-06-30,1300000000
+LIABILITY,AUD,Interest Rate Swaps,Receive Floating,2009-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Floating,2010-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Floating,2011-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Floating,2012-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Floating,2013-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Floating,2014-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Floating,2015-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Floating,2016-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Floating,2017-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Floating,2018-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Floating,2019-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Floating,2020-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Floating,2021-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Floating,2022-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Floating,2023-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Receive Floating,2023-08-31,0
+LIABILITY,AUD,Interest Rate Swaps,Total AUD Interest Rate Swaps,2003-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Total AUD Interest Rate Swaps,2004-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Total AUD Interest Rate Swaps,2005-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Total AUD Interest Rate Swaps,2006-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Total AUD Interest Rate Swaps,2007-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Total AUD Interest Rate Swaps,2008-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Total AUD Interest Rate Swaps,2009-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Total AUD Interest Rate Swaps,2010-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Total AUD Interest Rate Swaps,2011-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Total AUD Interest Rate Swaps,2012-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Total AUD Interest Rate Swaps,2013-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Total AUD Interest Rate Swaps,2014-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Total AUD Interest Rate Swaps,2015-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Total AUD Interest Rate Swaps,2016-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Total AUD Interest Rate Swaps,2017-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Total AUD Interest Rate Swaps,2018-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Total AUD Interest Rate Swaps,2019-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Total AUD Interest Rate Swaps,2020-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Total AUD Interest Rate Swaps,2021-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Total AUD Interest Rate Swaps,2022-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Total AUD Interest Rate Swaps,2023-06-30,0
+LIABILITY,AUD,Interest Rate Swaps,Total AUD Interest Rate Swaps,2023-08-31,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Fixed),2003-06-30,9606352372
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Fixed),2004-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Fixed),2005-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Fixed),2006-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Fixed),2007-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Fixed),2008-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Fixed),2009-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Fixed),2010-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Fixed),2011-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Fixed),2012-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Fixed),2013-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Fixed),2014-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Fixed),2015-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Fixed),2016-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Fixed),2017-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Fixed),2018-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Fixed),2019-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Fixed),2020-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Fixed),2021-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Fixed),2022-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Fixed),2023-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Fixed),2023-08-31,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Floating),2003-06-30,136000000
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Floating),2004-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Floating),2005-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Floating),2006-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Floating),2007-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Floating),2008-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Floating),2009-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Floating),2010-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Floating),2011-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Floating),2012-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Floating),2013-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Floating),2014-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Floating),2015-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Floating),2016-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Floating),2017-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Floating),2018-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Floating),2019-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Floating),2020-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Floating),2021-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Floating),2022-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Floating),2023-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Receive Floating),2023-08-31,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Pay Fixed),2003-06-30,-785143722
+LIABILITY,AUD,Cross Currency Swaps,AUD (Pay Fixed),2004-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Pay Fixed),2005-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Pay Fixed),2006-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Pay Fixed),2007-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Pay Fixed),2008-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Pay Fixed),2009-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Pay Fixed),2010-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Pay Fixed),2011-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Pay Fixed),2012-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Pay Fixed),2013-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Pay Fixed),2014-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Pay Fixed),2015-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Pay Fixed),2016-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Pay Fixed),2017-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Pay Fixed),2018-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Pay Fixed),2019-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Pay Fixed),2020-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Pay Fixed),2021-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Pay Fixed),2022-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Pay Fixed),2023-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,AUD (Pay Fixed),2023-08-31,0
+LIABILITY,AUD,Cross Currency Swaps,Total AUD Cross Currency Swaps,2003-06-30,8957208650
+LIABILITY,AUD,Cross Currency Swaps,Total AUD Cross Currency Swaps,2004-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,Total AUD Cross Currency Swaps,2005-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,Total AUD Cross Currency Swaps,2006-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,Total AUD Cross Currency Swaps,2007-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,Total AUD Cross Currency Swaps,2008-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,Total AUD Cross Currency Swaps,2009-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,Total AUD Cross Currency Swaps,2010-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,Total AUD Cross Currency Swaps,2011-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,Total AUD Cross Currency Swaps,2012-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,Total AUD Cross Currency Swaps,2013-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,Total AUD Cross Currency Swaps,2014-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,Total AUD Cross Currency Swaps,2015-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,Total AUD Cross Currency Swaps,2016-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,Total AUD Cross Currency Swaps,2017-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,Total AUD Cross Currency Swaps,2018-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,Total AUD Cross Currency Swaps,2019-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,Total AUD Cross Currency Swaps,2020-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,Total AUD Cross Currency Swaps,2021-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,Total AUD Cross Currency Swaps,2022-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,Total AUD Cross Currency Swaps,2023-06-30,0
+LIABILITY,AUD,Cross Currency Swaps,Total AUD Cross Currency Swaps,2023-08-31,0
+LIABILITY,AUD,Total AUD LIABILITY,Total AUD LIABILITY,2003-06-30,-47908592816.01
+LIABILITY,AUD,Total AUD LIABILITY,Total AUD LIABILITY,2004-06-30,-54494472403.51
+LIABILITY,AUD,Total AUD LIABILITY,Total AUD LIABILITY,2005-06-30,-55000292076.92
+LIABILITY,AUD,Total AUD LIABILITY,Total AUD LIABILITY,2006-06-30,-54061011118.49
+LIABILITY,AUD,Total AUD LIABILITY,Total AUD LIABILITY,2007-06-30,-53256330841.98
+LIABILITY,AUD,Total AUD LIABILITY,Total AUD LIABILITY,2008-06-30,-55435362608.13
+LIABILITY,AUD,Total AUD LIABILITY,Total AUD LIABILITY,2009-06-30,-101138973492.23
+LIABILITY,AUD,Total AUD LIABILITY,Total AUD LIABILITY,2010-06-30,-147125538954.6
+LIABILITY,AUD,Total AUD LIABILITY,Total AUD LIABILITY,2011-06-30,-191285700895.11
+LIABILITY,AUD,Total AUD LIABILITY,Total AUD LIABILITY,2012-06-30,-233970591834.59
+LIABILITY,AUD,Total AUD LIABILITY,Total AUD LIABILITY,2013-06-30,-257372077419.68
+LIABILITY,AUD,Total AUD LIABILITY,Total AUD LIABILITY,2014-06-30,-319481146836.82
+LIABILITY,AUD,Total AUD LIABILITY,Total AUD LIABILITY,2015-06-30,-368730611253
+LIABILITY,AUD,Total AUD LIABILITY,Total AUD LIABILITY,2016-06-30,-420412496448
+LIABILITY,AUD,Total AUD LIABILITY,Total AUD LIABILITY,2017-06-30,-500978962853
+LIABILITY,AUD,Total AUD LIABILITY,Total AUD LIABILITY,2018-06-30,-531936774831
+LIABILITY,AUD,Total AUD LIABILITY,Total AUD LIABILITY,2019-06-30,-541991848991.38
+LIABILITY,AUD,Total AUD LIABILITY,Total AUD LIABILITY,2020-06-30,-684297379549.64
+LIABILITY,AUD,Total AUD LIABILITY,Total AUD LIABILITY,2021-06-30,-816990559810.23
+LIABILITY,AUD,Total AUD LIABILITY,Total AUD LIABILITY,2022-06-30,-895252328921.69
+LIABILITY,AUD,Total AUD LIABILITY,Total AUD LIABILITY,2023-06-30,-889789744038.27
+LIABILITY,AUD,Total AUD LIABILITY,Total AUD LIABILITY,2023-08-31,-898279636165.76
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Floating),2003-06-30,-6832990716
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Floating),2004-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Floating),2005-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Floating),2006-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Floating),2007-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Floating),2008-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Floating),2009-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Floating),2010-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Floating),2011-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Floating),2012-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Floating),2013-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Floating),2014-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Floating),2015-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Floating),2016-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Floating),2017-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Floating),2018-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Floating),2019-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Floating),2020-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Floating),2021-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Floating),2022-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Floating),2023-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Floating),2023-08-31,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Fixed),2003-06-30,-3858330838
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Fixed),2004-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Fixed),2005-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Fixed),2006-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Fixed),2007-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Fixed),2008-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Fixed),2009-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Fixed),2010-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Fixed),2011-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Fixed),2012-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Fixed),2013-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Fixed),2014-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Fixed),2015-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Fixed),2016-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Fixed),2017-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Fixed),2018-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Fixed),2019-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Fixed),2020-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Fixed),2021-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Fixed),2022-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Fixed),2023-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Pay Fixed),2023-08-31,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Receive Fixed),2003-06-30,599340726
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Receive Fixed),2004-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Receive Fixed),2005-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Receive Fixed),2006-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Receive Fixed),2007-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Receive Fixed),2008-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Receive Fixed),2009-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Receive Fixed),2010-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Receive Fixed),2011-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Receive Fixed),2012-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Receive Fixed),2013-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Receive Fixed),2014-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Receive Fixed),2015-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Receive Fixed),2016-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Receive Fixed),2017-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Receive Fixed),2018-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Receive Fixed),2019-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Receive Fixed),2020-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Receive Fixed),2021-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Receive Fixed),2022-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Receive Fixed),2023-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,USD (Receive Fixed),2023-08-31,0
+LIABILITY,Non-AUD,Cross Currency Swaps,Total Non-AUD Cross Currency Swaps,2003-06-30,-10091980828
+LIABILITY,Non-AUD,Cross Currency Swaps,Total Non-AUD Cross Currency Swaps,2004-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,Total Non-AUD Cross Currency Swaps,2005-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,Total Non-AUD Cross Currency Swaps,2006-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,Total Non-AUD Cross Currency Swaps,2007-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,Total Non-AUD Cross Currency Swaps,2008-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,Total Non-AUD Cross Currency Swaps,2009-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,Total Non-AUD Cross Currency Swaps,2010-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,Total Non-AUD Cross Currency Swaps,2011-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,Total Non-AUD Cross Currency Swaps,2012-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,Total Non-AUD Cross Currency Swaps,2013-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,Total Non-AUD Cross Currency Swaps,2014-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,Total Non-AUD Cross Currency Swaps,2015-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,Total Non-AUD Cross Currency Swaps,2016-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,Total Non-AUD Cross Currency Swaps,2017-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,Total Non-AUD Cross Currency Swaps,2018-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,Total Non-AUD Cross Currency Swaps,2019-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,Total Non-AUD Cross Currency Swaps,2020-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,Total Non-AUD Cross Currency Swaps,2021-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,Total Non-AUD Cross Currency Swaps,2022-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,Total Non-AUD Cross Currency Swaps,2023-06-30,0
+LIABILITY,Non-AUD,Cross Currency Swaps,Total Non-AUD Cross Currency Swaps,2023-08-31,0
+LIABILITY,Non-AUD,Foreign Currency Loans,USD,2003-06-30,-178293378
+LIABILITY,Non-AUD,Foreign Currency Loans,USD,2004-06-30,-23142692
+LIABILITY,Non-AUD,Foreign Currency Loans,USD,2005-06-30,-23494828
+LIABILITY,Non-AUD,Foreign Currency Loans,USD,2006-06-30,-7158617
+LIABILITY,Non-AUD,Foreign Currency Loans,USD,2007-06-30,-6269589
+LIABILITY,Non-AUD,Foreign Currency Loans,USD,2008-06-30,-5527737
+LIABILITY,Non-AUD,Foreign Currency Loans,USD,2009-06-30,-6557801
+LIABILITY,Non-AUD,Foreign Currency Loans,USD,2010-06-30,-6243107
+LIABILITY,Non-AUD,Foreign Currency Loans,USD,2011-06-30,-4954838
+LIABILITY,Non-AUD,Foreign Currency Loans,USD,2012-06-30,-5221274
+LIABILITY,Non-AUD,Foreign Currency Loans,USD,2013-06-30,-5736927
+LIABILITY,Non-AUD,Foreign Currency Loans,USD,2014-06-30,-5648620
+LIABILITY,Non-AUD,Foreign Currency Loans,USD,2015-06-30,-6928385
+LIABILITY,Non-AUD,Foreign Currency Loans,USD,2016-06-30,-7165365
+LIABILITY,Non-AUD,Foreign Currency Loans,USD,2017-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,USD,2018-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,USD,2019-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,USD,2020-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,USD,2021-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,USD,2022-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,USD,2023-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,USD,2023-08-31,0
+LIABILITY,Non-AUD,Foreign Currency Loans,GBP,2003-06-30,-97976332
+LIABILITY,Non-AUD,Foreign Currency Loans,GBP,2004-06-30,-103705202
+LIABILITY,Non-AUD,Foreign Currency Loans,GBP,2005-06-30,-1192079
+LIABILITY,Non-AUD,Foreign Currency Loans,GBP,2006-06-30,-1243628
+LIABILITY,Non-AUD,Foreign Currency Loans,GBP,2007-06-30,-1185897
+LIABILITY,Non-AUD,Foreign Currency Loans,GBP,2008-06-30,-1040304
+LIABILITY,Non-AUD,Foreign Currency Loans,GBP,2009-06-30,-1031087
+LIABILITY,Non-AUD,Foreign Currency Loans,GBP,2010-06-30,-731079
+LIABILITY,Non-AUD,Foreign Currency Loans,GBP,2011-06-30,-621340
+LIABILITY,Non-AUD,Foreign Currency Loans,GBP,2012-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,GBP,2013-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,GBP,2014-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,GBP,2015-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,GBP,2016-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,GBP,2017-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,GBP,2018-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,GBP,2019-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,GBP,2020-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,GBP,2021-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,GBP,2022-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,GBP,2023-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,GBP,2023-08-31,0
+LIABILITY,Non-AUD,Foreign Currency Loans,Total Non-AUD Foreign Currency Loans,2003-06-30,-276269710
+LIABILITY,Non-AUD,Foreign Currency Loans,Total Non-AUD Foreign Currency Loans,2004-06-30,-126847894
+LIABILITY,Non-AUD,Foreign Currency Loans,Total Non-AUD Foreign Currency Loans,2005-06-30,-24686907
+LIABILITY,Non-AUD,Foreign Currency Loans,Total Non-AUD Foreign Currency Loans,2006-06-30,-8402245
+LIABILITY,Non-AUD,Foreign Currency Loans,Total Non-AUD Foreign Currency Loans,2007-06-30,-7455486
+LIABILITY,Non-AUD,Foreign Currency Loans,Total Non-AUD Foreign Currency Loans,2008-06-30,-6568041
+LIABILITY,Non-AUD,Foreign Currency Loans,Total Non-AUD Foreign Currency Loans,2009-06-30,-7588888
+LIABILITY,Non-AUD,Foreign Currency Loans,Total Non-AUD Foreign Currency Loans,2010-06-30,-6974186
+LIABILITY,Non-AUD,Foreign Currency Loans,Total Non-AUD Foreign Currency Loans,2011-06-30,-5576178
+LIABILITY,Non-AUD,Foreign Currency Loans,Total Non-AUD Foreign Currency Loans,2012-06-30,-5221274
+LIABILITY,Non-AUD,Foreign Currency Loans,Total Non-AUD Foreign Currency Loans,2013-06-30,-5736927
+LIABILITY,Non-AUD,Foreign Currency Loans,Total Non-AUD Foreign Currency Loans,2014-06-30,-5648620
+LIABILITY,Non-AUD,Foreign Currency Loans,Total Non-AUD Foreign Currency Loans,2015-06-30,-6928385
+LIABILITY,Non-AUD,Foreign Currency Loans,Total Non-AUD Foreign Currency Loans,2016-06-30,-7165365
+LIABILITY,Non-AUD,Foreign Currency Loans,Total Non-AUD Foreign Currency Loans,2017-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,Total Non-AUD Foreign Currency Loans,2018-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,Total Non-AUD Foreign Currency Loans,2019-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,Total Non-AUD Foreign Currency Loans,2020-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,Total Non-AUD Foreign Currency Loans,2021-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,Total Non-AUD Foreign Currency Loans,2022-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,Total Non-AUD Foreign Currency Loans,2023-06-30,0
+LIABILITY,Non-AUD,Foreign Currency Loans,Total Non-AUD Foreign Currency Loans,2023-08-31,0
+LIABILITY,Non-AUD,Foreign Overdue Loans,GBP,2003-06-30,-134123.155027241
+LIABILITY,Non-AUD,Foreign Overdue Loans,GBP,2004-06-30,-138466.26474443
+LIABILITY,Non-AUD,Foreign Overdue Loans,GBP,2005-06-30,-125058.901515152
+LIABILITY,Non-AUD,Foreign Overdue Loans,GBP,2006-06-30,-130464.015806372
+LIABILITY,Non-AUD,Foreign Overdue Loans,GBP,2007-06-30,-124704.62700661
+LIABILITY,Non-AUD,Foreign Overdue Loans,GBP,2008-06-30,-109390.92979913
+LIABILITY,Non-AUD,Foreign Overdue Loans,GBP,2009-06-30,-108425.451559934
+LIABILITY,Non-AUD,Foreign Overdue Loans,GBP,2010-06-30,-93231.3448641017
+LIABILITY,Non-AUD,Foreign Overdue Loans,GBP,2011-06-30,-79233.3583320834
+LIABILITY,Non-AUD,Foreign Overdue Loans,GBP,2012-06-30,-79376.4435595037
+LIABILITY,Non-AUD,Foreign Overdue Loans,GBP,2013-06-30,-85350.5928853755
+LIABILITY,Non-AUD,Foreign Overdue Loans,GBP,2014-06-30,-93698.9332851202
+LIABILITY,Non-AUD,Foreign Overdue Loans,GBP,2015-06-30,-106093
+LIABILITY,Non-AUD,Foreign Overdue Loans,GBP,2016-06-30,-93398
+LIABILITY,Non-AUD,Foreign Overdue Loans,GBP,2017-06-30,-87660
+LIABILITY,Non-AUD,Foreign Overdue Loans,GBP,2018-06-30,-91968
+LIABILITY,Non-AUD,Foreign Overdue Loans,GBP,2019-06-30,-93629.15
+LIABILITY,Non-AUD,Foreign Overdue Loans,GBP,2020-06-30,-92789.35
+LIABILITY,Non-AUD,Foreign Overdue Loans,GBP,2021-06-30,-95688.4
+LIABILITY,Non-AUD,Foreign Overdue Loans,GBP,2022-06-30,-91459.21
+LIABILITY,Non-AUD,Foreign Overdue Loans,GBP,2023-06-30,-98739.05
+LIABILITY,Non-AUD,Foreign Overdue Loans,GBP,2023-08-31,-101759.97
+LIABILITY,Non-AUD,Foreign Overdue Loans,JPY,2003-06-30,-5204.40055006876
+LIABILITY,Non-AUD,Foreign Overdue Loans,JPY,2004-06-30,-5564.02031542368
+LIABILITY,Non-AUD,Foreign Overdue Loans,JPY,2005-06-30,-4947.7062039458
+LIABILITY,Non-AUD,Foreign Overdue Loans,JPY,2006-06-30,-4891.31711902244
+LIABILITY,Non-AUD,Foreign Overdue Loans,JPY,2007-06-30,-3976.12225405922
+LIABILITY,Non-AUD,Foreign Overdue Loans,JPY,2008-06-30,-4084.17541450015
+LIABILITY,Non-AUD,Foreign Overdue Loans,JPY,2009-06-30,-5353.65226337449
+LIABILITY,Non-AUD,Foreign Overdue Loans,JPY,2010-06-30,-5516.83010866684
+LIABILITY,Non-AUD,Foreign Overdue Loans,JPY,2011-06-30,-4822.19390710066
+LIABILITY,Non-AUD,Foreign Overdue Loans,JPY,2012-06-30,-5146.49524044999
+LIABILITY,Non-AUD,Foreign Overdue Loans,JPY,2013-06-30,-4542.77608031427
+LIABILITY,Non-AUD,Foreign Overdue Loans,JPY,2014-06-30,-4362.3598449125
+LIABILITY,Non-AUD,Foreign Overdue Loans,JPY,2015-06-30,-4432
+LIABILITY,Non-AUD,Foreign Overdue Loans,JPY,2016-06-30,-5461
+LIABILITY,Non-AUD,Foreign Overdue Loans,JPY,2017-06-30,-4843
+LIABILITY,Non-AUD,Foreign Overdue Loans,JPY,2018-06-30,-5088
+LIABILITY,Non-AUD,Foreign Overdue Loans,JPY,2019-06-30,-5511.72
+LIABILITY,Non-AUD,Foreign Overdue Loans,JPY,2020-06-30,-5631.38
+LIABILITY,Non-AUD,Foreign Overdue Loans,JPY,2021-06-30,-5024.35
+LIABILITY,Non-AUD,Foreign Overdue Loans,JPY,2022-06-30,-4436.33
+LIABILITY,Non-AUD,Foreign Overdue Loans,JPY,2023-06-30,-4352.23
+LIABILITY,Non-AUD,Foreign Overdue Loans,JPY,2023-08-31,-4405.55
+LIABILITY,Non-AUD,Foreign Overdue Loans,EUR,2003-06-30,-6272.89
+LIABILITY,Non-AUD,Foreign Overdue Loans,EUR,2004-06-30,-6124.66075
+LIABILITY,Non-AUD,Foreign Overdue Loans,EUR,2005-06-30,-6783.099375
+LIABILITY,Non-AUD,Foreign Overdue Loans,EUR,2006-06-30,-6273.964125
+LIABILITY,Non-AUD,Foreign Overdue Loans,EUR,2007-06-30,-6778.802875
+LIABILITY,Non-AUD,Foreign Overdue Loans,EUR,2008-06-30,-6547.866
+LIABILITY,Non-AUD,Foreign Overdue Loans,EUR,2009-06-30,-6177.292875
+LIABILITY,Non-AUD,Foreign Overdue Loans,EUR,2010-06-30,-7496.318375
+LIABILITY,Non-AUD,Foreign Overdue Loans,EUR,2011-06-30,-7953.895625
+LIABILITY,Non-AUD,Foreign Overdue Loans,EUR,2012-06-30,-8691.8195
+LIABILITY,Non-AUD,Foreign Overdue Loans,EUR,2013-06-30,-7620.916875
+LIABILITY,Non-AUD,Foreign Overdue Loans,EUR,2014-06-30,-7417.90725
+LIABILITY,Non-AUD,Foreign Overdue Loans,EUR,2015-06-30,-7982
+LIABILITY,Non-AUD,Foreign Overdue Loans,EUR,2016-06-30,-8180
+LIABILITY,Non-AUD,Foreign Overdue Loans,EUR,2017-06-30,-8157
+LIABILITY,Non-AUD,Foreign Overdue Loans,EUR,2018-06-30,-8637
+LIABILITY,Non-AUD,Foreign Overdue Loans,EUR,2019-06-30,-8880.27
+LIABILITY,Non-AUD,Foreign Overdue Loans,EUR,2020-06-30,-8969.46
+LIABILITY,Non-AUD,Foreign Overdue Loans,EUR,2021-06-30,-8697.19
+LIABILITY,Non-AUD,Foreign Overdue Loans,EUR,2022-06-30,-8324.19
+LIABILITY,Non-AUD,Foreign Overdue Loans,EUR,2023-06-30,-8994.3
+LIABILITY,Non-AUD,Foreign Overdue Loans,EUR,2023-08-31,-9240.69
+LIABILITY,Non-AUD,Foreign Overdue Loans,CHF,2003-06-30,-56536.2880886427
+LIABILITY,Non-AUD,Foreign Overdue Loans,CHF,2004-06-30,-58507.0519435845
+LIABILITY,Non-AUD,Foreign Overdue Loans,CHF,2005-06-30,-52182.4503988546
+LIABILITY,Non-AUD,Foreign Overdue Loans,CHF,2006-06-30,-55763.9344262295
+LIABILITY,Non-AUD,Foreign Overdue Loans,CHF,2007-06-30,-60120.1838105338
+LIABILITY,Non-AUD,Foreign Overdue Loans,CHF,2008-06-30,-53006.4408892583
+LIABILITY,Non-AUD,Foreign Overdue Loans,CHF,2009-06-30,-62883.9043628297
+LIABILITY,Non-AUD,Foreign Overdue Loans,CHF,2010-06-30,-55316.565481353
+LIABILITY,Non-AUD,Foreign Overdue Loans,CHF,2011-06-30,-57156.9396213734
+LIABILITY,Non-AUD,Foreign Overdue Loans,CHF,2012-06-30,-52483.0281835013
+LIABILITY,Non-AUD,Foreign Overdue Loans,CHF,2013-06-30,-58286.4976010966
+LIABILITY,Non-AUD,Foreign Overdue Loans,CHF,2014-06-30,-60771.7960933778
+LIABILITY,Non-AUD,Foreign Overdue Loans,CHF,2015-06-30,-71415
+LIABILITY,Non-AUD,Foreign Overdue Loans,CHF,2016-06-30,-70062
+LIABILITY,Non-AUD,Foreign Overdue Loans,CHF,2017-06-30,-69513
+LIABILITY,Non-AUD,Foreign Overdue Loans,CHF,2018-06-30,-69431
+LIABILITY,Non-AUD,Foreign Overdue Loans,CHF,2019-06-30,-74560.68
+LIABILITY,Non-AUD,Foreign Overdue Loans,CHF,2020-06-30,-78098.24
+LIABILITY,Non-AUD,Foreign Overdue Loans,CHF,2021-06-30,-73829.29
+LIABILITY,Non-AUD,Foreign Overdue Loans,CHF,2022-06-30,-77619.08
+LIABILITY,Non-AUD,Foreign Overdue Loans,CHF,2023-06-30,-85716.4
+LIABILITY,Non-AUD,Foreign Overdue Loans,CHF,2023-08-31,-89639.65
+LIABILITY,Non-AUD,Foreign Overdue Loans,Total Non-AUD Foreign Overdue Loans,2003-06-30,-202136.733665953
+LIABILITY,Non-AUD,Foreign Overdue Loans,Total Non-AUD Foreign Overdue Loans,2004-06-30,-208661.997753438
+LIABILITY,Non-AUD,Foreign Overdue Loans,Total Non-AUD Foreign Overdue Loans,2005-06-30,-188972.157492952
+LIABILITY,Non-AUD,Foreign Overdue Loans,Total Non-AUD Foreign Overdue Loans,2006-06-30,-197393.231476624
+LIABILITY,Non-AUD,Foreign Overdue Loans,Total Non-AUD Foreign Overdue Loans,2007-06-30,-195579.735946203
+LIABILITY,Non-AUD,Foreign Overdue Loans,Total Non-AUD Foreign Overdue Loans,2008-06-30,-173029.412102889
+LIABILITY,Non-AUD,Foreign Overdue Loans,Total Non-AUD Foreign Overdue Loans,2009-06-30,-182840.301061138
+LIABILITY,Non-AUD,Foreign Overdue Loans,Total Non-AUD Foreign Overdue Loans,2010-06-30,-161561.058829121
+LIABILITY,Non-AUD,Foreign Overdue Loans,Total Non-AUD Foreign Overdue Loans,2011-06-30,-149166.387485557
+LIABILITY,Non-AUD,Foreign Overdue Loans,Total Non-AUD Foreign Overdue Loans,2012-06-30,-145697.786483455
+LIABILITY,Non-AUD,Foreign Overdue Loans,Total Non-AUD Foreign Overdue Loans,2013-06-30,-155800.783441786
+LIABILITY,Non-AUD,Foreign Overdue Loans,Total Non-AUD Foreign Overdue Loans,2014-06-30,-166250.996473411
+LIABILITY,Non-AUD,Foreign Overdue Loans,Total Non-AUD Foreign Overdue Loans,2015-06-30,-189922
+LIABILITY,Non-AUD,Foreign Overdue Loans,Total Non-AUD Foreign Overdue Loans,2016-06-30,-177101
+LIABILITY,Non-AUD,Foreign Overdue Loans,Total Non-AUD Foreign Overdue Loans,2017-06-30,-170173
+LIABILITY,Non-AUD,Foreign Overdue Loans,Total Non-AUD Foreign Overdue Loans,2018-06-30,-175124
+LIABILITY,Non-AUD,Foreign Overdue Loans,Total Non-AUD Foreign Overdue Loans,2019-06-30,-182581.82
+LIABILITY,Non-AUD,Foreign Overdue Loans,Total Non-AUD Foreign Overdue Loans,2020-06-30,-185488.43
+LIABILITY,Non-AUD,Foreign Overdue Loans,Total Non-AUD Foreign Overdue Loans,2021-06-30,-183239.23
+LIABILITY,Non-AUD,Foreign Overdue Loans,Total Non-AUD Foreign Overdue Loans,2022-06-30,-181838.81
+LIABILITY,Non-AUD,Foreign Overdue Loans,Total Non-AUD Foreign Overdue Loans,2023-06-30,-197801.98
+LIABILITY,Non-AUD,Foreign Overdue Loans,Total Non-AUD Foreign Overdue Loans,2023-08-31,-205045.86
+LIABILITY,Non-AUD,Total Non-AUD LIABILITY,Total Non-AUD LIABILITY,2003-06-30,-10368452674.7337
+LIABILITY,Non-AUD,Total Non-AUD LIABILITY,Total Non-AUD LIABILITY,2004-06-30,-127056555.997753
+LIABILITY,Non-AUD,Total Non-AUD LIABILITY,Total Non-AUD LIABILITY,2005-06-30,-24875879.157493
+LIABILITY,Non-AUD,Total Non-AUD LIABILITY,Total Non-AUD LIABILITY,2006-06-30,-8599638.23147662
+LIABILITY,Non-AUD,Total Non-AUD LIABILITY,Total Non-AUD LIABILITY,2007-06-30,-7651065.7359462
+LIABILITY,Non-AUD,Total Non-AUD LIABILITY,Total Non-AUD LIABILITY,2008-06-30,-6741070.41210289
+LIABILITY,Non-AUD,Total Non-AUD LIABILITY,Total Non-AUD LIABILITY,2009-06-30,-7771728.30106114
+LIABILITY,Non-AUD,Total Non-AUD LIABILITY,Total Non-AUD LIABILITY,2010-06-30,-7135747.05882912
+LIABILITY,Non-AUD,Total Non-AUD LIABILITY,Total Non-AUD LIABILITY,2011-06-30,-5725344.38748556
+LIABILITY,Non-AUD,Total Non-AUD LIABILITY,Total Non-AUD LIABILITY,2012-06-30,-5366971.78648346
+LIABILITY,Non-AUD,Total Non-AUD LIABILITY,Total Non-AUD LIABILITY,2013-06-30,-5892727.78344179
+LIABILITY,Non-AUD,Total Non-AUD LIABILITY,Total Non-AUD LIABILITY,2014-06-30,-5814870.99647341
+LIABILITY,Non-AUD,Total Non-AUD LIABILITY,Total Non-AUD LIABILITY,2015-06-30,-7118307
+LIABILITY,Non-AUD,Total Non-AUD LIABILITY,Total Non-AUD LIABILITY,2016-06-30,-7342466
+LIABILITY,Non-AUD,Total Non-AUD LIABILITY,Total Non-AUD LIABILITY,2017-06-30,-170173
+LIABILITY,Non-AUD,Total Non-AUD LIABILITY,Total Non-AUD LIABILITY,2018-06-30,-175124
+LIABILITY,Non-AUD,Total Non-AUD LIABILITY,Total Non-AUD LIABILITY,2019-06-30,-182581.82
+LIABILITY,Non-AUD,Total Non-AUD LIABILITY,Total Non-AUD LIABILITY,2020-06-30,-185488.43
+LIABILITY,Non-AUD,Total Non-AUD LIABILITY,Total Non-AUD LIABILITY,2021-06-30,-183239.23
+LIABILITY,Non-AUD,Total Non-AUD LIABILITY,Total Non-AUD LIABILITY,2022-06-30,-181838.81
+LIABILITY,Non-AUD,Total Non-AUD LIABILITY,Total Non-AUD LIABILITY,2023-06-30,-197801.98
+LIABILITY,Non-AUD,Total Non-AUD LIABILITY,Total Non-AUD LIABILITY,2023-08-31,-205045.86
+LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,2003-06-30,-58277045490.7437
+LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,2004-06-30,-54621528959.5078
+LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,2005-06-30,-55025167956.0775
+LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,2006-06-30,-54069610756.7215
+LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,2007-06-30,-53263981907.7159
+LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,2008-06-30,-55442103678.5421
+LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,2009-06-30,-101146745220.531
+LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,2010-06-30,-147132674701.659
+LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,2011-06-30,-191291426239.497
+LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,2012-06-30,-233975958806.376
+LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,2013-06-30,-257377970147.463
+LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,2014-06-30,-319486961707.817
+LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,2015-06-30,-368737729560
+LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,2016-06-30,-420419838914
+LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,2017-06-30,-500979133026
+LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,2018-06-30,-531936949955
+LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,2019-06-30,-541992031573.2
+LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,2020-06-30,-684297565038.07
+LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,2021-06-30,-816990743049.46
+LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,2022-06-30,-895252510760.5
+LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,2023-06-30,-889789941840.25
+LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,Total AUD/Non-AUD LIABILITY,2023-08-31,-898279841211.62
+ASSET,AUD,Main Asset Holdings,Deposits with the RBA,2003-06-30,12200000000
+ASSET,AUD,Main Asset Holdings,Deposits with the RBA,2004-06-30,14850000000
+ASSET,AUD,Main Asset Holdings,Deposits with the RBA,2005-06-30,25450000000
+ASSET,AUD,Main Asset Holdings,Deposits with the RBA,2006-06-30,18150000000
+ASSET,AUD,Main Asset Holdings,Deposits with the RBA,2007-06-30,20350000000
+ASSET,AUD,Main Asset Holdings,Deposits with the RBA,2008-06-30,29050000000
+ASSET,AUD,Main Asset Holdings,Deposits with the RBA,2009-06-30,26500000000
+ASSET,AUD,Main Asset Holdings,Deposits with the RBA,2010-06-30,14950000000
+ASSET,AUD,Main Asset Holdings,Deposits with the RBA,2011-06-30,10650000000
+ASSET,AUD,Main Asset Holdings,Deposits with the RBA,2012-06-30,14500000000
+ASSET,AUD,Main Asset Holdings,Deposits with the RBA,2013-06-30,20150000000
+ASSET,AUD,Main Asset Holdings,Deposits with the RBA,2014-06-30,27100000000
+ASSET,AUD,Main Asset Holdings,Deposits with the RBA,2015-06-30,34250000000
+ASSET,AUD,Main Asset Holdings,Deposits with the RBA,2016-06-30,28900000000
+ASSET,AUD,Main Asset Holdings,Deposits with the RBA,2017-06-30,56800000000
+ASSET,AUD,Main Asset Holdings,Deposits with the RBA,2018-06-30,45100000000
+ASSET,AUD,Main Asset Holdings,Deposits with the RBA,2019-06-30,31100000000
+ASSET,AUD,Main Asset Holdings,Deposits with the RBA,2020-06-30,69950000000
+ASSET,AUD,Main Asset Holdings,Deposits with the RBA,2021-06-30,56551427044.74
+ASSET,AUD,Main Asset Holdings,Deposits with the RBA,2022-06-30,86084992017
+ASSET,AUD,Main Asset Holdings,Deposits with the RBA,2023-06-30,82207245144.68
+ASSET,AUD,Main Asset Holdings,Deposits with the RBA,2023-08-31,74367422708.03
+ASSET,AUD,Main Asset Holdings,Short Dated Discount Securities,2003-06-30,0
+ASSET,AUD,Main Asset Holdings,Short Dated Discount Securities,2004-06-30,0
+ASSET,AUD,Main Asset Holdings,Short Dated Discount Securities,2005-06-30,0
+ASSET,AUD,Main Asset Holdings,Short Dated Discount Securities,2006-06-30,0
+ASSET,AUD,Main Asset Holdings,Short Dated Discount Securities,2007-06-30,0
+ASSET,AUD,Main Asset Holdings,Short Dated Discount Securities,2008-06-30,0
+ASSET,AUD,Main Asset Holdings,Short Dated Discount Securities,2009-06-30,1000000000
+ASSET,AUD,Main Asset Holdings,Short Dated Discount Securities,2010-06-30,4295000000
+ASSET,AUD,Main Asset Holdings,Short Dated Discount Securities,2011-06-30,3600000000
+ASSET,AUD,Main Asset Holdings,Short Dated Discount Securities,2012-06-30,0
+ASSET,AUD,Main Asset Holdings,Short Dated Discount Securities,2013-06-30,0
+ASSET,AUD,Main Asset Holdings,Short Dated Discount Securities,2014-06-30,0
+ASSET,AUD,Main Asset Holdings,Short Dated Discount Securities,2015-06-30,0
+ASSET,AUD,Main Asset Holdings,Short Dated Discount Securities,2016-06-30,0
+ASSET,AUD,Main Asset Holdings,Short Dated Discount Securities,2017-06-30,0
+ASSET,AUD,Main Asset Holdings,Short Dated Discount Securities,2018-06-30,0
+ASSET,AUD,Main Asset Holdings,Short Dated Discount Securities,2019-06-30,0
+ASSET,AUD,Main Asset Holdings,Short Dated Discount Securities,2020-06-30,0
+ASSET,AUD,Main Asset Holdings,Short Dated Discount Securities,2021-06-30,0
+ASSET,AUD,Main Asset Holdings,Short Dated Discount Securities,2022-06-30,0
+ASSET,AUD,Main Asset Holdings,Short Dated Discount Securities,2023-06-30,0
+ASSET,AUD,Main Asset Holdings,Short Dated Discount Securities,2023-08-31,0
+ASSET,AUD,Main Asset Holdings,Term Investments,2003-06-30,0
+ASSET,AUD,Main Asset Holdings,Term Investments,2004-06-30,0
+ASSET,AUD,Main Asset Holdings,Term Investments,2005-06-30,0
+ASSET,AUD,Main Asset Holdings,Term Investments,2006-06-30,0
+ASSET,AUD,Main Asset Holdings,Term Investments,2007-06-30,0
+ASSET,AUD,Main Asset Holdings,Term Investments,2008-06-30,0
+ASSET,AUD,Main Asset Holdings,Term Investments,2009-06-30,2024000000
+ASSET,AUD,Main Asset Holdings,Term Investments,2010-06-30,3552470000
+ASSET,AUD,Main Asset Holdings,Term Investments,2011-06-30,0
+ASSET,AUD,Main Asset Holdings,Term Investments,2012-06-30,0
+ASSET,AUD,Main Asset Holdings,Term Investments,2013-06-30,0
+ASSET,AUD,Main Asset Holdings,Term Investments,2014-06-30,0
+ASSET,AUD,Main Asset Holdings,Term Investments,2015-06-30,0
+ASSET,AUD,Main Asset Holdings,Term Investments,2016-06-30,0
+ASSET,AUD,Main Asset Holdings,Term Investments,2017-06-30,0
+ASSET,AUD,Main Asset Holdings,Term Investments,2018-06-30,0
+ASSET,AUD,Main Asset Holdings,Term Investments,2019-06-30,0
+ASSET,AUD,Main Asset Holdings,Term Investments,2020-06-30,0
+ASSET,AUD,Main Asset Holdings,Term Investments,2021-06-30,0
+ASSET,AUD,Main Asset Holdings,Term Investments,2022-06-30,0
+ASSET,AUD,Main Asset Holdings,Term Investments,2023-06-30,0
+ASSET,AUD,Main Asset Holdings,Term Investments,2023-08-31,0
+ASSET,AUD,Main Asset Holdings,Structured Finance Support Fund,2003-06-30,0
+ASSET,AUD,Main Asset Holdings,Structured Finance Support Fund,2004-06-30,0
+ASSET,AUD,Main Asset Holdings,Structured Finance Support Fund,2005-06-30,0
+ASSET,AUD,Main Asset Holdings,Structured Finance Support Fund,2006-06-30,0
+ASSET,AUD,Main Asset Holdings,Structured Finance Support Fund,2007-06-30,0
+ASSET,AUD,Main Asset Holdings,Structured Finance Support Fund,2008-06-30,0
+ASSET,AUD,Main Asset Holdings,Structured Finance Support Fund,2009-06-30,0
+ASSET,AUD,Main Asset Holdings,Structured Finance Support Fund,2010-06-30,0
+ASSET,AUD,Main Asset Holdings,Structured Finance Support Fund,2011-06-30,0
+ASSET,AUD,Main Asset Holdings,Structured Finance Support Fund,2012-06-30,0
+ASSET,AUD,Main Asset Holdings,Structured Finance Support Fund,2013-06-30,0
+ASSET,AUD,Main Asset Holdings,Structured Finance Support Fund,2014-06-30,0
+ASSET,AUD,Main Asset Holdings,Structured Finance Support Fund,2015-06-30,0
+ASSET,AUD,Main Asset Holdings,Structured Finance Support Fund,2016-06-30,0
+ASSET,AUD,Main Asset Holdings,Structured Finance Support Fund,2017-06-30,0
+ASSET,AUD,Main Asset Holdings,Structured Finance Support Fund,2018-06-30,0
+ASSET,AUD,Main Asset Holdings,Structured Finance Support Fund,2019-06-30,0
+ASSET,AUD,Main Asset Holdings,Structured Finance Support Fund,2020-06-30,1813043648.21
+ASSET,AUD,Main Asset Holdings,Structured Finance Support Fund,2021-06-30,1757670983.04
+ASSET,AUD,Main Asset Holdings,Structured Finance Support Fund,2022-06-30,695512363.1
+ASSET,AUD,Main Asset Holdings,Structured Finance Support Fund,2023-06-30,339778387.23
+ASSET,AUD,Main Asset Holdings,Structured Finance Support Fund,2023-08-31,299904620.51
+ASSET,AUD,Main Asset Holdings,Australian Business Securitisation Fund,2003-06-30,0
+ASSET,AUD,Main Asset Holdings,Australian Business Securitisation Fund,2004-06-30,0
+ASSET,AUD,Main Asset Holdings,Australian Business Securitisation Fund,2005-06-30,0
+ASSET,AUD,Main Asset Holdings,Australian Business Securitisation Fund,2006-06-30,0
+ASSET,AUD,Main Asset Holdings,Australian Business Securitisation Fund,2007-06-30,0
+ASSET,AUD,Main Asset Holdings,Australian Business Securitisation Fund,2008-06-30,0
+ASSET,AUD,Main Asset Holdings,Australian Business Securitisation Fund,2009-06-30,0
+ASSET,AUD,Main Asset Holdings,Australian Business Securitisation Fund,2010-06-30,0
+ASSET,AUD,Main Asset Holdings,Australian Business Securitisation Fund,2011-06-30,0
+ASSET,AUD,Main Asset Holdings,Australian Business Securitisation Fund,2012-06-30,0
+ASSET,AUD,Main Asset Holdings,Australian Business Securitisation Fund,2013-06-30,0
+ASSET,AUD,Main Asset Holdings,Australian Business Securitisation Fund,2014-06-30,0
+ASSET,AUD,Main Asset Holdings,Australian Business Securitisation Fund,2015-06-30,0
+ASSET,AUD,Main Asset Holdings,Australian Business Securitisation Fund,2016-06-30,0
+ASSET,AUD,Main Asset Holdings,Australian Business Securitisation Fund,2017-06-30,0
+ASSET,AUD,Main Asset Holdings,Australian Business Securitisation Fund,2018-06-30,0
+ASSET,AUD,Main Asset Holdings,Australian Business Securitisation Fund,2019-06-30,0
+ASSET,AUD,Main Asset Holdings,Australian Business Securitisation Fund,2020-06-30,14685895.85
+ASSET,AUD,Main Asset Holdings,Australian Business Securitisation Fund,2021-06-30,102188809.19
+ASSET,AUD,Main Asset Holdings,Australian Business Securitisation Fund,2022-06-30,111213580.59
+ASSET,AUD,Main Asset Holdings,Australian Business Securitisation Fund,2023-06-30,303066836.81
+ASSET,AUD,Main Asset Holdings,Australian Business Securitisation Fund,2023-08-31,292835739.63
+ASSET,AUD,Main Asset Holdings,Residential Mortgage-Backed Securities,2003-06-30,0
+ASSET,AUD,Main Asset Holdings,Residential Mortgage-Backed Securities,2004-06-30,0
+ASSET,AUD,Main Asset Holdings,Residential Mortgage-Backed Securities,2005-06-30,0
+ASSET,AUD,Main Asset Holdings,Residential Mortgage-Backed Securities,2006-06-30,0
+ASSET,AUD,Main Asset Holdings,Residential Mortgage-Backed Securities,2007-06-30,0
+ASSET,AUD,Main Asset Holdings,Residential Mortgage-Backed Securities,2008-06-30,0
+ASSET,AUD,Main Asset Holdings,Residential Mortgage-Backed Securities,2009-06-30,6024138860
+ASSET,AUD,Main Asset Holdings,Residential Mortgage-Backed Securities,2010-06-30,7919225123
+ASSET,AUD,Main Asset Holdings,Residential Mortgage-Backed Securities,2011-06-30,10829804706
+ASSET,AUD,Main Asset Holdings,Residential Mortgage-Backed Securities,2012-06-30,11201184658
+ASSET,AUD,Main Asset Holdings,Residential Mortgage-Backed Securities,2013-06-30,9079357523
+ASSET,AUD,Main Asset Holdings,Residential Mortgage-Backed Securities,2014-06-30,6016658450
+ASSET,AUD,Main Asset Holdings,Residential Mortgage-Backed Securities,2015-06-30,4261351035
+ASSET,AUD,Main Asset Holdings,Residential Mortgage-Backed Securities,2016-06-30,2813365202
+ASSET,AUD,Main Asset Holdings,Residential Mortgage-Backed Securities,2017-06-30,1918811213
+ASSET,AUD,Main Asset Holdings,Residential Mortgage-Backed Securities,2018-06-30,0
+ASSET,AUD,Main Asset Holdings,Residential Mortgage-Backed Securities,2019-06-30,0
+ASSET,AUD,Main Asset Holdings,Residential Mortgage-Backed Securities,2020-06-30,0
+ASSET,AUD,Main Asset Holdings,Residential Mortgage-Backed Securities,2021-06-30,0
+ASSET,AUD,Main Asset Holdings,Residential Mortgage-Backed Securities,2022-06-30,0
+ASSET,AUD,Main Asset Holdings,Residential Mortgage-Backed Securities,2023-06-30,0
+ASSET,AUD,Main Asset Holdings,Residential Mortgage-Backed Securities,2023-08-31,0
+ASSET,AUD,Main Asset Holdings,Total AUD Main Asset Holdings,2003-06-30,12200000000
+ASSET,AUD,Main Asset Holdings,Total AUD Main Asset Holdings,2004-06-30,14850000000
+ASSET,AUD,Main Asset Holdings,Total AUD Main Asset Holdings,2005-06-30,25450000000
+ASSET,AUD,Main Asset Holdings,Total AUD Main Asset Holdings,2006-06-30,18150000000
+ASSET,AUD,Main Asset Holdings,Total AUD Main Asset Holdings,2007-06-30,20350000000
+ASSET,AUD,Main Asset Holdings,Total AUD Main Asset Holdings,2008-06-30,29050000000
+ASSET,AUD,Main Asset Holdings,Total AUD Main Asset Holdings,2009-06-30,35548138860
+ASSET,AUD,Main Asset Holdings,Total AUD Main Asset Holdings,2010-06-30,30716695123
+ASSET,AUD,Main Asset Holdings,Total AUD Main Asset Holdings,2011-06-30,25079804706
+ASSET,AUD,Main Asset Holdings,Total AUD Main Asset Holdings,2012-06-30,25701184658
+ASSET,AUD,Main Asset Holdings,Total AUD Main Asset Holdings,2013-06-30,29229357523
+ASSET,AUD,Main Asset Holdings,Total AUD Main Asset Holdings,2014-06-30,33116658450
+ASSET,AUD,Main Asset Holdings,Total AUD Main Asset Holdings,2015-06-30,38511351035
+ASSET,AUD,Main Asset Holdings,Total AUD Main Asset Holdings,2016-06-30,31713365202
+ASSET,AUD,Main Asset Holdings,Total AUD Main Asset Holdings,2017-06-30,58718811213
+ASSET,AUD,Main Asset Holdings,Total AUD Main Asset Holdings,2018-06-30,45100000000
+ASSET,AUD,Main Asset Holdings,Total AUD Main Asset Holdings,2019-06-30,31100000000
+ASSET,AUD,Main Asset Holdings,Total AUD Main Asset Holdings,2020-06-30,71777729544.06
+ASSET,AUD,Main Asset Holdings,Total AUD Main Asset Holdings,2021-06-30,58411286836.97
+ASSET,AUD,Main Asset Holdings,Total AUD Main Asset Holdings,2022-06-30,86891717960.69
+ASSET,AUD,Main Asset Holdings,Total AUD Main Asset Holdings,2023-06-30,82850090368.72
+ASSET,AUD,Main Asset Holdings,Total AUD Main Asset Holdings,2023-08-31,74960163068.17
+ASSET,AUD,Other Asset Holdings,Tax Free Receivables,2003-06-30,10026642
+ASSET,AUD,Other Asset Holdings,Tax Free Receivables,2004-06-30,9996353
+ASSET,AUD,Other Asset Holdings,Tax Free Receivables,2005-06-30,9954005
+ASSET,AUD,Other Asset Holdings,Tax Free Receivables,2006-06-30,9940313
+ASSET,AUD,Other Asset Holdings,Tax Free Receivables,2007-06-30,9927229
+ASSET,AUD,Other Asset Holdings,Tax Free Receivables,2008-06-30,9506366
+ASSET,AUD,Other Asset Holdings,Tax Free Receivables,2009-06-30,9460529
+ASSET,AUD,Other Asset Holdings,Tax Free Receivables,2010-06-30,9386496
+ASSET,AUD,Other Asset Holdings,Tax Free Receivables,2011-06-30,8078846
+ASSET,AUD,Other Asset Holdings,Tax Free Receivables,2012-06-30,8078846
+ASSET,AUD,Other Asset Holdings,Tax Free Receivables,2013-06-30,8078846
+ASSET,AUD,Other Asset Holdings,Tax Free Receivables,2014-06-30,7978436
+ASSET,AUD,Other Asset Holdings,Tax Free Receivables,2015-06-30,7977536
+ASSET,AUD,Other Asset Holdings,Tax Free Receivables,2016-06-30,7973256
+ASSET,AUD,Other Asset Holdings,Tax Free Receivables,2017-06-30,243252
+ASSET,AUD,Other Asset Holdings,Tax Free Receivables,2018-06-30,237452
+ASSET,AUD,Other Asset Holdings,Tax Free Receivables,2019-06-30,237452.06
+ASSET,AUD,Other Asset Holdings,Tax Free Receivables,2020-06-30,237452.06
+ASSET,AUD,Other Asset Holdings,Tax Free Receivables,2021-06-30,225967.06
+ASSET,AUD,Other Asset Holdings,Tax Free Receivables,2022-06-30,180547.06
+ASSET,AUD,Other Asset Holdings,Tax Free Receivables,2023-06-30,144717.06
+ASSET,AUD,Other Asset Holdings,Tax Free Receivables,2023-08-31,144717.06
+ASSET,AUD,Other Asset Holdings,State Housing Advances,2003-06-30,3674871414.88
+ASSET,AUD,Other Asset Holdings,State Housing Advances,2004-06-30,3595049600.08
+ASSET,AUD,Other Asset Holdings,State Housing Advances,2005-06-30,3512840312.98
+ASSET,AUD,Other Asset Holdings,State Housing Advances,2006-06-30,3428434563.85
+ASSET,AUD,Other Asset Holdings,State Housing Advances,2007-06-30,3341902278.14
+ASSET,AUD,Other Asset Holdings,State Housing Advances,2008-06-30,3253252142.36
+ASSET,AUD,Other Asset Holdings,State Housing Advances,2009-06-30,3161992240.62
+ASSET,AUD,Other Asset Holdings,State Housing Advances,2010-06-30,3068475812.03
+ASSET,AUD,Other Asset Holdings,State Housing Advances,2011-06-30,2972748866.65
+ASSET,AUD,Other Asset Holdings,State Housing Advances,2012-06-30,2874875963.57
+ASSET,AUD,Other Asset Holdings,State Housing Advances,2013-06-30,2572935990.61
+ASSET,AUD,Other Asset Holdings,State Housing Advances,2014-06-30,2484261223.43
+ASSET,AUD,Other Asset Holdings,State Housing Advances,2015-06-30,2275272162
+ASSET,AUD,Other Asset Holdings,State Housing Advances,2016-06-30,2183042079
+ASSET,AUD,Other Asset Holdings,State Housing Advances,2017-06-30,2089094968
+ASSET,AUD,Other Asset Holdings,State Housing Advances,2018-06-30,1993158565
+ASSET,AUD,Other Asset Holdings,State Housing Advances,2019-06-30,1895345970.95
+ASSET,AUD,Other Asset Holdings,State Housing Advances,2020-06-30,1646543498.34
+ASSET,AUD,Other Asset Holdings,State Housing Advances,2021-06-30,1554081841.93
+ASSET,AUD,Other Asset Holdings,State Housing Advances,2022-06-30,1460409744.13
+ASSET,AUD,Other Asset Holdings,State Housing Advances,2023-06-30,1365624559.17
+ASSET,AUD,Other Asset Holdings,State Housing Advances,2023-08-31,1365624559.17
+ASSET,AUD,Other Asset Holdings,State Debt Receivables,2003-06-30,206836730
+ASSET,AUD,Other Asset Holdings,State Debt Receivables,2004-06-30,75004793
+ASSET,AUD,Other Asset Holdings,State Debt Receivables,2005-06-30,0
+ASSET,AUD,Other Asset Holdings,State Debt Receivables,2006-06-30,0
+ASSET,AUD,Other Asset Holdings,State Debt Receivables,2007-06-30,0
+ASSET,AUD,Other Asset Holdings,State Debt Receivables,2008-06-30,0
+ASSET,AUD,Other Asset Holdings,State Debt Receivables,2009-06-30,0
+ASSET,AUD,Other Asset Holdings,State Debt Receivables,2010-06-30,0
+ASSET,AUD,Other Asset Holdings,State Debt Receivables,2011-06-30,0
+ASSET,AUD,Other Asset Holdings,State Debt Receivables,2012-06-30,0
+ASSET,AUD,Other Asset Holdings,State Debt Receivables,2013-06-30,0
+ASSET,AUD,Other Asset Holdings,State Debt Receivables,2014-06-30,0
+ASSET,AUD,Other Asset Holdings,State Debt Receivables,2015-06-30,0
+ASSET,AUD,Other Asset Holdings,State Debt Receivables,2016-06-30,0
+ASSET,AUD,Other Asset Holdings,State Debt Receivables,2017-06-30,0
+ASSET,AUD,Other Asset Holdings,State Debt Receivables,2018-06-30,0
+ASSET,AUD,Other Asset Holdings,State Debt Receivables,2019-06-30,0
+ASSET,AUD,Other Asset Holdings,State Debt Receivables,2020-06-30,0
+ASSET,AUD,Other Asset Holdings,State Debt Receivables,2021-06-30,0
+ASSET,AUD,Other Asset Holdings,State Debt Receivables,2022-06-30,0
+ASSET,AUD,Other Asset Holdings,State Debt Receivables,2023-06-30,0
+ASSET,AUD,Other Asset Holdings,State Debt Receivables,2023-08-31,0
+ASSET,AUD,Other Asset Holdings,Total AUD Other Asset Holdings,2003-06-30,3891734786.88
+ASSET,AUD,Other Asset Holdings,Total AUD Other Asset Holdings,2004-06-30,3680050746.08
+ASSET,AUD,Other Asset Holdings,Total AUD Other Asset Holdings,2005-06-30,3522794317.98
+ASSET,AUD,Other Asset Holdings,Total AUD Other Asset Holdings,2006-06-30,3438374876.85
+ASSET,AUD,Other Asset Holdings,Total AUD Other Asset Holdings,2007-06-30,3351829507.14
+ASSET,AUD,Other Asset Holdings,Total AUD Other Asset Holdings,2008-06-30,3262758508.36
+ASSET,AUD,Other Asset Holdings,Total AUD Other Asset Holdings,2009-06-30,3171452769.62
+ASSET,AUD,Other Asset Holdings,Total AUD Other Asset Holdings,2010-06-30,3077862308.03
+ASSET,AUD,Other Asset Holdings,Total AUD Other Asset Holdings,2011-06-30,2980827712.65
+ASSET,AUD,Other Asset Holdings,Total AUD Other Asset Holdings,2012-06-30,2882954809.57
+ASSET,AUD,Other Asset Holdings,Total AUD Other Asset Holdings,2013-06-30,2581014836.61
+ASSET,AUD,Other Asset Holdings,Total AUD Other Asset Holdings,2014-06-30,2492239659.43
+ASSET,AUD,Other Asset Holdings,Total AUD Other Asset Holdings,2015-06-30,2283249698
+ASSET,AUD,Other Asset Holdings,Total AUD Other Asset Holdings,2016-06-30,2191015335
+ASSET,AUD,Other Asset Holdings,Total AUD Other Asset Holdings,2017-06-30,2089338220
+ASSET,AUD,Other Asset Holdings,Total AUD Other Asset Holdings,2018-06-30,1993396017
+ASSET,AUD,Other Asset Holdings,Total AUD Other Asset Holdings,2019-06-30,1895583423.01
+ASSET,AUD,Other Asset Holdings,Total AUD Other Asset Holdings,2020-06-30,1646780950.4
+ASSET,AUD,Other Asset Holdings,Total AUD Other Asset Holdings,2021-06-30,1554307808.99
+ASSET,AUD,Other Asset Holdings,Total AUD Other Asset Holdings,2022-06-30,1460590291.19
+ASSET,AUD,Other Asset Holdings,Total AUD Other Asset Holdings,2023-06-30,1365769276.23
+ASSET,AUD,Other Asset Holdings,Total AUD Other Asset Holdings,2023-08-31,1365769276.23
+ASSET,AUD,Total AUD ASSET,Total AUD ASSET,2003-06-30,16091734786.88
+ASSET,AUD,Total AUD ASSET,Total AUD ASSET,2004-06-30,18530050746.08
+ASSET,AUD,Total AUD ASSET,Total AUD ASSET,2005-06-30,28972794317.98
+ASSET,AUD,Total AUD ASSET,Total AUD ASSET,2006-06-30,21588374876.85
+ASSET,AUD,Total AUD ASSET,Total AUD ASSET,2007-06-30,23701829507.14
+ASSET,AUD,Total AUD ASSET,Total AUD ASSET,2008-06-30,32312758508.36
+ASSET,AUD,Total AUD ASSET,Total AUD ASSET,2009-06-30,38719591629.62
+ASSET,AUD,Total AUD ASSET,Total AUD ASSET,2010-06-30,33794557431.03
+ASSET,AUD,Total AUD ASSET,Total AUD ASSET,2011-06-30,28060632418.65
+ASSET,AUD,Total AUD ASSET,Total AUD ASSET,2012-06-30,28584139467.57
+ASSET,AUD,Total AUD ASSET,Total AUD ASSET,2013-06-30,31810372359.61
+ASSET,AUD,Total AUD ASSET,Total AUD ASSET,2014-06-30,35608898109.43
+ASSET,AUD,Total AUD ASSET,Total AUD ASSET,2015-06-30,40794600733
+ASSET,AUD,Total AUD ASSET,Total AUD ASSET,2016-06-30,33904380537
+ASSET,AUD,Total AUD ASSET,Total AUD ASSET,2017-06-30,60808149433
+ASSET,AUD,Total AUD ASSET,Total AUD ASSET,2018-06-30,47093396017
+ASSET,AUD,Total AUD ASSET,Total AUD ASSET,2019-06-30,32995583423.01
+ASSET,AUD,Total AUD ASSET,Total AUD ASSET,2020-06-30,73424510494.46
+ASSET,AUD,Total AUD ASSET,Total AUD ASSET,2021-06-30,59965594645.96
+ASSET,AUD,Total AUD ASSET,Total AUD ASSET,2022-06-30,88352308251.88
+ASSET,AUD,Total AUD ASSET,Total AUD ASSET,2023-06-30,84215859644.95
+ASSET,AUD,Total AUD ASSET,Total AUD ASSET,2023-08-31,76325932344.4
+ASSET,Non-AUD,Foreign Loan Receivables,GBP,2003-06-30,1246991
+ASSET,Non-AUD,Foreign Loan Receivables,GBP,2004-06-30,1319905
+ASSET,Non-AUD,Foreign Loan Receivables,GBP,2005-06-30,1192079
+ASSET,Non-AUD,Foreign Loan Receivables,GBP,2006-06-30,1243628
+ASSET,Non-AUD,Foreign Loan Receivables,GBP,2007-06-30,1185897
+ASSET,Non-AUD,Foreign Loan Receivables,GBP,2008-06-30,1040304
+ASSET,Non-AUD,Foreign Loan Receivables,GBP,2009-06-30,1031087
+ASSET,Non-AUD,Foreign Loan Receivables,GBP,2010-06-30,731079
+ASSET,Non-AUD,Foreign Loan Receivables,GBP,2011-06-30,621340
+ASSET,Non-AUD,Foreign Loan Receivables,GBP,2012-06-30,0
+ASSET,Non-AUD,Foreign Loan Receivables,GBP,2013-06-30,0
+ASSET,Non-AUD,Foreign Loan Receivables,GBP,2014-06-30,0
+ASSET,Non-AUD,Foreign Loan Receivables,GBP,2015-06-30,0
+ASSET,Non-AUD,Foreign Loan Receivables,GBP,2016-06-30,0
+ASSET,Non-AUD,Foreign Loan Receivables,GBP,2017-06-30,0
+ASSET,Non-AUD,Foreign Loan Receivables,GBP,2018-06-30,0
+ASSET,Non-AUD,Foreign Loan Receivables,GBP,2019-06-30,0
+ASSET,Non-AUD,Foreign Loan Receivables,GBP,2020-06-30,0
+ASSET,Non-AUD,Foreign Loan Receivables,GBP,2021-06-30,0
+ASSET,Non-AUD,Foreign Loan Receivables,GBP,2022-06-30,0
+ASSET,Non-AUD,Foreign Loan Receivables,GBP,2023-06-30,0
+ASSET,Non-AUD,Foreign Loan Receivables,GBP,2023-08-31,0
+ASSET,Non-AUD,Foreign Loan Receivables,Total Non-AUD Foreign Loan Receivables,2003-06-30,1246991
+ASSET,Non-AUD,Foreign Loan Receivables,Total Non-AUD Foreign Loan Receivables,2004-06-30,1319905
+ASSET,Non-AUD,Foreign Loan Receivables,Total Non-AUD Foreign Loan Receivables,2005-06-30,1192079
+ASSET,Non-AUD,Foreign Loan Receivables,Total Non-AUD Foreign Loan Receivables,2006-06-30,1243628
+ASSET,Non-AUD,Foreign Loan Receivables,Total Non-AUD Foreign Loan Receivables,2007-06-30,1185897
+ASSET,Non-AUD,Foreign Loan Receivables,Total Non-AUD Foreign Loan Receivables,2008-06-30,1040304
+ASSET,Non-AUD,Foreign Loan Receivables,Total Non-AUD Foreign Loan Receivables,2009-06-30,1031087
+ASSET,Non-AUD,Foreign Loan Receivables,Total Non-AUD Foreign Loan Receivables,2010-06-30,731079
+ASSET,Non-AUD,Foreign Loan Receivables,Total Non-AUD Foreign Loan Receivables,2011-06-30,621340
+ASSET,Non-AUD,Foreign Loan Receivables,Total Non-AUD Foreign Loan Receivables,2012-06-30,0
+ASSET,Non-AUD,Foreign Loan Receivables,Total Non-AUD Foreign Loan Receivables,2013-06-30,0
+ASSET,Non-AUD,Foreign Loan Receivables,Total Non-AUD Foreign Loan Receivables,2014-06-30,0
+ASSET,Non-AUD,Foreign Loan Receivables,Total Non-AUD Foreign Loan Receivables,2015-06-30,0
+ASSET,Non-AUD,Foreign Loan Receivables,Total Non-AUD Foreign Loan Receivables,2016-06-30,0
+ASSET,Non-AUD,Foreign Loan Receivables,Total Non-AUD Foreign Loan Receivables,2017-06-30,0
+ASSET,Non-AUD,Foreign Loan Receivables,Total Non-AUD Foreign Loan Receivables,2018-06-30,0
+ASSET,Non-AUD,Foreign Loan Receivables,Total Non-AUD Foreign Loan Receivables,2019-06-30,0
+ASSET,Non-AUD,Foreign Loan Receivables,Total Non-AUD Foreign Loan Receivables,2020-06-30,0
+ASSET,Non-AUD,Foreign Loan Receivables,Total Non-AUD Foreign Loan Receivables,2021-06-30,0
+ASSET,Non-AUD,Foreign Loan Receivables,Total Non-AUD Foreign Loan Receivables,2022-06-30,0
+ASSET,Non-AUD,Foreign Loan Receivables,Total Non-AUD Foreign Loan Receivables,2023-06-30,0
+ASSET,Non-AUD,Foreign Loan Receivables,Total Non-AUD Foreign Loan Receivables,2023-08-31,0
+ASSET,Non-AUD,Foreign Overdue Receivables,GBP,2003-06-30,4829.12332838039
+ASSET,Non-AUD,Foreign Overdue Receivables,GBP,2004-06-30,5111.40235910878
+ASSET,Non-AUD,Foreign Overdue Receivables,GBP,2005-06-30,4616.47727272727
+ASSET,Non-AUD,Foreign Overdue Receivables,GBP,2006-06-30,4816.00395159299
+ASSET,Non-AUD,Foreign Overdue Receivables,GBP,2007-06-30,4603.39943342776
+ASSET,Non-AUD,Foreign Overdue Receivables,GBP,2008-06-30,4038.1031269414
+ASSET,Non-AUD,Foreign Overdue Receivables,GBP,2009-06-30,4002.46305418719
+ASSET,Non-AUD,Foreign Overdue Receivables,GBP,2010-06-30,3441.58136251324
+ASSET,Non-AUD,Foreign Overdue Receivables,GBP,2011-06-30,2924.85375731213
+ASSET,Non-AUD,Foreign Overdue Receivables,GBP,2012-06-30,2986.67483534998
+ASSET,Non-AUD,Foreign Overdue Receivables,GBP,2013-06-30,3211.46245059289
+ASSET,Non-AUD,Foreign Overdue Receivables,GBP,2014-06-30,3525.58307720123
+ASSET,Non-AUD,Foreign Overdue Receivables,GBP,2015-06-30,3992
+ASSET,Non-AUD,Foreign Overdue Receivables,GBP,2016-06-30,3514
+ASSET,Non-AUD,Foreign Overdue Receivables,GBP,2017-06-30,3298
+ASSET,Non-AUD,Foreign Overdue Receivables,GBP,2018-06-30,3460
+ASSET,Non-AUD,Foreign Overdue Receivables,GBP,2019-06-30,3522.96
+ASSET,Non-AUD,Foreign Overdue Receivables,GBP,2020-06-30,3491.36
+ASSET,Non-AUD,Foreign Overdue Receivables,GBP,2021-06-30,3600.44
+ASSET,Non-AUD,Foreign Overdue Receivables,GBP,2022-06-30,3441.31
+ASSET,Non-AUD,Foreign Overdue Receivables,GBP,2023-06-30,3715.23
+ASSET,Non-AUD,Foreign Overdue Receivables,GBP,2023-08-31,3828.89
+ASSET,Non-AUD,Foreign Overdue Receivables,Total Non-AUD Foreign Overdue Receivables,2003-06-30,4829.12332838039
+ASSET,Non-AUD,Foreign Overdue Receivables,Total Non-AUD Foreign Overdue Receivables,2004-06-30,5111.40235910878
+ASSET,Non-AUD,Foreign Overdue Receivables,Total Non-AUD Foreign Overdue Receivables,2005-06-30,4616.47727272727
+ASSET,Non-AUD,Foreign Overdue Receivables,Total Non-AUD Foreign Overdue Receivables,2006-06-30,4816.00395159299
+ASSET,Non-AUD,Foreign Overdue Receivables,Total Non-AUD Foreign Overdue Receivables,2007-06-30,4603.39943342776
+ASSET,Non-AUD,Foreign Overdue Receivables,Total Non-AUD Foreign Overdue Receivables,2008-06-30,4038.1031269414
+ASSET,Non-AUD,Foreign Overdue Receivables,Total Non-AUD Foreign Overdue Receivables,2009-06-30,4002.46305418719
+ASSET,Non-AUD,Foreign Overdue Receivables,Total Non-AUD Foreign Overdue Receivables,2010-06-30,3441.58136251324
+ASSET,Non-AUD,Foreign Overdue Receivables,Total Non-AUD Foreign Overdue Receivables,2011-06-30,2924.85375731213
+ASSET,Non-AUD,Foreign Overdue Receivables,Total Non-AUD Foreign Overdue Receivables,2012-06-30,2986.67483534998
+ASSET,Non-AUD,Foreign Overdue Receivables,Total Non-AUD Foreign Overdue Receivables,2013-06-30,3211.46245059289
+ASSET,Non-AUD,Foreign Overdue Receivables,Total Non-AUD Foreign Overdue Receivables,2014-06-30,3525.58307720123
+ASSET,Non-AUD,Foreign Overdue Receivables,Total Non-AUD Foreign Overdue Receivables,2015-06-30,3992
+ASSET,Non-AUD,Foreign Overdue Receivables,Total Non-AUD Foreign Overdue Receivables,2016-06-30,3514
+ASSET,Non-AUD,Foreign Overdue Receivables,Total Non-AUD Foreign Overdue Receivables,2017-06-30,3298
+ASSET,Non-AUD,Foreign Overdue Receivables,Total Non-AUD Foreign Overdue Receivables,2018-06-30,3460
+ASSET,Non-AUD,Foreign Overdue Receivables,Total Non-AUD Foreign Overdue Receivables,2019-06-30,3522.96
+ASSET,Non-AUD,Foreign Overdue Receivables,Total Non-AUD Foreign Overdue Receivables,2020-06-30,3491.36
+ASSET,Non-AUD,Foreign Overdue Receivables,Total Non-AUD Foreign Overdue Receivables,2021-06-30,3600.44
+ASSET,Non-AUD,Foreign Overdue Receivables,Total Non-AUD Foreign Overdue Receivables,2022-06-30,3441.31
+ASSET,Non-AUD,Foreign Overdue Receivables,Total Non-AUD Foreign Overdue Receivables,2023-06-30,3715.23
+ASSET,Non-AUD,Foreign Overdue Receivables,Total Non-AUD Foreign Overdue Receivables,2023-08-31,3828.89
+ASSET,Non-AUD,Total Non-AUD ASSET,Total Non-AUD ASSET,2003-06-30,1251820.12332838
+ASSET,Non-AUD,Total Non-AUD ASSET,Total Non-AUD ASSET,2004-06-30,1325016.40235911
+ASSET,Non-AUD,Total Non-AUD ASSET,Total Non-AUD ASSET,2005-06-30,1196695.47727273
+ASSET,Non-AUD,Total Non-AUD ASSET,Total Non-AUD ASSET,2006-06-30,1248444.00395159
+ASSET,Non-AUD,Total Non-AUD ASSET,Total Non-AUD ASSET,2007-06-30,1190500.39943343
+ASSET,Non-AUD,Total Non-AUD ASSET,Total Non-AUD ASSET,2008-06-30,1044342.10312694
+ASSET,Non-AUD,Total Non-AUD ASSET,Total Non-AUD ASSET,2009-06-30,1035089.46305419
+ASSET,Non-AUD,Total Non-AUD ASSET,Total Non-AUD ASSET,2010-06-30,734520.581362513
+ASSET,Non-AUD,Total Non-AUD ASSET,Total Non-AUD ASSET,2011-06-30,624264.853757312
+ASSET,Non-AUD,Total Non-AUD ASSET,Total Non-AUD ASSET,2012-06-30,2986.67483534998
+ASSET,Non-AUD,Total Non-AUD ASSET,Total Non-AUD ASSET,2013-06-30,3211.46245059289
+ASSET,Non-AUD,Total Non-AUD ASSET,Total Non-AUD ASSET,2014-06-30,3525.58307720123
+ASSET,Non-AUD,Total Non-AUD ASSET,Total Non-AUD ASSET,2015-06-30,3992
+ASSET,Non-AUD,Total Non-AUD ASSET,Total Non-AUD ASSET,2016-06-30,3514
+ASSET,Non-AUD,Total Non-AUD ASSET,Total Non-AUD ASSET,2017-06-30,3298
+ASSET,Non-AUD,Total Non-AUD ASSET,Total Non-AUD ASSET,2018-06-30,3460
+ASSET,Non-AUD,Total Non-AUD ASSET,Total Non-AUD ASSET,2019-06-30,3522.96
+ASSET,Non-AUD,Total Non-AUD ASSET,Total Non-AUD ASSET,2020-06-30,3491.36
+ASSET,Non-AUD,Total Non-AUD ASSET,Total Non-AUD ASSET,2021-06-30,3600.44
+ASSET,Non-AUD,Total Non-AUD ASSET,Total Non-AUD ASSET,2022-06-30,3441.31
+ASSET,Non-AUD,Total Non-AUD ASSET,Total Non-AUD ASSET,2023-06-30,3715.23
+ASSET,Non-AUD,Total Non-AUD ASSET,Total Non-AUD ASSET,2023-08-31,3828.89
+ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2003-06-30,16092986607.0033
+ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2004-06-30,18531375762.4824
+ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2005-06-30,28973991013.4573
+ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2006-06-30,21589623320.854
+ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2007-06-30,23703020007.5394
+ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2008-06-30,32313802850.4631
+ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2009-06-30,38720626719.083
+ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2010-06-30,33795291951.6114
+ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2011-06-30,28061256683.5038
+ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2012-06-30,28584142454.2448
+ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2013-06-30,31810375571.0724
+ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2014-06-30,35608901635.0131
+ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2015-06-30,40794604725
+ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2016-06-30,33904384051
+ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2017-06-30,60808152731
+ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2018-06-30,47093399477
+ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2019-06-30,32995586945.97
+ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2020-06-30,73424513985.82
+ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2021-06-30,59965598246.4
+ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2022-06-30,88352311693.19
+ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2023-06-30,84215863360.18
+ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2023-08-31,76325936173.29
+Total Net LIABILITY and ASSET,Total Net LIABILITY and ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2003-06-30,-42184058883.7403
+Total Net LIABILITY and ASSET,Total Net LIABILITY and ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2004-06-30,-36090153197.0254
+Total Net LIABILITY and ASSET,Total Net LIABILITY and ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2005-06-30,-26051176942.6202
+Total Net LIABILITY and ASSET,Total Net LIABILITY and ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2006-06-30,-32479987435.8675
+Total Net LIABILITY and ASSET,Total Net LIABILITY and ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2007-06-30,-29560961900.1765
+Total Net LIABILITY and ASSET,Total Net LIABILITY and ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2008-06-30,-23128300828.079
+Total Net LIABILITY and ASSET,Total Net LIABILITY and ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2009-06-30,-62426118501.448
+Total Net LIABILITY and ASSET,Total Net LIABILITY and ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2010-06-30,-113337382750.047
+Total Net LIABILITY and ASSET,Total Net LIABILITY and ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2011-06-30,-163230169555.994
+Total Net LIABILITY and ASSET,Total Net LIABILITY and ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2012-06-30,-205391816352.132
+Total Net LIABILITY and ASSET,Total Net LIABILITY and ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2013-06-30,-225567594576.391
+Total Net LIABILITY and ASSET,Total Net LIABILITY and ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2014-06-30,-283878060072.803
+Total Net LIABILITY and ASSET,Total Net LIABILITY and ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2015-06-30,-327943124835
+Total Net LIABILITY and ASSET,Total Net LIABILITY and ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2016-06-30,-386515454863
+Total Net LIABILITY and ASSET,Total Net LIABILITY and ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2017-06-30,-440170980295
+Total Net LIABILITY and ASSET,Total Net LIABILITY and ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2018-06-30,-484843550478
+Total Net LIABILITY and ASSET,Total Net LIABILITY and ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2019-06-30,-508996444627.23
+Total Net LIABILITY and ASSET,Total Net LIABILITY and ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2020-06-30,-610873051052.25
+Total Net LIABILITY and ASSET,Total Net LIABILITY and ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2021-06-30,-757025144803.06
+Total Net LIABILITY and ASSET,Total Net LIABILITY and ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2022-06-30,-806900199067.31
+Total Net LIABILITY and ASSET,Total Net LIABILITY and ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2023-06-30,-805574078480.07
+Total Net LIABILITY and ASSET,Total Net LIABILITY and ASSET,Total AUD/Non-AUD ASSET,Total AUD/Non-AUD ASSET,2023-08-31,-821953905038.329

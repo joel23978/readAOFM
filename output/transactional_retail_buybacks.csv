@@ -1,0 +1,669 @@
+settle_date,security_type,security_maturity_date,name,value
+2014-02-18,Treasury Bond,2023-04-21,security_coupon_rate,5.5
+2014-02-18,Treasury Bond,2023-04-21,face_value_repurchased,5000
+2014-02-18,Treasury Bond,2023-04-21,security_price,112.559
+2014-02-18,Treasury Bond,2023-04-21,proceeds,5627.95
+2014-02-18,Treasury Bond,2017-02-15,security_coupon_rate,6
+2014-02-18,Treasury Bond,2017-02-15,face_value_repurchased,3000
+2014-02-18,Treasury Bond,2017-02-15,security_price,108.539
+2014-02-18,Treasury Bond,2017-02-15,proceeds,3256.17
+2014-02-20,Treasury Indexed Bond,2022-02-21,security_coupon_rate,1.25
+2014-02-20,Treasury Indexed Bond,2022-02-21,face_value_repurchased,10000
+2014-02-20,Treasury Indexed Bond,2022-02-21,security_price,102.194
+2014-02-20,Treasury Indexed Bond,2022-02-21,proceeds,10219.4
+2014-03-04,Treasury Bond,2020-04-15,security_coupon_rate,4.5
+2014-03-04,Treasury Bond,2020-04-15,face_value_repurchased,250000
+2014-03-04,Treasury Bond,2020-04-15,security_price,107.361
+2014-03-04,Treasury Bond,2020-04-15,proceeds,268402.5
+2014-03-04,Treasury Bond,2023-04-21,security_coupon_rate,5.5
+2014-03-04,Treasury Bond,2023-04-21,face_value_repurchased,4000
+2014-03-04,Treasury Bond,2023-04-21,security_price,114.377
+2014-03-04,Treasury Bond,2023-04-21,proceeds,4575.08
+2014-03-12,Treasury Bond,2016-06-15,security_coupon_rate,4.75
+2014-03-12,Treasury Bond,2016-06-15,face_value_repurchased,20000
+2014-03-12,Treasury Bond,2016-06-15,security_price,105.425
+2014-03-12,Treasury Bond,2016-06-15,proceeds,21085
+2014-03-12,Treasury Bond,2023-04-21,security_coupon_rate,5.5
+2014-03-12,Treasury Bond,2023-04-21,face_value_repurchased,11000
+2014-03-12,Treasury Bond,2023-04-21,security_price,112.885
+2014-03-12,Treasury Bond,2023-04-21,proceeds,12417.35
+2014-03-17,Treasury Bond,2019-03-15,security_coupon_rate,5.25
+2014-03-17,Treasury Bond,2019-03-15,face_value_repurchased,225000
+2014-03-17,Treasury Bond,2019-03-15,security_price,108.724
+2014-03-17,Treasury Bond,2019-03-15,proceeds,244629
+2014-03-25,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2014-03-25,Treasury Bond,2021-05-15,face_value_repurchased,1000
+2014-03-25,Treasury Bond,2021-05-15,security_price,114.175
+2014-03-25,Treasury Bond,2021-05-15,proceeds,1141.75
+2014-03-27,Treasury Bond,2019-03-15,security_coupon_rate,5.25
+2014-03-27,Treasury Bond,2019-03-15,face_value_repurchased,10000
+2014-03-27,Treasury Bond,2019-03-15,security_price,108.418
+2014-03-27,Treasury Bond,2019-03-15,proceeds,10841.8
+2014-04-04,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2014-04-04,Treasury Bond,2021-05-15,face_value_repurchased,1000
+2014-04-04,Treasury Bond,2021-05-15,security_price,114.103
+2014-04-04,Treasury Bond,2021-05-15,proceeds,1141.03
+2014-04-07,Treasury Bond,2029-04-21,security_coupon_rate,3.25
+2014-04-07,Treasury Bond,2029-04-21,face_value_repurchased,77000
+2014-04-07,Treasury Bond,2029-04-21,security_price,88.199
+2014-04-07,Treasury Bond,2029-04-21,proceeds,67913.23
+2014-04-07,Treasury Indexed Bond,2020-08-20,security_coupon_rate,4
+2014-04-07,Treasury Indexed Bond,2020-08-20,face_value_repurchased,23000
+2014-04-07,Treasury Indexed Bond,2020-08-20,security_price,185.023
+2014-04-07,Treasury Indexed Bond,2020-08-20,proceeds,42555.29
+2014-04-15,Treasury Bond,2017-02-15,security_coupon_rate,6
+2014-04-15,Treasury Bond,2017-02-15,face_value_repurchased,24650
+2014-04-15,Treasury Bond,2017-02-15,security_price,109.18
+2014-04-15,Treasury Bond,2017-02-15,proceeds,26912.87
+2014-04-15,Treasury Bond,2017-02-15,security_coupon_rate,6
+2014-04-15,Treasury Bond,2017-02-15,face_value_repurchased,717000
+2014-04-15,Treasury Bond,2017-02-15,security_price,109.18
+2014-04-15,Treasury Bond,2017-02-15,proceeds,782820.6
+2014-04-15,Treasury Bond,2017-02-15,security_coupon_rate,6
+2014-04-15,Treasury Bond,2017-02-15,face_value_repurchased,1092000
+2014-04-15,Treasury Bond,2017-02-15,security_price,109.18
+2014-04-15,Treasury Bond,2017-02-15,proceeds,1192245.6
+2014-04-16,Treasury Bond,2017-02-15,security_coupon_rate,6
+2014-04-16,Treasury Bond,2017-02-15,face_value_repurchased,3000
+2014-04-16,Treasury Bond,2017-02-15,security_price,109.267
+2014-04-16,Treasury Bond,2017-02-15,proceeds,3278.01
+2014-04-16,Treasury Bond,2023-04-21,security_coupon_rate,5.5
+2014-04-16,Treasury Bond,2023-04-21,face_value_repurchased,4000
+2014-04-16,Treasury Bond,2023-04-21,security_price,112.331
+2014-04-16,Treasury Bond,2023-04-21,proceeds,4493.24
+2014-04-28,Treasury Bond,2015-10-21,security_coupon_rate,4.75
+2014-04-28,Treasury Bond,2015-10-21,face_value_repurchased,65000
+2014-04-28,Treasury Bond,2015-10-21,security_price,103.151
+2014-04-28,Treasury Bond,2015-10-21,proceeds,67048.15
+2014-04-28,Treasury Indexed Bond,2015-08-20,security_coupon_rate,4
+2014-04-28,Treasury Indexed Bond,2015-08-20,face_value_repurchased,31000
+2014-04-28,Treasury Indexed Bond,2015-08-20,security_price,179.748
+2014-04-28,Treasury Indexed Bond,2015-08-20,proceeds,55721.88
+2014-05-06,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2014-05-06,Treasury Bond,2021-05-15,face_value_repurchased,600000
+2014-05-06,Treasury Bond,2021-05-15,security_price,116.218
+2014-05-06,Treasury Bond,2021-05-15,proceeds,697308
+2014-05-06,Treasury Indexed Bond,2030-09-20,security_coupon_rate,2.5
+2014-05-06,Treasury Indexed Bond,2030-09-20,face_value_repurchased,25000
+2014-05-06,Treasury Indexed Bond,2030-09-20,security_price,122.82
+2014-05-06,Treasury Indexed Bond,2030-09-20,proceeds,30705
+2014-05-08,Treasury Indexed Bond,2015-08-20,security_coupon_rate,4
+2014-05-08,Treasury Indexed Bond,2015-08-20,face_value_repurchased,68000
+2014-05-08,Treasury Indexed Bond,2015-08-20,security_price,180.194
+2014-05-08,Treasury Indexed Bond,2015-08-20,proceeds,122531.92
+2014-05-12,Treasury Bond,2023-04-21,security_coupon_rate,5.5
+2014-05-12,Treasury Bond,2023-04-21,face_value_repurchased,4000
+2014-05-12,Treasury Bond,2023-04-21,security_price,113.586
+2014-05-12,Treasury Bond,2023-04-21,proceeds,4543.44
+2014-05-12,Treasury Bond,2022-07-15,security_coupon_rate,5.75
+2014-05-12,Treasury Bond,2022-07-15,face_value_repurchased,2000
+2014-05-12,Treasury Bond,2022-07-15,security_price,116.412
+2014-05-12,Treasury Bond,2022-07-15,proceeds,2328.24
+2014-05-12,Treasury Bond,2017-02-15,security_coupon_rate,6
+2014-05-12,Treasury Bond,2017-02-15,face_value_repurchased,4000
+2014-05-12,Treasury Bond,2017-02-15,security_price,109.783
+2014-05-12,Treasury Bond,2017-02-15,proceeds,4391.32
+2014-05-19,Treasury Indexed Bond,2015-08-20,security_coupon_rate,4
+2014-05-19,Treasury Indexed Bond,2015-08-20,face_value_repurchased,110000
+2014-05-19,Treasury Indexed Bond,2015-08-20,security_price,178.809
+2014-05-19,Treasury Indexed Bond,2015-08-20,proceeds,196689.9
+2014-05-22,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2014-05-22,Treasury Bond,2021-05-15,face_value_repurchased,57000
+2014-05-22,Treasury Bond,2021-05-15,security_price,114.704
+2014-05-22,Treasury Bond,2021-05-15,proceeds,65381.28
+2014-05-23,Treasury Bond,2017-02-15,security_coupon_rate,6
+2014-05-23,Treasury Bond,2017-02-15,face_value_repurchased,46350
+2014-05-23,Treasury Bond,2017-02-15,security_price,109.933
+2014-05-23,Treasury Bond,2017-02-15,proceeds,50953.9455
+2014-05-26,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2014-05-26,Treasury Bond,2021-05-15,face_value_repurchased,44000
+2014-05-26,Treasury Bond,2021-05-15,security_price,114.299
+2014-05-26,Treasury Bond,2021-05-15,proceeds,50291.56
+2014-05-26,Treasury Bond,2023-04-21,security_coupon_rate,5.5
+2014-05-26,Treasury Bond,2023-04-21,face_value_repurchased,71000
+2014-05-26,Treasury Bond,2023-04-21,security_price,114.397
+2014-05-26,Treasury Bond,2023-04-21,proceeds,81221.87
+2014-05-26,Treasury Indexed Bond,2020-08-20,security_coupon_rate,4
+2014-05-26,Treasury Indexed Bond,2020-08-20,face_value_repurchased,36000
+2014-05-26,Treasury Indexed Bond,2020-08-20,security_price,188.089
+2014-05-26,Treasury Indexed Bond,2020-08-20,proceeds,67712.04
+2014-05-26,Treasury Indexed Bond,2025-09-20,security_coupon_rate,3
+2014-05-26,Treasury Indexed Bond,2025-09-20,face_value_repurchased,21000
+2014-05-26,Treasury Indexed Bond,2025-09-20,security_price,133.418
+2014-05-26,Treasury Indexed Bond,2025-09-20,proceeds,28017.78
+2014-05-30,Treasury Bond,2015-04-15,security_coupon_rate,6.25
+2014-05-30,Treasury Bond,2015-04-15,face_value_repurchased,18000
+2014-05-30,Treasury Bond,2015-04-15,security_price,103.953
+2014-05-30,Treasury Bond,2015-04-15,proceeds,18711.54
+2014-05-30,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2014-05-30,Treasury Bond,2021-05-15,face_value_repurchased,1000
+2014-05-30,Treasury Bond,2021-05-15,security_price,114.921
+2014-05-30,Treasury Bond,2021-05-15,proceeds,1149.21
+2014-06-03,Treasury Bond,2017-02-15,security_coupon_rate,6
+2014-06-03,Treasury Bond,2017-02-15,face_value_repurchased,3000
+2014-06-03,Treasury Bond,2017-02-15,security_price,110.203
+2014-06-03,Treasury Bond,2017-02-15,proceeds,3306.09
+2014-06-16,Treasury Bond,2015-04-15,security_coupon_rate,6.25
+2014-06-16,Treasury Bond,2015-04-15,face_value_repurchased,900000
+2014-06-16,Treasury Bond,2015-04-15,security_price,104.14
+2014-06-16,Treasury Bond,2015-04-15,proceeds,937260
+2014-06-25,Treasury Bond,2017-02-15,security_coupon_rate,6
+2014-06-25,Treasury Bond,2017-02-15,face_value_repurchased,86000
+2014-06-25,Treasury Bond,2017-02-15,security_price,110.726
+2014-06-25,Treasury Bond,2017-02-15,proceeds,95224.36
+2014-07-04,Treasury Bond,2022-07-15,security_coupon_rate,5.75
+2014-07-04,Treasury Bond,2022-07-15,face_value_repurchased,15000
+2014-07-04,Treasury Bond,2022-07-15,security_price,118.993
+2014-07-04,Treasury Bond,2022-07-15,proceeds,17848.95
+2014-07-07,Treasury Bond,2027-04-21,security_coupon_rate,4.75
+2014-07-07,Treasury Bond,2027-04-21,face_value_repurchased,150000
+2014-07-07,Treasury Bond,2027-04-21,security_price,110.381
+2014-07-07,Treasury Bond,2027-04-21,proceeds,165571.5
+2014-07-11,Treasury Indexed Bond,2015-08-20,security_coupon_rate,4
+2014-07-11,Treasury Indexed Bond,2015-08-20,face_value_repurchased,2000
+2014-07-11,Treasury Indexed Bond,2015-08-20,security_price,179.51
+2014-07-11,Treasury Indexed Bond,2015-08-20,proceeds,3590.2
+2014-07-15,Treasury Indexed Bond,2015-08-20,security_coupon_rate,4
+2014-07-15,Treasury Indexed Bond,2015-08-20,face_value_repurchased,118000
+2014-07-15,Treasury Indexed Bond,2015-08-20,security_price,179.512
+2014-07-15,Treasury Indexed Bond,2015-08-20,proceeds,211824.16
+2014-07-18,Treasury Bond,2015-04-15,security_coupon_rate,6.25
+2014-07-18,Treasury Bond,2015-04-15,face_value_repurchased,2000
+2014-07-18,Treasury Bond,2015-04-15,security_price,104.368
+2014-07-18,Treasury Bond,2015-04-15,proceeds,2087.36
+2014-08-07,Treasury Indexed Bond,2015-08-20,security_coupon_rate,4
+2014-08-07,Treasury Indexed Bond,2015-08-20,face_value_repurchased,108000
+2014-08-07,Treasury Indexed Bond,2015-08-20,security_price,179.746
+2014-08-07,Treasury Indexed Bond,2015-08-20,proceeds,194125.68
+2014-08-19,Treasury Indexed Bond,2020-08-20,security_coupon_rate,4
+2014-08-19,Treasury Indexed Bond,2020-08-20,face_value_repurchased,3000
+2014-08-19,Treasury Indexed Bond,2020-08-20,security_price,190.006
+2014-08-19,Treasury Indexed Bond,2020-08-20,proceeds,5700.18
+2014-09-03,Treasury Indexed Bond,2025-09-20,security_coupon_rate,3
+2014-09-03,Treasury Indexed Bond,2025-09-20,face_value_repurchased,54000
+2014-09-03,Treasury Indexed Bond,2025-09-20,security_price,137.03
+2014-09-03,Treasury Indexed Bond,2025-09-20,proceeds,73996.2
+2014-09-05,Treasury Bond,2017-02-15,security_coupon_rate,6
+2014-09-05,Treasury Bond,2017-02-15,face_value_repurchased,100000
+2014-09-05,Treasury Bond,2017-02-15,security_price,108.124
+2014-09-05,Treasury Bond,2017-02-15,proceeds,108124
+2014-09-05,Treasury Bond,2015-04-15,security_coupon_rate,6.25
+2014-09-05,Treasury Bond,2015-04-15,face_value_repurchased,494000
+2014-09-05,Treasury Bond,2015-04-15,security_price,104.695
+2014-09-05,Treasury Bond,2015-04-15,proceeds,517193.3
+2014-09-16,Treasury Bond,2017-02-15,security_coupon_rate,6
+2014-09-16,Treasury Bond,2017-02-15,face_value_repurchased,13000
+2014-09-16,Treasury Bond,2017-02-15,security_price,108.014
+2014-09-16,Treasury Bond,2017-02-15,proceeds,14041.82
+2014-10-02,Treasury Bond,2015-10-21,security_coupon_rate,4.75
+2014-10-02,Treasury Bond,2015-10-21,face_value_repurchased,1000000
+2014-10-02,Treasury Bond,2015-10-21,security_price,104.374
+2014-10-02,Treasury Bond,2015-10-21,proceeds,1043740
+2014-10-13,Treasury Indexed Bond,2015-08-20,security_coupon_rate,4
+2014-10-13,Treasury Indexed Bond,2015-08-20,face_value_repurchased,2000
+2014-10-13,Treasury Indexed Bond,2015-08-20,security_price,178.83
+2014-10-13,Treasury Indexed Bond,2015-08-20,proceeds,3576.6
+2014-10-13,Treasury Indexed Bond,2020-08-20,security_coupon_rate,4
+2014-10-13,Treasury Indexed Bond,2020-08-20,face_value_repurchased,2000
+2014-10-13,Treasury Indexed Bond,2020-08-20,security_price,191.311
+2014-10-13,Treasury Indexed Bond,2020-08-20,proceeds,3826.22
+2014-10-17,Treasury Bond,2015-04-15,security_coupon_rate,6.25
+2014-10-17,Treasury Bond,2015-04-15,face_value_repurchased,13000
+2014-10-17,Treasury Bond,2015-04-15,security_price,101.869000437694
+2014-10-17,Treasury Bond,2015-04-15,proceeds,13242.97005690022
+2014-10-17,Treasury Bond,2015-04-15,security_coupon_rate,6.25
+2014-10-17,Treasury Bond,2015-04-15,face_value_repurchased,1000
+2014-10-17,Treasury Bond,2015-04-15,security_price,101.869000437694
+2014-10-17,Treasury Bond,2015-04-15,proceeds,1018.69000437694
+2014-10-17,Treasury Bond,2017-02-15,security_coupon_rate,6
+2014-10-17,Treasury Bond,2017-02-15,face_value_repurchased,1000
+2014-10-17,Treasury Bond,2017-02-15,security_price,108.849
+2014-10-17,Treasury Bond,2017-02-15,proceeds,1088.49
+2014-10-17,Treasury Bond,2022-07-15,security_coupon_rate,5.75
+2014-10-17,Treasury Bond,2022-07-15,face_value_repurchased,1000
+2014-10-17,Treasury Bond,2022-07-15,security_price,119.747
+2014-10-17,Treasury Bond,2022-07-15,proceeds,1197.47
+2014-10-17,Treasury Bond,2023-04-21,security_coupon_rate,5.5
+2014-10-17,Treasury Bond,2023-04-21,face_value_repurchased,1000
+2014-10-17,Treasury Bond,2023-04-21,security_price,117.398
+2014-10-17,Treasury Bond,2023-04-21,proceeds,1173.98
+2014-11-18,Treasury Bond,2017-07-21,security_coupon_rate,4.25
+2014-11-18,Treasury Bond,2017-07-21,face_value_repurchased,258000
+2014-11-18,Treasury Bond,2017-07-21,security_price,105.696
+2014-11-18,Treasury Bond,2017-07-21,proceeds,272695.68
+2014-11-25,Treasury Bond,2019-03-15,security_coupon_rate,5.25
+2014-11-25,Treasury Bond,2019-03-15,face_value_repurchased,250000
+2014-11-25,Treasury Bond,2019-03-15,security_price,111.669
+2014-11-25,Treasury Bond,2019-03-15,proceeds,279172.5
+2014-12-01,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2014-12-01,Treasury Bond,2021-05-15,face_value_repurchased,100000
+2014-12-01,Treasury Bond,2021-05-15,security_price,118.206
+2014-12-01,Treasury Bond,2021-05-15,proceeds,118206
+2014-12-10,Treasury Bond,2020-04-15,security_coupon_rate,4.5
+2014-12-10,Treasury Bond,2020-04-15,face_value_repurchased,2000
+2014-12-10,Treasury Bond,2020-04-15,security_price,110.613
+2014-12-10,Treasury Bond,2020-04-15,proceeds,2212.26
+2014-12-17,Treasury Bond,2019-03-15,security_coupon_rate,5.25
+2014-12-17,Treasury Bond,2019-03-15,face_value_repurchased,170000
+2014-12-17,Treasury Bond,2019-03-15,security_price,113.341
+2014-12-17,Treasury Bond,2019-03-15,proceeds,192679.7
+2014-12-23,Treasury Indexed Bond,2015-08-20,security_coupon_rate,4
+2014-12-23,Treasury Indexed Bond,2015-08-20,face_value_repurchased,6000
+2014-12-23,Treasury Indexed Bond,2015-08-20,security_price,177.442
+2014-12-23,Treasury Indexed Bond,2015-08-20,proceeds,10646.52
+2014-12-23,Treasury Bond,2016-06-15,security_coupon_rate,4.75
+2014-12-23,Treasury Bond,2016-06-15,face_value_repurchased,30000
+2014-12-23,Treasury Bond,2016-06-15,security_price,103.657
+2014-12-23,Treasury Bond,2016-06-15,proceeds,31097.1
+2014-12-23,Treasury Bond,2015-10-21,security_coupon_rate,4.75
+2014-12-23,Treasury Bond,2015-10-21,face_value_repurchased,386000
+2014-12-23,Treasury Bond,2015-10-21,security_price,102.805
+2014-12-23,Treasury Bond,2015-10-21,proceeds,396827.3
+2015-01-08,Treasury Indexed Bond,2022-02-21,security_coupon_rate,1.25
+2015-01-08,Treasury Indexed Bond,2022-02-21,face_value_repurchased,1000
+2015-01-08,Treasury Indexed Bond,2022-02-21,security_price,112.431
+2015-01-08,Treasury Indexed Bond,2022-02-21,proceeds,1124.31
+2015-01-19,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2015-01-19,Treasury Bond,2021-05-15,face_value_repurchased,60000
+2015-01-19,Treasury Bond,2021-05-15,security_price,120.923
+2015-01-19,Treasury Bond,2021-05-15,proceeds,72553.8
+2015-01-19,Treasury Bond,2017-02-15,security_coupon_rate,6
+2015-01-19,Treasury Bond,2017-02-15,face_value_repurchased,40000
+2015-01-19,Treasury Bond,2017-02-15,security_price,110.284
+2015-01-19,Treasury Bond,2017-02-15,proceeds,44113.6
+2015-01-19,Treasury Bond,2015-04-15,security_coupon_rate,6.25
+2015-01-19,Treasury Bond,2015-04-15,face_value_repurchased,48000
+2015-01-19,Treasury Bond,2015-04-15,security_price,102.532000137648
+2015-01-19,Treasury Bond,2015-04-15,proceeds,49215.36006607104
+2015-01-19,Treasury Bond,2018-01-21,security_coupon_rate,5.5
+2015-01-19,Treasury Bond,2018-01-21,face_value_repurchased,22000
+2015-01-19,Treasury Bond,2018-01-21,security_price,109.697
+2015-01-19,Treasury Bond,2018-01-21,proceeds,24133.34
+2015-01-19,Treasury Bond,2022-07-15,security_coupon_rate,5.75
+2015-01-19,Treasury Bond,2022-07-15,face_value_repurchased,60000
+2015-01-19,Treasury Bond,2022-07-15,security_price,122.555
+2015-01-19,Treasury Bond,2022-07-15,proceeds,73533
+2015-01-19,Treasury Bond,2019-03-15,security_coupon_rate,5.25
+2015-01-19,Treasury Bond,2019-03-15,face_value_repurchased,20000
+2015-01-19,Treasury Bond,2019-03-15,security_price,113.946
+2015-01-19,Treasury Bond,2019-03-15,proceeds,22789.2
+2015-02-02,Treasury Bond,2017-02-15,security_coupon_rate,6
+2015-02-02,Treasury Bond,2017-02-15,face_value_repurchased,50000
+2015-02-02,Treasury Bond,2017-02-15,security_price,110.835
+2015-02-02,Treasury Bond,2017-02-15,proceeds,55417.5
+2015-02-02,Treasury Bond,2015-04-15,security_coupon_rate,6.25
+2015-02-02,Treasury Bond,2015-04-15,face_value_repurchased,50000
+2015-02-02,Treasury Bond,2015-04-15,security_price,102.67000053717
+2015-02-02,Treasury Bond,2015-04-15,proceeds,51335.000268585
+2015-02-02,Treasury Indexed Bond,2015-08-20,security_coupon_rate,4
+2015-02-02,Treasury Indexed Bond,2015-08-20,face_value_repurchased,10000
+2015-02-02,Treasury Indexed Bond,2015-08-20,security_price,177.68
+2015-02-02,Treasury Indexed Bond,2015-08-20,proceeds,17768
+2015-02-13,Treasury Bond,2017-02-15,security_coupon_rate,6
+2015-02-13,Treasury Bond,2017-02-15,face_value_repurchased,48000
+2015-02-13,Treasury Bond,2017-02-15,security_price,108.067
+2015-02-13,Treasury Bond,2017-02-15,proceeds,51872.16
+2015-02-13,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2015-02-13,Treasury Bond,2021-05-15,face_value_repurchased,50000
+2015-02-13,Treasury Bond,2021-05-15,security_price,122.38
+2015-02-13,Treasury Bond,2021-05-15,proceeds,61190
+2015-02-17,Treasury Bond,2015-04-15,security_coupon_rate,6.25
+2015-02-17,Treasury Bond,2015-04-15,face_value_repurchased,5000
+2015-02-17,Treasury Bond,2015-04-15,security_price,102.778999510384
+2015-02-17,Treasury Bond,2015-04-15,proceeds,5138.9499755192
+2015-02-25,Treasury Bond,2022-07-15,security_coupon_rate,5.75
+2015-02-25,Treasury Bond,2022-07-15,face_value_repurchased,2000
+2015-02-25,Treasury Bond,2022-07-15,security_price,124.211
+2015-02-25,Treasury Bond,2022-07-15,proceeds,2484.22
+2015-02-27,Treasury Indexed Bond,2020-08-20,security_coupon_rate,4
+2015-02-27,Treasury Indexed Bond,2020-08-20,face_value_repurchased,30000
+2015-02-27,Treasury Indexed Bond,2020-08-20,security_price,196.347
+2015-02-27,Treasury Indexed Bond,2020-08-20,proceeds,58904.1
+2015-03-03,Treasury Bond,2015-04-15,security_coupon_rate,6.25
+2015-03-03,Treasury Bond,2015-04-15,face_value_repurchased,2000
+2015-03-03,Treasury Bond,2015-04-15,security_price,102.864999751192
+2015-03-03,Treasury Bond,2015-04-15,proceeds,2057.29999502384
+2015-03-17,Treasury Indexed Bond,2025-09-20,security_coupon_rate,3
+2015-03-17,Treasury Indexed Bond,2025-09-20,face_value_repurchased,5000
+2015-03-17,Treasury Indexed Bond,2025-09-20,security_price,147.217
+2015-03-17,Treasury Indexed Bond,2025-09-20,proceeds,7360.85
+2015-03-17,Treasury Indexed Bond,2030-09-20,security_coupon_rate,2.5
+2015-03-17,Treasury Indexed Bond,2030-09-20,face_value_repurchased,5000
+2015-03-17,Treasury Indexed Bond,2030-09-20,security_price,145.341
+2015-03-17,Treasury Indexed Bond,2030-09-20,proceeds,7267.05
+2015-03-26,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2015-03-26,Treasury Bond,2021-05-15,face_value_repurchased,5000
+2015-03-26,Treasury Bond,2021-05-15,security_price,123.596
+2015-03-26,Treasury Bond,2021-05-15,proceeds,6179.8
+2015-04-15,Treasury Bond,2019-03-15,security_coupon_rate,5.25
+2015-04-15,Treasury Bond,2019-03-15,face_value_repurchased,2000
+2015-04-15,Treasury Bond,2019-03-15,security_price,113.756
+2015-04-15,Treasury Bond,2019-03-15,proceeds,2275.12
+2015-04-20,Treasury Indexed Bond,2015-08-20,security_coupon_rate,4
+2015-04-20,Treasury Indexed Bond,2015-08-20,face_value_repurchased,8000
+2015-04-20,Treasury Indexed Bond,2015-08-20,security_price,177.069
+2015-04-20,Treasury Indexed Bond,2015-08-20,proceeds,14165.52
+2015-05-21,Treasury Indexed Bond,2030-09-20,security_coupon_rate,2.5
+2015-05-21,Treasury Indexed Bond,2030-09-20,face_value_repurchased,10000
+2015-05-21,Treasury Indexed Bond,2030-09-20,security_price,139.031
+2015-05-21,Treasury Indexed Bond,2030-09-20,proceeds,13903.1
+2015-05-28,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2015-05-28,Treasury Bond,2021-05-15,face_value_repurchased,1000
+2015-05-28,Treasury Bond,2021-05-15,security_price,119.053
+2015-05-28,Treasury Bond,2021-05-15,proceeds,1190.53
+2015-06-03,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2015-06-03,Treasury Bond,2021-05-15,face_value_repurchased,13000
+2015-06-03,Treasury Bond,2021-05-15,security_price,118.507
+2015-06-03,Treasury Bond,2021-05-15,proceeds,15405.91
+2015-06-10,Treasury Indexed Bond,2015-08-20,security_coupon_rate,4
+2015-06-10,Treasury Indexed Bond,2015-08-20,face_value_repurchased,170000
+2015-06-10,Treasury Indexed Bond,2015-08-20,security_price,175.919
+2015-06-10,Treasury Indexed Bond,2015-08-20,proceeds,299062.3
+2015-08-21,Treasury Bond,2020-04-15,security_coupon_rate,4.5
+2015-08-21,Treasury Bond,2020-04-15,face_value_repurchased,5000
+2015-08-21,Treasury Bond,2020-04-15,security_price,112.738
+2015-08-21,Treasury Bond,2020-04-15,proceeds,5636.9
+2015-08-25,Treasury Indexed Bond,2025-09-20,security_coupon_rate,3
+2015-08-25,Treasury Indexed Bond,2025-09-20,face_value_repurchased,74000
+2015-08-25,Treasury Indexed Bond,2025-09-20,security_price,144.912
+2015-08-25,Treasury Indexed Bond,2025-09-20,proceeds,107234.88
+2015-09-09,Treasury Bond,2019-03-15,security_coupon_rate,5.25
+2015-09-09,Treasury Bond,2019-03-15,face_value_repurchased,120000
+2015-09-09,Treasury Bond,2019-03-15,security_price,111.366
+2015-09-09,Treasury Bond,2019-03-15,proceeds,133639.2
+2015-09-11,Treasury Bond,2027-04-21,security_coupon_rate,4.75
+2015-09-11,Treasury Bond,2027-04-21,face_value_repurchased,100000
+2015-09-11,Treasury Bond,2027-04-21,security_price,120.195
+2015-09-11,Treasury Bond,2027-04-21,proceeds,120195
+2015-10-08,Treasury Bond,2027-04-21,security_coupon_rate,4.75
+2015-10-08,Treasury Bond,2027-04-21,face_value_repurchased,100000
+2015-10-08,Treasury Bond,2027-04-21,security_price,121.221
+2015-10-08,Treasury Bond,2027-04-21,proceeds,121221
+2015-11-17,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2015-11-17,Treasury Bond,2021-05-15,face_value_repurchased,2000
+2015-11-17,Treasury Bond,2021-05-15,security_price,117.04
+2015-11-17,Treasury Bond,2021-05-15,proceeds,2340.8
+2015-12-08,Treasury Bond,2019-03-15,security_coupon_rate,5.25
+2015-12-08,Treasury Bond,2019-03-15,face_value_repurchased,3000
+2015-12-08,Treasury Bond,2019-03-15,security_price,110.928
+2015-12-08,Treasury Bond,2019-03-15,proceeds,3327.84
+2015-12-08,Treasury Bond,2017-02-15,security_coupon_rate,6
+2015-12-08,Treasury Bond,2017-02-15,face_value_repurchased,4000
+2015-12-08,Treasury Bond,2017-02-15,security_price,106.515
+2015-12-08,Treasury Bond,2017-02-15,proceeds,4260.6
+2016-01-11,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2016-01-11,Treasury Bond,2021-05-15,face_value_repurchased,3000
+2016-01-11,Treasury Bond,2021-05-15,security_price,118.74
+2016-01-11,Treasury Bond,2021-05-15,proceeds,3562.2
+2016-03-17,Treasury Bond,2017-02-15,security_coupon_rate,6
+2016-03-17,Treasury Bond,2017-02-15,face_value_repurchased,47000
+2016-03-17,Treasury Bond,2017-02-15,security_price,104.124
+2016-03-17,Treasury Bond,2017-02-15,proceeds,48938.28
+2016-03-18,Treasury Indexed Bond,2020-08-20,security_coupon_rate,4
+2016-03-18,Treasury Indexed Bond,2020-08-20,face_value_repurchased,40000
+2016-03-18,Treasury Indexed Bond,2020-08-20,security_price,190.321
+2016-03-18,Treasury Indexed Bond,2020-08-20,proceeds,76128.4
+2016-04-14,Treasury Indexed Bond,2020-08-20,security_coupon_rate,4
+2016-04-14,Treasury Indexed Bond,2020-08-20,face_value_repurchased,50000
+2016-04-14,Treasury Indexed Bond,2020-08-20,security_price,190.573
+2016-04-14,Treasury Indexed Bond,2020-08-20,proceeds,95286.5
+2016-04-18,Treasury Bond,2017-02-15,security_coupon_rate,6
+2016-04-18,Treasury Bond,2017-02-15,face_value_repurchased,12000
+2016-04-18,Treasury Bond,2017-02-15,security_price,104.272
+2016-04-18,Treasury Bond,2017-02-15,proceeds,12512.64
+2016-04-18,Treasury Bond,2019-03-15,security_coupon_rate,5.25
+2016-04-18,Treasury Bond,2019-03-15,face_value_repurchased,6000
+2016-04-18,Treasury Bond,2019-03-15,security_price,109.797
+2016-04-18,Treasury Bond,2019-03-15,proceeds,6587.82
+2016-04-29,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2016-04-29,Treasury Bond,2021-05-15,face_value_repurchased,50000
+2016-04-29,Treasury Bond,2021-05-15,security_price,120.27
+2016-04-29,Treasury Bond,2021-05-15,proceeds,60135
+2016-05-23,Treasury Indexed Bond,2020-08-20,security_coupon_rate,4
+2016-05-23,Treasury Indexed Bond,2020-08-20,face_value_repurchased,18000
+2016-05-23,Treasury Indexed Bond,2020-08-20,security_price,188.808
+2016-05-23,Treasury Indexed Bond,2020-08-20,proceeds,33985.44
+2016-06-10,Treasury Bond,2017-02-15,security_coupon_rate,6
+2016-06-10,Treasury Bond,2017-02-15,face_value_repurchased,90000
+2016-06-10,Treasury Bond,2017-02-15,security_price,104.841
+2016-06-10,Treasury Bond,2017-02-15,proceeds,94356.9
+2016-06-20,Treasury Bond,2027-04-21,security_coupon_rate,4.75
+2016-06-20,Treasury Bond,2027-04-21,face_value_repurchased,64000
+2016-06-20,Treasury Bond,2027-04-21,security_price,125.508
+2016-06-20,Treasury Bond,2027-04-21,proceeds,80325.12
+2016-06-21,Treasury Bond,2022-07-15,security_coupon_rate,5.75
+2016-06-21,Treasury Bond,2022-07-15,face_value_repurchased,13000
+2016-06-21,Treasury Bond,2022-07-15,security_price,124.495
+2016-06-21,Treasury Bond,2022-07-15,proceeds,16184.35
+2016-06-22,Treasury Bond,2020-04-15,security_coupon_rate,4.5
+2016-06-22,Treasury Bond,2020-04-15,face_value_repurchased,7000
+2016-06-22,Treasury Bond,2020-04-15,security_price,111.21
+2016-06-22,Treasury Bond,2020-04-15,proceeds,7784.7
+2016-08-29,Treasury Indexed Bond,2020-08-20,security_coupon_rate,4
+2016-08-29,Treasury Indexed Bond,2020-08-20,face_value_repurchased,89000
+2016-08-29,Treasury Indexed Bond,2020-08-20,security_price,188.984
+2016-08-29,Treasury Indexed Bond,2020-08-20,proceeds,168195.76
+2016-10-21,Treasury Bond,2019-03-15,security_coupon_rate,5.25
+2016-10-21,Treasury Bond,2019-03-15,face_value_repurchased,100000
+2016-10-21,Treasury Bond,2019-03-15,security_price,108.867
+2016-10-21,Treasury Bond,2019-03-15,proceeds,108867
+2016-10-24,Treasury Bond,2022-07-15,security_coupon_rate,5.75
+2016-10-24,Treasury Bond,2022-07-15,face_value_repurchased,2000
+2016-10-24,Treasury Bond,2022-07-15,security_price,122.187
+2016-10-24,Treasury Bond,2022-07-15,proceeds,2443.74
+2016-12-02,Treasury Indexed Bond,2030-09-20,security_coupon_rate,2.5
+2016-12-02,Treasury Indexed Bond,2030-09-20,face_value_repurchased,1000
+2016-12-02,Treasury Indexed Bond,2030-09-20,security_price,136.63
+2016-12-02,Treasury Indexed Bond,2030-09-20,proceeds,1366.3
+2017-02-15,Treasury Indexed Bond,2020-08-20,security_coupon_rate,4
+2017-02-15,Treasury Indexed Bond,2020-08-20,face_value_repurchased,49000
+2017-02-15,Treasury Indexed Bond,2020-08-20,security_price,185.919
+2017-02-15,Treasury Indexed Bond,2020-08-20,proceeds,91100.31
+2017-04-06,Treasury Bond,2027-04-21,security_coupon_rate,4.75
+2017-04-06,Treasury Bond,2027-04-21,face_value_repurchased,20000
+2017-04-06,Treasury Bond,2027-04-21,security_price,121.341
+2017-04-06,Treasury Bond,2027-04-21,proceeds,24268.2
+2017-04-11,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2017-04-11,Treasury Bond,2021-05-15,face_value_repurchased,10000
+2017-04-11,Treasury Bond,2021-05-15,security_price,117.243
+2017-04-11,Treasury Bond,2021-05-15,proceeds,11724.3
+2017-05-04,Treasury Bond,2019-03-15,security_coupon_rate,5.25
+2017-05-04,Treasury Bond,2019-03-15,face_value_repurchased,1110000
+2017-05-04,Treasury Bond,2019-03-15,security_price,107.205
+2017-05-04,Treasury Bond,2019-03-15,proceeds,1189975.5
+2017-06-20,Treasury Bond,2020-04-15,security_coupon_rate,4.5
+2017-06-20,Treasury Bond,2020-04-15,face_value_repurchased,11000
+2017-06-20,Treasury Bond,2020-04-15,security_price,108.223
+2017-06-20,Treasury Bond,2020-04-15,proceeds,11904.53
+2017-11-14,Treasury Bond,2019-03-15,security_coupon_rate,5.25
+2017-11-14,Treasury Bond,2019-03-15,face_value_repurchased,45000
+2017-11-14,Treasury Bond,2019-03-15,security_price,105.456
+2017-11-14,Treasury Bond,2019-03-15,proceeds,47455.2
+2017-11-14,Treasury Bond,2022-07-15,security_coupon_rate,5.75
+2017-11-14,Treasury Bond,2022-07-15,face_value_repurchased,85000
+2017-11-14,Treasury Bond,2022-07-15,security_price,117.686
+2017-11-14,Treasury Bond,2022-07-15,proceeds,100033.1
+2017-11-16,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2017-11-16,Treasury Bond,2021-05-15,face_value_repurchased,150000
+2017-11-16,Treasury Bond,2021-05-15,security_price,112.665
+2017-11-16,Treasury Bond,2021-05-15,proceeds,168997.5
+2017-11-20,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2017-11-20,Treasury Bond,2021-05-15,face_value_repurchased,12000
+2017-11-20,Treasury Bond,2021-05-15,security_price,112.761
+2017-11-20,Treasury Bond,2021-05-15,proceeds,13531.32
+2018-01-09,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2018-01-09,Treasury Bond,2021-05-15,face_value_repurchased,3000
+2018-01-09,Treasury Bond,2021-05-15,security_price,112.434
+2018-01-09,Treasury Bond,2021-05-15,proceeds,3373.02
+2018-01-22,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2018-01-22,Treasury Bond,2021-05-15,face_value_repurchased,150000
+2018-01-22,Treasury Bond,2021-05-15,security_price,112.087
+2018-01-22,Treasury Bond,2021-05-15,proceeds,168130.5
+2018-01-29,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2018-01-29,Treasury Bond,2021-05-15,face_value_repurchased,3000
+2018-01-29,Treasury Bond,2021-05-15,security_price,112.169
+2018-01-29,Treasury Bond,2021-05-15,proceeds,3365.07
+2018-03-05,Treasury Bond,2019-03-15,security_coupon_rate,5.25
+2018-03-05,Treasury Bond,2019-03-15,face_value_repurchased,15000
+2018-03-05,Treasury Bond,2019-03-15,security_price,105.969
+2018-03-05,Treasury Bond,2019-03-15,proceeds,15895.35
+2018-03-08,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2018-03-08,Treasury Bond,2021-05-15,face_value_repurchased,89000
+2018-03-08,Treasury Bond,2021-05-15,security_price,112.863
+2018-03-08,Treasury Bond,2021-05-15,proceeds,100448.07
+2018-04-24,Treasury Bond,2020-04-15,security_coupon_rate,4.5
+2018-04-24,Treasury Bond,2020-04-15,face_value_repurchased,3000
+2018-04-24,Treasury Bond,2020-04-15,security_price,104.706
+2018-04-24,Treasury Bond,2020-04-15,proceeds,3141.18
+2018-06-06,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2018-06-06,Treasury Bond,2021-05-15,face_value_repurchased,15000
+2018-06-06,Treasury Bond,2021-05-15,security_price,110.461
+2018-06-06,Treasury Bond,2021-05-15,proceeds,16569.15
+2018-06-13,Treasury Indexed Bond,2020-08-20,security_coupon_rate,4
+2018-06-13,Treasury Indexed Bond,2020-08-20,face_value_repurchased,3000
+2018-06-13,Treasury Indexed Bond,2020-08-20,security_price,183.691
+2018-06-13,Treasury Indexed Bond,2020-08-20,proceeds,5510.73
+2018-06-20,Treasury Bond,2020-04-15,security_coupon_rate,4.5
+2018-06-20,Treasury Bond,2020-04-15,face_value_repurchased,1000
+2018-06-20,Treasury Bond,2020-04-15,security_price,105.188
+2018-06-20,Treasury Bond,2020-04-15,proceeds,1051.88
+2018-07-03,Treasury Bond,2023-04-21,security_coupon_rate,5.5
+2018-07-03,Treasury Bond,2023-04-21,face_value_repurchased,50000
+2018-07-03,Treasury Bond,2023-04-21,security_price,115.916
+2018-07-03,Treasury Bond,2023-04-21,proceeds,57958
+2018-07-03,Treasury Bond,2029-04-21,security_coupon_rate,3.25
+2018-07-03,Treasury Bond,2029-04-21,face_value_repurchased,120000
+2018-07-03,Treasury Bond,2029-04-21,security_price,106.757
+2018-07-03,Treasury Bond,2029-04-21,proceeds,128108.4
+2018-07-24,Treasury Bond,2023-04-21,security_coupon_rate,5.5
+2018-07-24,Treasury Bond,2023-04-21,face_value_repurchased,30000
+2018-07-24,Treasury Bond,2023-04-21,security_price,115.557
+2018-07-24,Treasury Bond,2023-04-21,proceeds,34667.1
+2018-07-24,Treasury Bond,2019-03-15,security_coupon_rate,5.25
+2018-07-24,Treasury Bond,2019-03-15,face_value_repurchased,139000
+2018-07-24,Treasury Bond,2019-03-15,security_price,103.941
+2018-07-24,Treasury Bond,2019-03-15,proceeds,144477.99
+2018-07-24,Treasury Bond,2020-04-15,security_coupon_rate,4.5
+2018-07-24,Treasury Bond,2020-04-15,face_value_repurchased,105000
+2018-07-24,Treasury Bond,2020-04-15,security_price,105.34
+2018-07-24,Treasury Bond,2020-04-15,proceeds,110607
+2018-08-06,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2018-08-06,Treasury Bond,2021-05-15,face_value_repurchased,89000
+2018-08-06,Treasury Bond,2021-05-15,security_price,111.074
+2018-08-06,Treasury Bond,2021-05-15,proceeds,98855.86
+2018-08-16,Treasury Bond,2019-03-15,security_coupon_rate,5.25
+2018-08-16,Treasury Bond,2019-03-15,face_value_repurchased,48000
+2018-08-16,Treasury Bond,2019-03-15,security_price,104.113
+2018-08-16,Treasury Bond,2019-03-15,proceeds,49974.24
+2018-08-30,Treasury Indexed Bond,2020-08-20,security_coupon_rate,4
+2018-08-30,Treasury Indexed Bond,2020-08-20,face_value_repurchased,3000
+2018-08-30,Treasury Indexed Bond,2020-08-20,security_price,183.163
+2018-08-30,Treasury Indexed Bond,2020-08-20,proceeds,5494.89
+2018-10-03,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2018-10-03,Treasury Bond,2021-05-15,face_value_repurchased,2000
+2018-10-03,Treasury Bond,2021-05-15,security_price,111.713
+2018-10-03,Treasury Bond,2021-05-15,proceeds,2234.26
+2018-10-29,Treasury Indexed Bond,2020-08-20,security_coupon_rate,4
+2018-10-29,Treasury Indexed Bond,2020-08-20,face_value_repurchased,30000
+2018-10-29,Treasury Indexed Bond,2020-08-20,security_price,183.619
+2018-10-29,Treasury Indexed Bond,2020-08-20,proceeds,55085.7
+2018-12-18,Treasury Indexed Bond,2020-08-20,security_coupon_rate,4
+2018-12-18,Treasury Indexed Bond,2020-08-20,face_value_repurchased,40000
+2018-12-18,Treasury Indexed Bond,2020-08-20,security_price,181.761
+2018-12-18,Treasury Indexed Bond,2020-08-20,proceeds,72704.4
+2019-02-28,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2019-02-28,Treasury Bond,2021-05-15,face_value_repurchased,5000
+2019-02-28,Treasury Bond,2021-05-15,security_price,110.393
+2019-02-28,Treasury Bond,2021-05-15,proceeds,5519.65
+2019-03-12,Treasury Indexed Bond,2025-09-20,security_coupon_rate,3
+2019-03-12,Treasury Indexed Bond,2025-09-20,face_value_repurchased,51000
+2019-03-12,Treasury Indexed Bond,2025-09-20,security_price,143.977
+2019-03-12,Treasury Indexed Bond,2025-09-20,proceeds,73428.27
+2019-03-13,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2019-03-13,Treasury Bond,2021-05-15,face_value_repurchased,10000
+2019-03-13,Treasury Bond,2021-05-15,security_price,110.723
+2019-03-13,Treasury Bond,2021-05-15,proceeds,11072.3
+2019-05-21,Treasury Indexed Bond,2025-09-20,security_coupon_rate,3
+2019-05-21,Treasury Indexed Bond,2025-09-20,face_value_repurchased,300000
+2019-05-21,Treasury Indexed Bond,2025-09-20,security_price,146.396
+2019-05-21,Treasury Indexed Bond,2025-09-20,proceeds,439188
+2019-06-03,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2019-06-03,Treasury Bond,2021-05-15,face_value_repurchased,10000
+2019-06-03,Treasury Bond,2021-05-15,security_price,109.153
+2019-06-03,Treasury Bond,2021-05-15,proceeds,10915.3
+2019-06-19,Treasury Bond,2022-07-15,security_coupon_rate,5.75
+2019-06-19,Treasury Bond,2022-07-15,face_value_repurchased,111000
+2019-06-19,Treasury Bond,2022-07-15,security_price,116.748
+2019-06-19,Treasury Bond,2022-07-15,proceeds,129590.28
+2019-06-19,Treasury Bond,2023-04-21,security_coupon_rate,5.5
+2019-06-19,Treasury Bond,2023-04-21,face_value_repurchased,111000
+2019-06-19,Treasury Bond,2023-04-21,security_price,117.684
+2019-06-19,Treasury Bond,2023-04-21,proceeds,130629.24
+2019-12-09,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2019-12-09,Treasury Bond,2021-05-15,face_value_repurchased,140000
+2019-12-09,Treasury Bond,2021-05-15,security_price,107.524
+2019-12-09,Treasury Bond,2021-05-15,proceeds,150533.6
+2020-02-05,Treasury Bond,2023-04-21,security_coupon_rate,5.5
+2020-02-05,Treasury Bond,2023-04-21,face_value_repurchased,1000
+2020-02-05,Treasury Bond,2023-04-21,security_price,117.175
+2020-02-05,Treasury Bond,2023-04-21,proceeds,1171.75
+2020-02-05,Treasury Bond,2022-07-15,security_coupon_rate,5.75
+2020-02-05,Treasury Bond,2022-07-15,face_value_repurchased,1000
+2020-02-05,Treasury Bond,2022-07-15,security_price,112.817
+2020-02-05,Treasury Bond,2022-07-15,proceeds,1128.17
+2020-02-05,Treasury Indexed Bond,2020-08-20,security_coupon_rate,4
+2020-02-05,Treasury Indexed Bond,2020-08-20,face_value_repurchased,48000
+2020-02-05,Treasury Indexed Bond,2020-08-20,security_price,180.771
+2020-02-05,Treasury Indexed Bond,2020-08-20,proceeds,86770.08
+2020-04-29,Treasury Indexed Bond,2020-08-20,security_coupon_rate,4
+2020-04-29,Treasury Indexed Bond,2020-08-20,face_value_repurchased,59000
+2020-04-29,Treasury Indexed Bond,2020-08-20,security_price,179.51
+2020-04-29,Treasury Indexed Bond,2020-08-20,proceeds,105910.9
+2020-05-27,Treasury Indexed Bond,2020-08-20,security_coupon_rate,4
+2020-05-27,Treasury Indexed Bond,2020-08-20,face_value_repurchased,130000
+2020-05-27,Treasury Indexed Bond,2020-08-20,security_price,178.101
+2020-05-27,Treasury Indexed Bond,2020-08-20,proceeds,231531.3
+2021-01-18,Treasury Bond,2021-05-15,security_coupon_rate,5.75
+2021-01-18,Treasury Bond,2021-05-15,face_value_repurchased,519000
+2021-01-18,Treasury Bond,2021-05-15,security_price,102.876
+2021-01-18,Treasury Bond,2021-05-15,proceeds,533926.44
+2021-06-15,Treasury Bond,2022-07-15,security_coupon_rate,5.75
+2021-06-15,Treasury Bond,2022-07-15,face_value_repurchased,10000
+2021-06-15,Treasury Bond,2022-07-15,security_price,108.636
+2021-06-15,Treasury Bond,2022-07-15,proceeds,10863.6
+2021-08-10,Treasury Indexed Bond,2025-09-20,security_coupon_rate,3
+2021-08-10,Treasury Indexed Bond,2025-09-20,face_value_repurchased,13000
+2021-08-10,Treasury Indexed Bond,2025-09-20,security_price,151.417
+2021-08-10,Treasury Indexed Bond,2025-09-20,proceeds,19684.21
+2021-10-07,Treasury Bond,2022-07-15,security_coupon_rate,5.75
+2021-10-07,Treasury Bond,2022-07-15,face_value_repurchased,25000
+2021-10-07,Treasury Bond,2022-07-15,security_price,105.739
+2021-10-07,Treasury Bond,2022-07-15,proceeds,26434.75
+2021-11-12,Treasury Indexed Bond,2025-09-20,security_coupon_rate,3
+2021-11-12,Treasury Indexed Bond,2025-09-20,face_value_repurchased,20000
+2021-11-12,Treasury Indexed Bond,2025-09-20,security_price,149.725
+2021-11-12,Treasury Indexed Bond,2025-09-20,proceeds,29945
+2021-11-12,Treasury Indexed Bond,2030-09-20,security_coupon_rate,2.5
+2021-11-12,Treasury Indexed Bond,2030-09-20,face_value_repurchased,7000
+2021-11-12,Treasury Indexed Bond,2030-09-20,security_price,160.069
+2021-11-12,Treasury Indexed Bond,2030-09-20,proceeds,11204.83
+2021-12-21,Treasury Indexed Bond,2025-09-20,security_coupon_rate,3
+2021-12-21,Treasury Indexed Bond,2025-09-20,face_value_repurchased,30000
+2021-12-21,Treasury Indexed Bond,2025-09-20,security_price,148.516
+2021-12-21,Treasury Indexed Bond,2025-09-20,proceeds,44554.8
+2022-09-21,Treasury Indexed Bond,2025-09-20,security_coupon_rate,3
+2022-09-21,Treasury Indexed Bond,2025-09-20,face_value_repurchased,75000
+2022-09-21,Treasury Indexed Bond,2025-09-20,security_price,143.06
+2022-09-21,Treasury Indexed Bond,2025-09-20,proceeds,107295
+2023-07-27,Treasury Indexed Bond,2025-09-20,security_coupon_rate,3
+2023-07-27,Treasury Indexed Bond,2025-09-20,face_value_repurchased,28000
+2023-07-27,Treasury Indexed Bond,2025-09-20,security_price,148.306
+2023-07-27,Treasury Indexed Bond,2025-09-20,proceeds,41525.68
+2023-07-27,Treasury Indexed Bond,2030-09-20,security_coupon_rate,2.5
+2023-07-27,Treasury Indexed Bond,2030-09-20,face_value_repurchased,30000
+2023-07-27,Treasury Indexed Bond,2030-09-20,security_price,148.84
+2023-07-27,Treasury Indexed Bond,2030-09-20,proceeds,44652
+2023-08-10,Treasury Indexed Bond,2025-09-20,security_coupon_rate,3
+2023-08-10,Treasury Indexed Bond,2025-09-20,face_value_repurchased,50000
+2023-08-10,Treasury Indexed Bond,2025-09-20,security_price,148.906
+2023-08-10,Treasury Indexed Bond,2025-09-20,proceeds,74453

@@ -1,0 +1,1594 @@
+start_date,end_date,security_type,security_maturity_date,name,value
+2004-12-15,2004-12-16,Treasury Bond,2013-05-15,face_value_lent,25200000
+2005-01-10,2005-01-11,Treasury Bond,2007-10-15,face_value_lent,10000000
+2005-01-10,2005-01-12,Treasury Bond,2007-10-15,face_value_lent,13000000
+2005-02-03,2005-02-07,Treasury Bond,2011-06-15,face_value_lent,10000000
+2005-02-03,2005-02-07,Treasury Bond,2011-06-15,face_value_lent,5000000
+2005-02-09,2005-02-10,Treasury Bond,2013-05-15,face_value_lent,29300000
+2005-02-09,2005-02-10,Treasury Bond,2013-05-15,face_value_lent,16500000
+2005-02-09,2005-02-10,Treasury Bond,2013-05-15,face_value_lent,44000000
+2005-02-09,2005-02-10,Treasury Bond,2013-05-15,face_value_lent,17900000
+2005-02-10,2005-02-11,Treasury Bond,2013-05-15,face_value_lent,56000000
+2005-02-11,2005-02-14,Treasury Bond,2013-05-15,face_value_lent,31835000
+2005-02-21,2005-02-22,Treasury Bond,2006-11-15,face_value_lent,7900000
+2005-02-21,2005-02-22,Treasury Bond,2007-10-15,face_value_lent,13700000
+2005-02-21,2005-02-23,Treasury Bond,2011-06-15,face_value_lent,5000000
+2005-02-22,2005-02-23,Treasury Bond,2006-11-15,face_value_lent,27000000
+2005-02-22,2005-02-23,Treasury Bond,2006-11-15,face_value_lent,17900000
+2005-02-22,2005-02-23,Treasury Bond,2007-10-15,face_value_lent,8000000
+2005-02-22,2005-02-23,Treasury Bond,2007-10-15,face_value_lent,13000000
+2005-02-22,2005-02-23,Treasury Bond,2011-06-15,face_value_lent,18400000
+2005-02-22,2005-02-23,Treasury Bond,2011-06-15,face_value_lent,24000000
+2005-02-22,2005-02-23,Treasury Bond,2011-06-15,face_value_lent,50000000
+2005-02-22,2005-02-23,Treasury Bond,2011-06-15,face_value_lent,10800000
+2005-02-22,2005-02-23,Treasury Bond,2011-06-15,face_value_lent,45500000
+2005-02-22,2005-02-24,Treasury Bond,2007-10-15,face_value_lent,5300000
+2005-03-07,2005-03-08,Treasury Bond,2006-11-15,face_value_lent,64100000
+2005-03-07,2005-03-08,Treasury Bond,2006-11-15,face_value_lent,59000000
+2005-03-30,2005-03-31,Treasury Bond,2011-06-15,face_value_lent,5000000
+2005-03-30,2005-03-31,Treasury Bond,2011-06-15,face_value_lent,60000000
+2005-03-30,2005-03-31,Treasury Bond,2011-06-15,face_value_lent,11000000
+2005-03-31,2005-04-01,Treasury Bond,2011-06-15,face_value_lent,52000000
+2005-04-19,2005-04-20,Treasury Bond,2010-08-15,face_value_lent,12300000
+2005-04-19,2005-04-20,Treasury Bond,2010-08-15,face_value_lent,5000000
+2005-04-21,2005-04-22,Treasury Bond,2010-08-15,face_value_lent,51000000
+2005-06-28,2005-06-29,Treasury Bond,2015-04-15,face_value_lent,10300000
+2005-06-28,2005-06-29,Treasury Bond,2015-04-15,face_value_lent,4500000
+2005-06-29,2005-06-30,Treasury Bond,2015-04-15,face_value_lent,9000000
+2005-06-29,2005-06-30,Treasury Bond,2015-04-15,face_value_lent,24200000
+2005-06-30,2005-07-01,Treasury Bond,2015-04-15,face_value_lent,10500000
+2005-06-30,2005-07-01,Treasury Bond,2015-04-15,face_value_lent,14000000
+2005-06-30,2005-07-01,Treasury Bond,2015-04-15,face_value_lent,10800000
+2005-07-26,2005-07-27,Treasury Bond,2013-05-15,face_value_lent,89000000
+2005-09-22,2005-09-23,Treasury Bond,2013-05-15,face_value_lent,5000000
+2005-09-23,2005-09-26,Treasury Bond,2017-02-15,face_value_lent,5000000
+2005-09-29,2005-09-30,Treasury Bond,2013-05-15,face_value_lent,9000000
+2005-09-29,2005-10-04,Treasury Bond,2013-05-15,face_value_lent,51000000
+2005-09-30,2005-10-04,Treasury Bond,2013-05-15,face_value_lent,52000000
+2005-09-30,2005-10-04,Treasury Bond,2013-05-15,face_value_lent,40000000
+2005-09-30,2005-10-04,Treasury Bond,2013-05-15,face_value_lent,7000000
+2005-09-30,2005-10-04,Treasury Bond,2013-05-15,face_value_lent,26500000
+2005-10-04,2005-10-05,Treasury Bond,2013-05-15,face_value_lent,12000000
+2005-10-05,2005-10-07,Treasury Bond,2017-02-15,face_value_lent,86000000
+2005-10-12,2005-10-13,Treasury Bond,2017-02-15,face_value_lent,11000000
+2005-10-28,2005-10-31,Treasury Bond,2017-02-15,face_value_lent,10700000
+2005-12-12,2005-12-13,Treasury Bond,2015-04-15,face_value_lent,24000000
+2006-01-31,2006-02-01,Treasury Bond,2013-05-15,face_value_lent,90000000
+2006-01-31,2006-02-01,Treasury Bond,2013-05-15,face_value_lent,25000000
+2006-01-31,2006-02-01,Treasury Bond,2015-04-15,face_value_lent,13000000
+2006-01-31,2006-02-01,Treasury Bond,2015-04-15,face_value_lent,41700000
+2006-01-31,2006-02-02,Treasury Bond,2013-05-15,face_value_lent,5000000
+2006-01-31,2006-02-02,Treasury Bond,2015-04-15,face_value_lent,44700000
+2006-02-01,2006-02-02,Treasury Bond,2015-04-15,face_value_lent,5000000
+2006-02-01,2006-02-02,Treasury Bond,2015-04-15,face_value_lent,21300000
+2006-02-01,2006-02-02,Treasury Bond,2015-04-15,face_value_lent,5000000
+2006-02-01,2006-02-02,Treasury Bond,2015-04-15,face_value_lent,32000000
+2006-02-23,2006-02-24,Treasury Bond,2011-06-15,face_value_lent,5000000
+2006-02-23,2006-02-24,Treasury Bond,2011-06-15,face_value_lent,5000000
+2006-03-20,2006-03-21,Treasury Bond,2013-05-15,face_value_lent,5000000
+2006-03-21,2006-03-22,Treasury Bond,2013-05-15,face_value_lent,20000000
+2006-03-21,2006-03-23,Treasury Bond,2013-05-15,face_value_lent,12000000
+2006-03-22,2006-03-23,Treasury Bond,2013-05-15,face_value_lent,8200000
+2006-04-07,2006-04-10,Treasury Bond,2011-06-15,face_value_lent,22500000
+2006-05-08,2006-05-09,Treasury Bond,2013-05-15,face_value_lent,82000000
+2006-05-08,2006-05-09,Treasury Bond,2013-05-15,face_value_lent,135000000
+2006-05-08,2006-05-09,Treasury Bond,2013-05-15,face_value_lent,70000000
+2006-05-08,2006-05-09,Treasury Bond,2015-04-15,face_value_lent,26500000
+2006-05-09,2006-05-10,Treasury Bond,2013-05-15,face_value_lent,13200000
+2006-05-22,2006-05-23,Treasury Bond,2013-05-15,face_value_lent,47000000
+2006-07-26,2006-07-27,Treasury Bond,2015-04-15,face_value_lent,5000000
+2006-07-26,2006-07-27,Treasury Bond,2015-04-15,face_value_lent,18000000
+2006-07-26,2006-07-27,Treasury Bond,2015-04-15,face_value_lent,22500000
+2006-07-26,2006-07-27,Treasury Bond,2015-04-15,face_value_lent,8000000
+2006-08-01,2006-08-02,Treasury Bond,2013-05-15,face_value_lent,37500000
+2006-08-02,2006-08-03,Treasury Bond,2013-05-15,face_value_lent,57000000
+2006-08-02,2006-08-03,Treasury Bond,2013-05-15,face_value_lent,21500000
+2006-08-02,2006-08-03,Treasury Bond,2013-05-15,face_value_lent,22000000
+2006-08-02,2006-08-03,Treasury Bond,2013-05-15,face_value_lent,63700000
+2006-08-03,2006-08-09,Treasury Bond,2011-06-15,face_value_lent,7900000
+2006-08-04,2006-08-08,Treasury Bond,2011-06-15,face_value_lent,19000000
+2006-08-04,2006-08-08,Treasury Bond,2011-06-15,face_value_lent,70300000
+2006-08-08,2006-08-09,Treasury Bond,2011-06-15,face_value_lent,27000000
+2006-08-08,2006-08-09,Treasury Bond,2011-06-15,face_value_lent,22000000
+2006-08-08,2006-08-09,Treasury Bond,2011-06-15,face_value_lent,5000000
+2006-08-08,2006-08-09,Treasury Bond,2015-04-15,face_value_lent,21500000
+2006-09-12,2006-09-13,Treasury Bond,2011-06-15,face_value_lent,7000000
+2006-10-03,2006-10-04,Treasury Bond,2013-05-15,face_value_lent,73100000
+2006-11-01,2006-11-02,Treasury Bond,2015-04-15,face_value_lent,53000000
+2006-11-06,2006-11-08,Treasury Bond,2015-04-15,face_value_lent,5500000
+2006-11-08,2006-11-09,Treasury Bond,2010-08-15,face_value_lent,5000000
+2006-11-21,2006-11-22,Treasury Bond,2007-10-15,face_value_lent,54000000
+2006-11-21,2006-11-22,Treasury Bond,2007-10-15,face_value_lent,10100000
+2006-12-29,2007-01-02,Treasury Bond,2007-10-15,face_value_lent,6000000
+2006-12-29,2007-01-02,Treasury Bond,2007-10-15,face_value_lent,18500000
+2006-12-29,2007-01-02,Treasury Bond,2007-10-15,face_value_lent,121000000
+2007-01-02,2007-01-05,Treasury Bond,2007-10-15,face_value_lent,75000000
+2007-01-04,2007-01-05,Treasury Bond,2007-10-15,face_value_lent,93200000
+2007-02-13,2007-02-14,Treasury Bond,2012-04-15,face_value_lent,44000000
+2007-02-19,2007-02-20,Treasury Bond,2007-10-15,face_value_lent,27000000
+2007-02-26,2007-02-27,Treasury Bond,2008-08-15,face_value_lent,80000000
+2007-02-26,2007-02-27,Treasury Bond,2008-08-15,face_value_lent,41000000
+2007-03-12,2007-03-13,Treasury Bond,2007-10-15,face_value_lent,18700000
+2007-03-12,2007-03-13,Treasury Bond,2007-10-15,face_value_lent,12000000
+2007-03-28,2007-03-29,Treasury Bond,2008-08-15,face_value_lent,5000000
+2007-04-26,2007-04-27,Treasury Bond,2013-05-15,face_value_lent,73000000
+2007-04-26,2007-04-27,Treasury Bond,2013-05-15,face_value_lent,14000000
+2007-04-30,2007-05-01,Treasury Bond,2007-10-15,face_value_lent,20000000
+2007-07-26,2007-07-27,Treasury Bond,2015-04-15,face_value_lent,21000000
+2007-08-31,2007-09-03,Treasury Bond,2008-08-15,face_value_lent,7200000
+2007-09-03,2007-09-04,Treasury Bond,2013-05-15,face_value_lent,57100000
+2007-09-04,2007-09-05,Treasury Bond,2013-05-15,face_value_lent,21600000
+2007-09-18,2007-09-19,Treasury Bond,2011-06-15,face_value_lent,70600000
+2007-09-19,2007-09-20,Treasury Bond,2017-02-15,face_value_lent,5000000
+2007-09-19,2007-09-20,Treasury Bond,2017-02-15,face_value_lent,39000000
+2007-10-09,2007-10-10,Treasury Bond,2013-05-15,face_value_lent,45000000
+2007-10-10,2007-10-11,Treasury Bond,2011-06-15,face_value_lent,24500000
+2007-10-10,2007-10-11,Treasury Bond,2011-06-15,face_value_lent,17000000
+2007-10-10,2007-10-11,Treasury Bond,2011-06-15,face_value_lent,60000000
+2007-10-11,2007-10-12,Treasury Bond,2011-06-15,face_value_lent,20000000
+2007-10-11,2007-10-12,Treasury Bond,2011-06-15,face_value_lent,83400000
+2007-10-29,2007-10-30,Treasury Bond,2011-06-15,face_value_lent,15000000
+2007-11-07,2007-11-08,Treasury Bond,2013-05-15,face_value_lent,61000000
+2007-11-21,2007-11-22,Treasury Bond,2008-08-15,face_value_lent,40000000
+2007-11-26,2007-11-27,Treasury Bond,2008-08-15,face_value_lent,21000000
+2007-12-03,2007-12-04,Treasury Bond,2013-05-15,face_value_lent,6000000
+2007-12-19,2007-12-20,Treasury Bond,2009-09-15,face_value_lent,57000000
+2007-12-19,2007-12-20,Treasury Bond,2012-04-15,face_value_lent,67000000
+2007-12-24,2007-12-27,Treasury Bond,2012-04-15,face_value_lent,5000000
+2007-12-28,2008-01-04,Treasury Bond,2009-09-15,face_value_lent,5000000
+2008-01-04,2008-01-08,Treasury Bond,2013-05-15,face_value_lent,87200000
+2008-01-07,2008-01-08,Treasury Bond,2009-09-15,face_value_lent,18800000
+2008-01-07,2008-01-08,Treasury Bond,2013-05-15,face_value_lent,35000000
+2008-01-08,2008-01-09,Treasury Bond,2009-09-15,face_value_lent,49100000
+2008-01-08,2008-01-09,Treasury Bond,2009-09-15,face_value_lent,15000000
+2008-01-09,2008-01-10,Treasury Bond,2009-09-15,face_value_lent,5000000
+2008-01-15,2008-01-16,Treasury Bond,2021-05-15,face_value_lent,29100000
+2008-02-01,2008-02-04,Treasury Bond,2015-04-15,face_value_lent,5000000
+2008-02-01,2008-02-04,Treasury Bond,2015-04-15,face_value_lent,9200000
+2008-02-01,2008-02-04,Treasury Bond,2015-04-15,face_value_lent,11000000
+2008-02-04,2008-02-06,Treasury Bond,2009-09-15,face_value_lent,27000000
+2008-02-05,2008-02-06,Treasury Bond,2009-09-15,face_value_lent,5000000
+2008-02-05,2008-02-06,Treasury Bond,2009-09-15,face_value_lent,38000000
+2008-02-05,2008-02-06,Treasury Bond,2009-09-15,face_value_lent,50000000
+2008-02-05,2008-02-06,Treasury Bond,2010-08-15,face_value_lent,9700000
+2008-02-05,2008-02-06,Treasury Bond,2011-06-15,face_value_lent,18500000
+2008-02-05,2008-02-06,Treasury Bond,2011-06-15,face_value_lent,31000000
+2008-02-05,2008-02-06,Treasury Bond,2011-06-15,face_value_lent,33300000
+2008-02-05,2008-02-06,Treasury Bond,2012-04-15,face_value_lent,22000000
+2008-02-05,2008-02-06,Treasury Bond,2017-02-15,face_value_lent,30000000
+2008-02-05,2008-02-06,Treasury Bond,2021-05-15,face_value_lent,5000000
+2008-02-18,2008-02-19,Treasury Bond,2009-09-15,face_value_lent,19500000
+2008-02-18,2008-02-19,Treasury Bond,2009-09-15,face_value_lent,21300000
+2008-02-22,2008-02-25,Treasury Bond,2013-05-15,face_value_lent,23800000
+2008-02-27,2008-02-28,Treasury Bond,2013-05-15,face_value_lent,25600000
+2008-03-03,2008-03-04,Treasury Bond,2017-02-15,face_value_lent,9000000
+2008-03-07,2008-03-10,Treasury Bond,2015-04-15,face_value_lent,54000000
+2008-03-11,2008-03-12,Treasury Bond,2015-04-15,face_value_lent,11700000
+2008-03-11,2008-03-12,Treasury Bond,2015-04-15,face_value_lent,14200000
+2008-03-11,2008-03-12,Treasury Bond,2015-04-15,face_value_lent,42100000
+2008-04-02,2008-04-03,Treasury Bond,2017-02-15,face_value_lent,224500000
+2008-04-03,2008-04-04,Treasury Bond,2017-02-15,face_value_lent,17100000
+2008-04-09,2008-04-10,Treasury Bond,2010-08-15,face_value_lent,5000000
+2008-04-15,2008-04-16,Treasury Bond,2015-04-15,face_value_lent,35000000
+2008-04-22,2008-04-23,Treasury Bond,2017-02-15,face_value_lent,23300000
+2008-04-29,2008-04-30,Treasury Bond,2011-06-15,face_value_lent,120500000
+2008-04-29,2008-04-30,Treasury Bond,2011-06-15,face_value_lent,67072000
+2008-05-06,2008-05-07,Treasury Bond,2009-09-15,face_value_lent,18000000
+2008-05-06,2008-05-07,Treasury Bond,2009-09-15,face_value_lent,21000000
+2008-05-06,2008-05-07,Treasury Bond,2009-09-15,face_value_lent,55300000
+2008-05-07,2008-05-08,Treasury Bond,2009-09-15,face_value_lent,5000000
+2008-05-07,2008-05-08,Treasury Bond,2009-09-15,face_value_lent,26500000
+2008-05-09,2008-05-12,Treasury Bond,2011-06-15,face_value_lent,6700000
+2008-05-09,2008-05-12,Treasury Bond,2011-06-15,face_value_lent,10000000
+2008-05-09,2008-05-12,Treasury Bond,2011-06-15,face_value_lent,24000000
+2008-05-20,2008-05-21,Treasury Bond,2011-06-15,face_value_lent,15000000
+2008-05-23,2008-05-26,Treasury Bond,2011-06-15,face_value_lent,25500000
+2008-05-23,2008-05-26,Treasury Bond,2011-06-15,face_value_lent,48000000
+2008-05-27,2008-05-28,Treasury Bond,2013-05-15,face_value_lent,20000000
+2008-05-27,2008-05-28,Treasury Bond,2015-04-15,face_value_lent,5000000
+2008-05-27,2008-05-29,Treasury Bond,2015-04-15,face_value_lent,50000000
+2008-05-28,2008-05-29,Treasury Bond,2011-06-15,face_value_lent,5000000
+2008-05-28,2008-05-29,Treasury Bond,2015-04-15,face_value_lent,5000000
+2008-05-30,2008-06-02,Treasury Bond,2017-02-15,face_value_lent,13100000
+2008-06-12,2008-06-13,Treasury Bond,2015-04-15,face_value_lent,22000000
+2008-06-13,2008-06-16,Treasury Bond,2015-04-15,face_value_lent,13000000
+2008-06-13,2008-06-16,Treasury Bond,2017-02-15,face_value_lent,9000000
+2008-06-16,2008-06-17,Treasury Bond,2010-08-15,face_value_lent,16500000
+2008-06-17,2008-06-18,Treasury Bond,2015-04-15,face_value_lent,10500000
+2008-06-19,2008-06-20,Treasury Bond,2009-09-15,face_value_lent,5000000
+2008-06-19,2008-06-20,Treasury Bond,2009-09-15,face_value_lent,19000000
+2008-06-19,2008-06-20,Treasury Bond,2009-09-15,face_value_lent,21000000
+2008-06-19,2008-06-20,Treasury Bond,2010-08-15,face_value_lent,6200000
+2008-06-19,2008-06-20,Treasury Bond,2010-08-15,face_value_lent,18000000
+2008-06-19,2008-06-20,Treasury Bond,2010-08-15,face_value_lent,20500000
+2008-06-25,2008-06-26,Treasury Bond,2011-06-15,face_value_lent,5000000
+2008-07-01,2008-07-02,Treasury Bond,2011-06-15,face_value_lent,63100000
+2008-07-01,2008-07-02,Treasury Bond,2011-06-15,face_value_lent,7000000
+2008-07-01,2008-07-02,Treasury Bond,2015-04-15,face_value_lent,45000000
+2008-07-01,2008-07-02,Treasury Bond,2017-02-15,face_value_lent,46000000
+2008-07-02,2008-07-03,Treasury Bond,2015-04-15,face_value_lent,16800000
+2008-07-02,2008-07-03,Treasury Bond,2015-04-15,face_value_lent,75000000
+2008-07-03,2008-07-04,Treasury Bond,2015-04-15,face_value_lent,7000000
+2008-07-03,2008-07-04,Treasury Bond,2015-04-15,face_value_lent,57020000
+2008-07-04,2008-07-07,Treasury Bond,2015-04-15,face_value_lent,60000000
+2008-07-07,2008-07-08,Treasury Bond,2015-04-15,face_value_lent,30000000
+2008-07-07,2008-07-08,Treasury Bond,2015-04-15,face_value_lent,76000000
+2008-07-09,2008-07-10,Treasury Bond,2015-04-15,face_value_lent,8000000
+2008-07-09,2008-07-10,Treasury Bond,2015-04-15,face_value_lent,19364000
+2008-07-14,2008-07-15,Treasury Bond,2011-06-15,face_value_lent,6000000
+2008-07-14,2008-07-15,Treasury Bond,2011-06-15,face_value_lent,31000000
+2008-07-15,2008-07-16,Treasury Bond,2011-06-15,face_value_lent,5000000
+2008-07-16,2008-07-17,Treasury Bond,2011-06-15,face_value_lent,19000000
+2008-07-18,2008-07-21,Treasury Bond,2009-09-15,face_value_lent,5000000
+2008-07-18,2008-07-21,Treasury Bond,2009-09-15,face_value_lent,24000000
+2008-07-21,2008-07-22,Treasury Bond,2021-05-15,face_value_lent,7000000
+2008-07-23,2008-07-25,Treasury Bond,2011-06-15,face_value_lent,9600000
+2008-07-24,2008-07-25,Treasury Bond,2011-06-15,face_value_lent,6000000
+2008-07-24,2008-07-25,Treasury Bond,2011-06-15,face_value_lent,26000000
+2008-07-25,2008-07-28,Treasury Bond,2011-06-15,face_value_lent,22000000
+2008-07-31,2008-08-01,Treasury Bond,2021-05-15,face_value_lent,25700000
+2008-08-01,2008-08-05,Treasury Bond,2021-05-15,face_value_lent,5000000
+2008-08-05,2008-08-06,Treasury Bond,2021-05-15,face_value_lent,9000000
+2008-08-05,2008-08-07,Treasury Bond,2011-06-15,face_value_lent,33100000
+2008-08-06,2008-08-07,Treasury Bond,2011-06-15,face_value_lent,19000000
+2008-08-07,2008-08-08,Treasury Bond,2010-08-15,face_value_lent,27100000
+2008-08-07,2008-08-08,Treasury Bond,2011-06-15,face_value_lent,24000000
+2008-08-08,2008-08-11,Treasury Bond,2011-06-15,face_value_lent,31900000
+2008-08-11,2008-08-12,Treasury Bond,2011-06-15,face_value_lent,13100000
+2008-08-11,2008-08-12,Treasury Bond,2011-06-15,face_value_lent,18000000
+2008-08-11,2008-08-12,Treasury Bond,2015-04-15,face_value_lent,25000000
+2008-08-11,2008-08-12,Treasury Bond,2015-04-15,face_value_lent,84620000
+2008-08-12,2008-08-13,Treasury Bond,2011-06-15,face_value_lent,31000000
+2008-08-12,2008-08-13,Treasury Bond,2015-04-15,face_value_lent,73740000
+2008-08-15,2008-08-18,Treasury Bond,2021-05-15,face_value_lent,24000000
+2008-08-15,2008-08-18,Treasury Bond,2021-05-15,face_value_lent,36700000
+2008-08-15,2008-08-18,Treasury Bond,2021-05-15,face_value_lent,103500000
+2008-09-01,2008-09-02,Treasury Bond,2015-04-15,face_value_lent,11300000
+2008-09-01,2008-09-03,Treasury Bond,2015-04-15,face_value_lent,41200000
+2008-09-02,2008-09-03,Treasury Bond,2015-04-15,face_value_lent,5000000
+2008-09-02,2008-09-04,Treasury Bond,2015-04-15,face_value_lent,41500000
+2008-09-03,2008-09-04,Treasury Bond,2015-04-15,face_value_lent,9920000
+2008-09-03,2008-09-04,Treasury Bond,2015-04-15,face_value_lent,75000000
+2008-09-05,2008-09-08,Treasury Bond,2021-05-15,face_value_lent,17500000
+2008-09-05,2008-09-08,Treasury Bond,2021-05-15,face_value_lent,51500000
+2008-09-05,2008-09-08,Treasury Bond,2021-05-15,face_value_lent,166900000
+2008-09-08,2008-09-09,Treasury Bond,2021-05-15,face_value_lent,39800000
+2008-09-09,2008-09-11,Treasury Bond,2021-05-15,face_value_lent,31500000
+2008-09-10,2008-09-11,Treasury Bond,2021-05-15,face_value_lent,16100000
+2008-09-18,2008-09-19,Treasury Bond,2021-05-15,face_value_lent,121300000
+2008-09-18,2008-09-22,Treasury Bond,2021-05-15,face_value_lent,178000000
+2008-09-19,2008-09-22,Treasury Bond,2021-05-15,face_value_lent,24000000
+2008-09-19,2008-09-24,Treasury Bond,2009-09-15,face_value_lent,45000000
+2008-09-22,2008-09-23,Treasury Bond,2009-09-15,face_value_lent,16000000
+2008-09-22,2008-09-23,Treasury Bond,2009-09-15,face_value_lent,19900000
+2008-09-22,2008-09-23,Treasury Bond,2009-09-15,face_value_lent,29100000
+2008-09-22,2008-09-23,Treasury Bond,2021-05-15,face_value_lent,50500000
+2008-09-22,2008-09-23,Treasury Bond,2021-05-15,face_value_lent,18000000
+2008-09-22,2008-09-23,Treasury Bond,2021-05-15,face_value_lent,53200000
+2008-09-22,2008-09-24,Treasury Bond,2009-09-15,face_value_lent,29800000
+2008-09-22,2008-09-24,Treasury Bond,2009-09-15,face_value_lent,47000000
+2008-09-22,2008-09-24,Treasury Bond,2021-05-15,face_value_lent,82000000
+2008-09-22,2008-09-25,Treasury Bond,2021-05-15,face_value_lent,62000000
+2008-09-23,2008-09-24,Treasury Bond,2009-09-15,face_value_lent,5000000
+2008-09-23,2008-09-24,Treasury Bond,2009-09-15,face_value_lent,20000000
+2008-09-23,2008-09-24,Treasury Bond,2009-09-15,face_value_lent,5100000
+2008-09-23,2008-09-24,Treasury Bond,2009-09-15,face_value_lent,6000000
+2008-09-23,2008-09-24,Treasury Bond,2009-09-15,face_value_lent,38500000
+2008-09-23,2008-09-24,Treasury Bond,2010-08-15,face_value_lent,5000000
+2008-09-23,2008-09-24,Treasury Bond,2021-05-15,face_value_lent,29200000
+2008-09-23,2008-09-24,Treasury Bond,2021-05-15,face_value_lent,30000000
+2008-09-23,2008-09-24,Treasury Bond,2021-05-15,face_value_lent,50500000
+2008-09-24,2008-09-25,Treasury Bond,2021-05-15,face_value_lent,5700000
+2008-09-24,2008-09-25,Treasury Bond,2021-05-15,face_value_lent,62000000
+2008-09-30,2008-10-01,Treasury Bond,2010-08-15,face_value_lent,44000000
+2008-09-30,2008-10-01,Treasury Bond,2017-02-15,face_value_lent,6000000
+2008-09-30,2008-10-01,Treasury Bond,2017-02-15,face_value_lent,10000000
+2008-09-30,2008-10-01,Treasury Bond,2017-02-15,face_value_lent,56930000
+2008-09-30,2008-10-01,Treasury Bond,2017-02-15,face_value_lent,59000000
+2008-09-30,2008-10-01,Treasury Bond,2017-02-15,face_value_lent,96900000
+2008-09-30,2008-10-07,Treasury Bond,2017-02-15,face_value_lent,5000000
+2008-10-01,2008-10-02,Treasury Bond,2009-09-15,face_value_lent,22500000
+2008-10-01,2008-10-02,Treasury Bond,2009-09-15,face_value_lent,50000000
+2008-10-01,2008-10-02,Treasury Bond,2010-08-15,face_value_lent,7500000
+2008-10-01,2008-10-02,Treasury Bond,2010-08-15,face_value_lent,13000000
+2008-10-01,2008-10-02,Treasury Bond,2010-08-15,face_value_lent,88000000
+2008-10-01,2008-10-02,Treasury Bond,2017-02-15,face_value_lent,49700000
+2008-10-01,2008-10-02,Treasury Bond,2017-02-15,face_value_lent,59600000
+2008-10-01,2008-10-03,Treasury Bond,2009-09-15,face_value_lent,26000000
+2008-10-01,2008-10-03,Treasury Bond,2017-02-15,face_value_lent,112900000
+2008-10-01,2008-10-07,Treasury Bond,2017-02-15,face_value_lent,30000000
+2008-10-01,2008-10-07,Treasury Bond,2017-02-15,face_value_lent,30000000
+2008-10-01,2008-10-09,Treasury Bond,2017-02-15,face_value_lent,109830000
+2008-10-02,2008-10-03,Treasury Bond,2009-09-15,face_value_lent,38200000
+2008-10-02,2008-10-03,Treasury Bond,2009-09-15,face_value_lent,46500000
+2008-10-02,2008-10-03,Treasury Bond,2010-08-15,face_value_lent,9000000
+2008-10-02,2008-10-03,Treasury Bond,2010-08-15,face_value_lent,123000000
+2008-10-02,2008-10-07,Treasury Bond,2017-02-15,face_value_lent,23800000
+2008-10-02,2008-10-08,Treasury Bond,2017-02-15,face_value_lent,52700000
+2008-10-03,2008-10-07,Treasury Bond,2009-09-15,face_value_lent,6600000
+2008-10-03,2008-10-07,Treasury Bond,2009-09-15,face_value_lent,11000000
+2008-10-03,2008-10-07,Treasury Bond,2009-09-15,face_value_lent,20200000
+2008-10-03,2008-10-07,Treasury Bond,2009-09-15,face_value_lent,22400000
+2008-10-03,2008-10-07,Treasury Bond,2009-09-15,face_value_lent,64000000
+2008-10-03,2008-10-07,Treasury Bond,2010-08-15,face_value_lent,77100000
+2008-10-03,2008-10-07,Treasury Bond,2010-08-15,face_value_lent,144000000
+2008-10-03,2008-10-07,Treasury Bond,2017-02-15,face_value_lent,20050000
+2008-10-03,2008-10-07,Treasury Bond,2017-02-15,face_value_lent,23800000
+2008-10-03,2008-10-07,Treasury Bond,2017-02-15,face_value_lent,100000000
+2008-10-07,2008-10-08,Treasury Bond,2009-09-15,face_value_lent,5200000
+2008-10-07,2008-10-08,Treasury Bond,2009-09-15,face_value_lent,63700000
+2008-10-07,2008-10-08,Treasury Bond,2010-08-15,face_value_lent,29800000
+2008-10-07,2008-10-08,Treasury Bond,2010-08-15,face_value_lent,61000000
+2008-10-07,2008-10-08,Treasury Bond,2010-08-15,face_value_lent,68000000
+2008-10-07,2008-10-08,Treasury Bond,2014-06-15,face_value_lent,6000000
+2008-10-07,2008-10-08,Treasury Bond,2014-06-15,face_value_lent,7000000
+2008-10-07,2008-10-08,Treasury Bond,2014-06-15,face_value_lent,20000000
+2008-10-07,2008-10-08,Treasury Bond,2014-06-15,face_value_lent,25000000
+2008-10-07,2008-10-08,Treasury Bond,2017-02-15,face_value_lent,5000000
+2008-10-07,2008-10-14,Treasury Bond,2009-09-15,face_value_lent,33000000
+2008-10-08,2008-10-09,Treasury Bond,2009-09-15,face_value_lent,35600000
+2008-10-08,2008-10-09,Treasury Bond,2010-08-15,face_value_lent,8200000
+2008-10-08,2008-10-09,Treasury Bond,2017-02-15,face_value_lent,5000000
+2008-10-08,2008-10-09,Treasury Bond,2017-02-15,face_value_lent,60200000
+2008-10-08,2008-10-10,Treasury Bond,2009-09-15,face_value_lent,5000000
+2008-10-08,2008-10-10,Treasury Bond,2010-08-15,face_value_lent,72000000
+2008-10-08,2008-10-10,Treasury Bond,2021-05-15,face_value_lent,164000000
+2008-10-08,2008-10-13,Treasury Bond,2010-08-15,face_value_lent,14200000
+2008-10-08,2008-10-13,Treasury Bond,2010-08-15,face_value_lent,68000000
+2008-10-08,2008-10-14,Treasury Bond,2009-09-15,face_value_lent,34500000
+2008-10-09,2008-10-10,Treasury Bond,2009-09-15,face_value_lent,5000000
+2008-10-09,2008-10-10,Treasury Bond,2009-09-15,face_value_lent,6300000
+2008-10-09,2008-10-10,Treasury Bond,2009-09-15,face_value_lent,57300000
+2008-10-09,2008-10-10,Treasury Bond,2010-08-15,face_value_lent,26200000
+2008-10-09,2008-10-10,Treasury Bond,2010-08-15,face_value_lent,45000000
+2008-10-09,2008-10-13,Treasury Bond,2010-08-15,face_value_lent,24000000
+2008-10-09,2008-10-13,Treasury Bond,2010-08-15,face_value_lent,35000000
+2008-10-09,2008-10-14,Treasury Bond,2009-09-15,face_value_lent,5000000
+2008-10-09,2008-10-15,Treasury Bond,2010-08-15,face_value_lent,62000000
+2008-10-10,2008-10-13,Treasury Bond,2009-09-15,face_value_lent,61100000
+2008-10-10,2008-10-13,Treasury Bond,2010-08-15,face_value_lent,18000000
+2008-10-10,2008-10-13,Treasury Bond,2010-08-15,face_value_lent,140200000
+2008-10-10,2008-10-13,Treasury Bond,2021-05-15,face_value_lent,15000000
+2008-10-10,2008-10-14,Treasury Bond,2010-08-15,face_value_lent,121000000
+2008-10-10,2008-10-24,Treasury Bond,2010-08-15,face_value_lent,60000000
+2008-10-13,2008-10-14,Treasury Bond,2009-09-15,face_value_lent,47800000
+2008-10-13,2008-10-14,Treasury Bond,2010-08-15,face_value_lent,5000000
+2008-10-13,2008-10-14,Treasury Bond,2010-08-15,face_value_lent,11000000
+2008-10-13,2008-10-14,Treasury Bond,2010-08-15,face_value_lent,47000000
+2008-10-13,2008-10-14,Treasury Bond,2010-08-15,face_value_lent,133000000
+2008-10-13,2008-10-15,Treasury Bond,2009-09-15,face_value_lent,11500000
+2008-10-13,2008-10-15,Treasury Bond,2010-08-15,face_value_lent,13600000
+2008-10-13,2008-10-15,Treasury Bond,2010-08-15,face_value_lent,20000000
+2008-10-13,2008-10-20,Treasury Bond,2010-08-15,face_value_lent,18600000
+2008-10-14,2008-10-15,Treasury Bond,2009-09-15,face_value_lent,5500000
+2008-10-14,2008-10-15,Treasury Bond,2010-08-15,face_value_lent,29500000
+2008-10-14,2008-10-15,Treasury Bond,2010-08-15,face_value_lent,50000000
+2008-10-14,2008-10-15,Treasury Bond,2010-08-15,face_value_lent,70000000
+2008-10-14,2008-10-15,Treasury Bond,2010-08-15,face_value_lent,84200000
+2008-10-14,2008-10-15,Treasury Bond,2011-06-15,face_value_lent,12000000
+2008-10-14,2008-10-15,Treasury Bond,2011-06-15,face_value_lent,45500000
+2008-10-14,2008-10-16,Treasury Bond,2010-08-15,face_value_lent,40400000
+2008-10-14,2008-10-17,Treasury Bond,2009-09-15,face_value_lent,118900000
+2008-10-14,2008-10-20,Treasury Bond,2010-08-15,face_value_lent,11300000
+2008-10-15,2008-10-16,Treasury Bond,2010-08-15,face_value_lent,6400000
+2008-10-15,2008-10-16,Treasury Bond,2011-06-15,face_value_lent,14500000
+2008-10-15,2008-10-17,Treasury Bond,2009-09-15,face_value_lent,10600000
+2008-10-15,2008-10-17,Treasury Bond,2009-09-15,face_value_lent,47000000
+2008-10-15,2008-10-17,Treasury Bond,2010-08-15,face_value_lent,63000000
+2008-10-16,2008-10-17,Treasury Bond,2009-09-15,face_value_lent,6000000
+2008-10-16,2008-10-17,Treasury Bond,2009-09-15,face_value_lent,7500000
+2008-10-16,2008-10-17,Treasury Bond,2009-09-15,face_value_lent,8000000
+2008-10-16,2008-10-17,Treasury Bond,2009-09-15,face_value_lent,18300000
+2008-10-16,2008-10-17,Treasury Bond,2009-09-15,face_value_lent,22800000
+2008-10-16,2008-10-17,Treasury Bond,2009-09-15,face_value_lent,64100000
+2008-10-16,2008-10-17,Treasury Bond,2010-08-15,face_value_lent,5000000
+2008-10-16,2008-10-17,Treasury Bond,2011-06-15,face_value_lent,13000000
+2008-10-16,2008-10-17,Treasury Bond,2011-06-15,face_value_lent,93000000
+2008-10-16,2008-10-23,Treasury Bond,2010-08-15,face_value_lent,59000000
+2008-10-17,2008-10-20,Treasury Bond,2010-08-15,face_value_lent,7600000
+2008-10-17,2008-10-20,Treasury Bond,2010-08-15,face_value_lent,8000000
+2008-10-17,2008-10-20,Treasury Bond,2010-08-15,face_value_lent,59100000
+2008-10-17,2008-10-21,Treasury Bond,2010-08-15,face_value_lent,32000000
+2008-10-17,2008-10-21,Treasury Bond,2010-08-15,face_value_lent,56900000
+2008-10-21,2008-10-22,Treasury Bond,2009-09-15,face_value_lent,100000000
+2008-10-21,2008-10-22,Treasury Bond,2010-08-15,face_value_lent,18200000
+2008-10-21,2008-10-22,Treasury Bond,2010-08-15,face_value_lent,43800000
+2008-10-21,2008-10-23,Treasury Bond,2017-02-15,face_value_lent,18130000
+2008-10-21,2008-10-24,Treasury Bond,2010-08-15,face_value_lent,12100000
+2008-10-22,2008-10-23,Treasury Bond,2010-08-15,face_value_lent,14000000
+2008-10-22,2008-10-23,Treasury Bond,2010-08-15,face_value_lent,55000000
+2008-10-22,2008-10-23,Treasury Bond,2017-02-15,face_value_lent,60900000
+2008-10-23,2008-10-24,Treasury Bond,2017-02-15,face_value_lent,67630000
+2008-10-27,2008-10-28,Treasury Bond,2009-09-15,face_value_lent,10000000
+2008-10-27,2008-10-28,Treasury Bond,2009-09-15,face_value_lent,14700000
+2008-10-27,2008-10-28,Treasury Bond,2009-09-15,face_value_lent,74000000
+2008-10-27,2008-10-28,Treasury Bond,2010-08-15,face_value_lent,20600000
+2008-10-27,2008-10-28,Treasury Bond,2010-08-15,face_value_lent,80000000
+2008-10-30,2008-11-03,Treasury Bond,2013-05-15,face_value_lent,51500000
+2008-10-31,2008-11-03,Treasury Bond,2013-05-15,face_value_lent,24600000
+2008-11-03,2008-11-04,Treasury Bond,2013-05-15,face_value_lent,50600000
+2008-11-03,2008-11-05,Treasury Bond,2013-05-15,face_value_lent,12750000
+2008-11-03,2008-11-05,Treasury Bond,2013-05-15,face_value_lent,20000000
+2008-11-04,2008-11-05,Treasury Bond,2013-05-15,face_value_lent,28800000
+2008-11-04,2008-11-05,Treasury Bond,2013-05-15,face_value_lent,30600000
+2008-11-04,2008-11-05,Treasury Bond,2013-05-15,face_value_lent,43400000
+2008-11-04,2008-11-05,Treasury Bond,2015-04-15,face_value_lent,25200000
+2008-11-05,2008-11-06,Treasury Bond,2015-04-15,face_value_lent,5000000
+2008-11-05,2008-11-06,Treasury Bond,2015-04-15,face_value_lent,17000000
+2008-11-05,2008-11-06,Treasury Bond,2015-04-15,face_value_lent,31000000
+2008-11-05,2008-11-06,Treasury Bond,2015-04-15,face_value_lent,5000000
+2008-11-05,2008-11-06,Treasury Bond,2015-04-15,face_value_lent,5000000
+2008-11-07,2008-11-10,Treasury Bond,2017-02-15,face_value_lent,10000000
+2008-11-07,2008-11-10,Treasury Bond,2017-02-15,face_value_lent,16000000
+2008-11-07,2008-11-10,Treasury Bond,2017-02-15,face_value_lent,23800000
+2008-11-14,2008-11-17,Treasury Bond,2009-09-15,face_value_lent,10800000
+2008-11-28,2008-12-01,Treasury Bond,2011-06-15,face_value_lent,8700000
+2008-11-28,2008-12-01,Treasury Bond,2011-06-15,face_value_lent,17500000
+2008-12-01,2008-12-02,Treasury Bond,2010-08-15,face_value_lent,23000000
+2008-12-02,2008-12-03,Treasury Bond,2015-04-15,face_value_lent,40000000
+2008-12-02,2008-12-03,Treasury Bond,2017-02-15,face_value_lent,97000000
+2008-12-02,2008-12-04,Treasury Bond,2010-08-15,face_value_lent,5700000
+2008-12-02,2008-12-04,Treasury Bond,2015-04-15,face_value_lent,12000000
+2008-12-02,2008-12-08,Treasury Bond,2010-08-15,face_value_lent,22450000
+2008-12-02,2008-12-08,Treasury Bond,2015-04-15,face_value_lent,8000000
+2008-12-03,2008-12-04,Treasury Bond,2013-05-15,face_value_lent,162000000
+2008-12-03,2008-12-05,Treasury Bond,2010-08-15,face_value_lent,32400000
+2008-12-03,2008-12-08,Treasury Bond,2010-08-15,face_value_lent,12000000
+2008-12-03,2008-12-08,Treasury Bond,2010-08-15,face_value_lent,25000000
+2008-12-03,2008-12-08,Treasury Bond,2015-04-15,face_value_lent,85500000
+2008-12-03,2008-12-09,Treasury Bond,2013-05-15,face_value_lent,11000000
+2008-12-04,2008-12-05,Treasury Bond,2010-08-15,face_value_lent,5000000
+2008-12-04,2008-12-05,Treasury Bond,2013-05-15,face_value_lent,150400000
+2008-12-04,2008-12-09,Treasury Bond,2013-05-15,face_value_lent,36600000
+2008-12-05,2008-12-08,Treasury Bond,2013-05-15,face_value_lent,134000000
+2008-12-05,2008-12-08,Treasury Bond,2015-04-15,face_value_lent,5000000
+2008-12-05,2008-12-08,Treasury Bond,2015-04-15,face_value_lent,13700000
+2008-12-05,2008-12-08,Treasury Bond,2015-04-15,face_value_lent,24000000
+2008-12-05,2008-12-09,Treasury Bond,2010-08-15,face_value_lent,10000000
+2008-12-05,2008-12-09,Treasury Bond,2015-04-15,face_value_lent,15500000
+2008-12-05,2008-12-10,Treasury Bond,2010-08-15,face_value_lent,24000000
+2008-12-05,2008-12-10,Treasury Bond,2015-04-15,face_value_lent,14400000
+2008-12-05,2008-12-11,Treasury Bond,2013-05-15,face_value_lent,11500000
+2008-12-08,2008-12-09,Treasury Bond,2010-08-15,face_value_lent,16000000
+2008-12-08,2008-12-09,Treasury Bond,2013-05-15,face_value_lent,43400000
+2008-12-08,2008-12-09,Treasury Bond,2015-04-15,face_value_lent,12000000
+2008-12-08,2008-12-09,Treasury Bond,2015-04-15,face_value_lent,33000000
+2008-12-08,2008-12-10,Treasury Bond,2010-08-15,face_value_lent,6750000
+2008-12-08,2008-12-10,Treasury Bond,2015-04-15,face_value_lent,97500000
+2008-12-09,2008-12-10,Treasury Bond,2010-08-15,face_value_lent,6000000
+2008-12-09,2008-12-10,Treasury Bond,2010-08-15,face_value_lent,20700000
+2008-12-09,2008-12-10,Treasury Bond,2015-04-15,face_value_lent,22460000
+2008-12-09,2008-12-11,Treasury Bond,2013-05-15,face_value_lent,8000000
+2008-12-09,2008-12-11,Treasury Bond,2013-05-15,face_value_lent,10000000
+2008-12-10,2008-12-11,Treasury Bond,2011-06-15,face_value_lent,6000000
+2008-12-10,2008-12-11,Treasury Bond,2011-06-15,face_value_lent,21000000
+2008-12-10,2008-12-11,Treasury Bond,2013-05-15,face_value_lent,5000000
+2008-12-10,2008-12-11,Treasury Bond,2013-05-15,face_value_lent,123400000
+2008-12-10,2008-12-16,Treasury Bond,2011-06-15,face_value_lent,28600000
+2008-12-10,2008-12-18,Treasury Bond,2011-06-15,face_value_lent,21400000
+2008-12-11,2008-12-24,Treasury Bond,2011-06-15,face_value_lent,60000000
+2008-12-12,2008-12-16,Treasury Bond,2011-06-15,face_value_lent,5000000
+2008-12-15,2008-12-16,Treasury Bond,2011-06-15,face_value_lent,10000000
+2008-12-15,2008-12-16,Treasury Bond,2011-06-15,face_value_lent,53200000
+2008-12-15,2008-12-18,Treasury Bond,2011-06-15,face_value_lent,20000000
+2008-12-16,2008-12-17,Treasury Bond,2011-06-15,face_value_lent,41700000
+2008-12-16,2008-12-23,Treasury Bond,2011-06-15,face_value_lent,13600000
+2008-12-17,2008-12-18,Treasury Bond,2011-06-15,face_value_lent,18500000
+2008-12-17,2009-01-02,Treasury Bond,2011-06-15,face_value_lent,11000000
+2008-12-18,2008-12-19,Treasury Bond,2011-06-15,face_value_lent,19800000
+2008-12-18,2008-12-23,Treasury Bond,2011-06-15,face_value_lent,13500000
+2008-12-18,2008-12-24,Treasury Bond,2011-06-15,face_value_lent,5100000
+2008-12-18,2009-01-07,Treasury Bond,2011-06-15,face_value_lent,21500000
+2008-12-19,2008-12-22,Treasury Bond,2011-06-15,face_value_lent,16800000
+2008-12-22,2008-12-23,Treasury Bond,2011-06-15,face_value_lent,29000000
+2008-12-23,2008-12-24,Treasury Bond,2011-06-15,face_value_lent,16700000
+2008-12-23,2009-01-06,Treasury Bond,2011-06-15,face_value_lent,16500000
+2008-12-24,2009-01-08,Treasury Bond,2011-06-15,face_value_lent,27000000
+2008-12-31,2009-01-07,Treasury Bond,2011-06-15,face_value_lent,5000000
+2009-01-02,2009-01-07,Treasury Bond,2011-06-15,face_value_lent,9000000
+2009-01-06,2009-01-07,Treasury Bond,2011-06-15,face_value_lent,14000000
+2009-01-06,2009-01-08,Treasury Bond,2011-06-15,face_value_lent,50000000
+2009-01-07,2009-01-08,Treasury Bond,2011-06-15,face_value_lent,10000000
+2009-01-07,2009-01-08,Treasury Bond,2011-06-15,face_value_lent,47000000
+2009-01-08,2009-01-09,Treasury Bond,2015-04-15,face_value_lent,81000000
+2009-01-08,2009-01-12,Treasury Bond,2015-04-15,face_value_lent,5000000
+2009-01-09,2009-01-12,Treasury Bond,2015-04-15,face_value_lent,5000000
+2009-01-09,2009-01-12,Treasury Bond,2015-04-15,face_value_lent,53000000
+2009-01-13,2009-01-14,Treasury Bond,2014-06-15,face_value_lent,12000000
+2009-01-13,2009-01-14,Treasury Bond,2014-06-15,face_value_lent,21500000
+2009-01-13,2009-01-14,Treasury Bond,2014-06-15,face_value_lent,23000000
+2009-01-13,2009-01-14,Treasury Bond,2014-06-15,face_value_lent,33500000
+2009-01-19,2009-01-20,Treasury Bond,2015-04-15,face_value_lent,41000000
+2009-01-22,2009-01-23,Treasury Bond,2013-05-15,face_value_lent,65100000
+2009-01-23,2009-01-27,Treasury Bond,2015-04-15,face_value_lent,7000000
+2009-01-23,2009-01-27,Treasury Bond,2015-04-15,face_value_lent,28000000
+2009-02-03,2009-02-04,Treasury Bond,2013-05-15,face_value_lent,5000000
+2009-02-03,2009-02-04,Treasury Bond,2015-04-15,face_value_lent,49000000
+2009-02-03,2009-02-04,Treasury Bond,2015-04-15,face_value_lent,52600000
+2009-02-04,2009-02-05,Treasury Bond,2015-04-15,face_value_lent,78400000
+2009-02-04,2009-02-10,Treasury Bond,2015-04-15,face_value_lent,12360000
+2009-02-05,2009-02-06,Treasury Bond,2015-04-15,face_value_lent,5000000
+2009-02-05,2009-02-09,Treasury Bond,2015-04-15,face_value_lent,80000000
+2009-02-05,2009-02-10,Treasury Bond,2015-04-15,face_value_lent,15000000
+2009-02-05,2009-02-11,Treasury Bond,2015-04-15,face_value_lent,13000000
+2009-02-06,2009-02-09,Treasury Bond,2015-04-15,face_value_lent,10000000
+2009-02-09,2009-02-11,Treasury Bond,2015-04-15,face_value_lent,90300000
+2009-02-10,2009-02-11,Treasury Bond,2014-06-15,face_value_lent,9000000
+2009-02-10,2009-02-11,Treasury Bond,2015-04-15,face_value_lent,12100000
+2009-02-10,2009-02-11,Treasury Bond,2015-04-15,face_value_lent,20000000
+2009-02-10,2009-02-11,Treasury Bond,2015-04-15,face_value_lent,27360000
+2009-02-10,2009-02-11,Treasury Bond,2015-04-15,face_value_lent,68000000
+2009-02-10,2009-02-16,Treasury Bond,2014-06-15,face_value_lent,30000000
+2009-02-11,2009-02-12,Treasury Bond,2014-06-15,face_value_lent,25000000
+2009-02-11,2009-02-12,Treasury Bond,2014-06-15,face_value_lent,30900000
+2009-02-11,2009-02-18,Treasury Bond,2014-06-15,face_value_lent,14300000
+2009-02-11,2009-02-18,Treasury Bond,2014-06-15,face_value_lent,52500000
+2009-02-12,2009-02-13,Treasury Bond,2011-06-15,face_value_lent,5500000
+2009-02-12,2009-02-13,Treasury Bond,2011-06-15,face_value_lent,18500000
+2009-02-12,2009-02-13,Treasury Bond,2013-05-15,face_value_lent,20500000
+2009-02-12,2009-02-13,Treasury Bond,2013-05-15,face_value_lent,22500000
+2009-02-12,2009-02-17,Treasury Bond,2014-06-15,face_value_lent,43500000
+2009-02-12,2009-02-18,Treasury Bond,2014-06-15,face_value_lent,45000000
+2009-02-13,2009-02-16,Treasury Bond,2011-06-15,face_value_lent,5800000
+2009-02-13,2009-02-16,Treasury Bond,2011-06-15,face_value_lent,14500000
+2009-02-13,2009-02-16,Treasury Bond,2013-05-15,face_value_lent,20300000
+2009-02-13,2009-02-16,Treasury Bond,2013-05-15,face_value_lent,29500000
+2009-02-13,2009-02-18,Treasury Bond,2014-06-15,face_value_lent,40000000
+2009-02-16,2009-02-18,Treasury Bond,2014-06-15,face_value_lent,7100000
+2009-02-16,2009-02-18,Treasury Bond,2014-06-15,face_value_lent,7900000
+2009-02-16,2009-02-18,Treasury Bond,2014-06-15,face_value_lent,22300000
+2009-02-16,2009-02-18,Treasury Bond,2014-06-15,face_value_lent,104700000
+2009-02-17,2009-02-18,Treasury Bond,2014-06-15,face_value_lent,13000000
+2009-02-17,2009-02-18,Treasury Bond,2014-06-15,face_value_lent,23100000
+2009-03-03,2009-03-04,Treasury Bond,2010-08-15,face_value_lent,7500000
+2009-03-03,2009-03-04,Treasury Bond,2014-06-15,face_value_lent,5000000
+2009-03-05,2009-03-06,Treasury Bond,2014-06-15,face_value_lent,5000000
+2009-03-06,2009-03-09,Treasury Bond,2010-08-15,face_value_lent,5200000
+2009-03-06,2009-03-09,Treasury Bond,2010-08-15,face_value_lent,11300000
+2009-03-09,2009-03-10,Treasury Bond,2010-08-15,face_value_lent,10000000
+2009-03-09,2009-03-10,Treasury Bond,2010-08-15,face_value_lent,10000000
+2009-03-09,2009-03-10,Treasury Bond,2010-08-15,face_value_lent,11400000
+2009-03-09,2009-03-11,Treasury Bond,2010-08-15,face_value_lent,10000000
+2009-03-09,2009-03-18,Treasury Bond,2010-08-15,face_value_lent,8800000
+2009-03-10,2009-03-11,Treasury Bond,2010-08-15,face_value_lent,54700000
+2009-03-10,2009-03-11,Treasury Bond,2011-06-15,face_value_lent,5000000
+2009-03-10,2009-03-11,Treasury Bond,2014-06-15,face_value_lent,10000000
+2009-03-11,2009-03-16,Treasury Bond,2010-08-15,face_value_lent,97000000
+2009-03-12,2009-03-13,Treasury Bond,2010-08-15,face_value_lent,9100000
+2009-03-12,2009-03-13,Treasury Bond,2010-08-15,face_value_lent,18700000
+2009-03-16,2009-03-17,Treasury Bond,2010-08-15,face_value_lent,75000000
+2009-03-17,2009-03-18,Treasury Bond,2010-08-15,face_value_lent,5000000
+2009-03-17,2009-03-18,Treasury Bond,2010-08-15,face_value_lent,45000000
+2009-03-26,2009-03-30,Treasury Bond,2009-09-15,face_value_lent,18000000
+2009-03-27,2009-03-31,Treasury Bond,2009-09-15,face_value_lent,9300000
+2009-03-27,2009-03-31,Treasury Bond,2009-09-15,face_value_lent,16000000
+2009-03-27,2009-03-31,Treasury Bond,2009-09-15,face_value_lent,17000000
+2009-03-30,2009-03-31,Treasury Bond,2009-09-15,face_value_lent,22700000
+2009-04-27,2009-04-28,Treasury Bond,2010-08-15,face_value_lent,10000000
+2009-04-27,2009-04-29,Treasury Bond,2010-08-15,face_value_lent,26000000
+2009-04-28,2009-04-29,Treasury Bond,2010-08-15,face_value_lent,5000000
+2009-04-29,2009-04-30,Treasury Bond,2010-08-15,face_value_lent,8000000
+2009-05-28,2009-06-01,Treasury Bond,2015-04-15,face_value_lent,44700000
+2009-06-01,2009-06-02,Treasury Bond,2015-04-15,face_value_lent,5000000
+2009-06-01,2009-06-02,Treasury Bond,2015-04-15,face_value_lent,47000000
+2009-06-02,2009-06-03,Treasury Bond,2015-04-15,face_value_lent,49000000
+2009-06-09,2009-06-10,Treasury Bond,2013-05-15,face_value_lent,85000000
+2009-06-09,2009-06-10,Treasury Bond,2015-04-15,face_value_lent,5000000
+2009-06-10,2009-06-11,Treasury Bond,2013-05-15,face_value_lent,10000000
+2009-06-10,2009-06-11,Treasury Bond,2013-05-15,face_value_lent,134000000
+2009-08-04,2009-08-05,Treasury Bond,2015-04-15,face_value_lent,123000000
+2009-08-05,2009-08-06,Treasury Bond,2015-04-15,face_value_lent,31500000
+2009-08-05,2009-08-06,Treasury Bond,2015-04-15,face_value_lent,86000000
+2009-08-05,2009-08-07,Treasury Bond,2015-04-15,face_value_lent,12000000
+2009-08-07,2009-08-10,Treasury Bond,2015-04-15,face_value_lent,11600000
+2009-08-07,2009-08-10,Treasury Bond,2015-04-15,face_value_lent,23400000
+2009-08-19,2009-08-20,Treasury Bond,2015-04-15,face_value_lent,5000000
+2009-08-19,2009-08-20,Treasury Bond,2015-04-15,face_value_lent,8100000
+2009-08-19,2009-08-20,Treasury Bond,2015-04-15,face_value_lent,9300000
+2009-08-19,2009-08-20,Treasury Bond,2015-04-15,face_value_lent,33000000
+2009-08-19,2009-08-20,Treasury Bond,2015-04-15,face_value_lent,72600000
+2009-08-31,2009-09-01,Treasury Bond,2014-06-15,face_value_lent,40900000
+2009-08-31,2009-09-01,Treasury Bond,2015-04-15,face_value_lent,38400000
+2009-08-31,2009-09-02,Treasury Bond,2014-06-15,face_value_lent,19100000
+2009-09-01,2009-09-02,Treasury Bond,2014-06-15,face_value_lent,20000000
+2009-09-01,2009-09-02,Treasury Bond,2014-06-15,face_value_lent,39815000
+2009-09-01,2009-09-02,Treasury Bond,2014-06-15,face_value_lent,44600000
+2009-09-01,2009-09-02,Treasury Bond,2014-06-15,face_value_lent,98400000
+2009-09-28,2009-09-29,Treasury Bond,2015-04-15,face_value_lent,32000000
+2009-09-28,2009-09-29,Treasury Bond,2015-04-15,face_value_lent,56400000
+2009-09-28,2009-09-29,Treasury Bond,2015-04-15,face_value_lent,116200000
+2009-10-14,2009-10-15,Treasury Bond,2015-04-15,face_value_lent,5800000
+2009-10-21,2009-10-22,Treasury Bond,2015-04-15,face_value_lent,23600000
+2009-11-16,2009-11-17,Treasury Bond,2014-06-15,face_value_lent,7300000
+2009-11-20,2009-11-23,Treasury Bond,2012-04-15,face_value_lent,5000000
+2009-12-02,2009-12-03,Treasury Indexed Bond,2015-08-20,face_value_lent,5000000
+2009-12-03,2009-12-04,Treasury Indexed Bond,2015-08-20,face_value_lent,7500000
+2009-12-14,2009-12-15,Treasury Bond,2012-04-15,face_value_lent,9200000
+2009-12-14,2009-12-15,Treasury Bond,2012-04-15,face_value_lent,24100000
+2010-01-07,2010-01-08,Treasury Bond,2015-04-15,face_value_lent,11000000
+2010-01-11,2010-01-12,Treasury Bond,2012-04-15,face_value_lent,5000000
+2010-01-11,2010-01-12,Treasury Bond,2012-04-15,face_value_lent,37000000
+2010-01-11,2010-01-12,Treasury Bond,2012-04-15,face_value_lent,40000000
+2010-01-11,2010-01-12,Treasury Bond,2012-04-15,face_value_lent,93000000
+2010-01-11,2010-01-12,Treasury Bond,2012-04-15,face_value_lent,100000000
+2010-01-14,2010-01-15,Treasury Bond,2011-06-15,face_value_lent,140000000
+2010-01-15,2010-01-18,Treasury Bond,2012-04-15,face_value_lent,13600000
+2010-01-15,2010-01-18,Treasury Bond,2012-04-15,face_value_lent,27500000
+2010-01-22,2010-01-25,Treasury Bond,2012-04-15,face_value_lent,51000000
+2010-01-25,2010-01-27,Treasury Bond,2012-04-15,face_value_lent,17100000
+2010-01-25,2010-01-27,Treasury Bond,2012-04-15,face_value_lent,80500000
+2010-01-25,2010-01-28,Treasury Bond,2012-04-15,face_value_lent,25900000
+2010-01-27,2010-01-28,Treasury Bond,2012-04-15,face_value_lent,21000000
+2010-01-27,2010-01-28,Treasury Bond,2012-04-15,face_value_lent,27700000
+2010-01-27,2010-01-28,Treasury Bond,2012-04-15,face_value_lent,40960000
+2010-01-27,2010-01-28,Treasury Bond,2012-04-15,face_value_lent,188000000
+2010-02-01,2010-02-02,Treasury Bond,2012-04-15,face_value_lent,11000000
+2010-02-01,2010-02-02,Treasury Bond,2012-04-15,face_value_lent,22450000
+2010-04-01,2010-04-06,Treasury Bond,2011-06-15,face_value_lent,69850000
+2010-04-23,2010-04-27,Treasury Bond,2011-06-15,face_value_lent,21000000
+2010-05-14,2010-05-17,Treasury Bond,2012-04-15,face_value_lent,50000000
+2010-05-17,2010-05-18,Treasury Bond,2012-04-15,face_value_lent,39700000
+2010-05-17,2010-05-18,Treasury Bond,2015-04-15,face_value_lent,20000000
+2010-05-18,2010-05-19,Treasury Bond,2012-04-15,face_value_lent,37900000
+2010-06-02,2010-06-04,Treasury Bond,2017-02-15,face_value_lent,25000000
+2010-06-03,2010-06-04,Treasury Bond,2017-02-15,face_value_lent,13500000
+2010-06-04,2010-06-09,Treasury Bond,2015-04-15,face_value_lent,35300000
+2010-06-08,2010-06-09,Treasury Bond,2013-05-15,face_value_lent,13000000
+2010-06-30,2010-07-01,Treasury Bond,2017-02-15,face_value_lent,29960000
+2010-06-30,2010-07-01,Treasury Bond,2017-02-15,face_value_lent,53500000
+2010-07-01,2010-07-02,Treasury Bond,2017-02-15,face_value_lent,6000000
+2010-07-02,2010-07-05,Treasury Bond,2015-04-15,face_value_lent,43000000
+2010-07-05,2010-07-06,Treasury Bond,2015-04-15,face_value_lent,11000000
+2010-07-23,2010-07-26,Treasury Bond,2017-02-15,face_value_lent,4500000
+2010-07-23,2010-07-26,Treasury Bond,2017-02-15,face_value_lent,17310000
+2010-08-04,2010-08-05,Treasury Bond,2015-04-15,face_value_lent,9000000
+2010-08-04,2010-08-05,Treasury Bond,2015-04-15,face_value_lent,15200000
+2010-08-04,2010-08-05,Treasury Bond,2015-04-15,face_value_lent,16700000
+2010-08-13,2010-08-16,Treasury Indexed Bond,2020-08-20,face_value_lent,97000000
+2010-08-16,2010-08-18,Treasury Indexed Bond,2020-08-20,face_value_lent,32000000
+2010-08-23,2010-08-24,Treasury Bond,2015-04-15,face_value_lent,29000000
+2010-08-23,2010-08-24,Treasury Bond,2015-04-15,face_value_lent,57000000
+2010-08-24,2010-08-25,Treasury Bond,2015-04-15,face_value_lent,12100000
+2010-08-25,2010-08-26,Treasury Indexed Bond,2020-08-20,face_value_lent,5000000
+2010-09-03,2010-09-06,Treasury Bond,2015-04-15,face_value_lent,26000000
+2010-09-03,2010-09-06,Treasury Bond,2015-04-15,face_value_lent,32000000
+2010-09-03,2010-09-06,Treasury Bond,2015-04-15,face_value_lent,59809000
+2010-09-13,2010-09-14,Treasury Bond,2012-04-15,face_value_lent,5000000
+2010-09-13,2010-09-14,Treasury Bond,2012-04-15,face_value_lent,21000000
+2010-09-13,2010-09-14,Treasury Bond,2012-04-15,face_value_lent,47100000
+2010-09-13,2010-09-14,Treasury Bond,2012-04-15,face_value_lent,71000000
+2010-09-21,2010-09-22,Treasury Bond,2015-04-15,face_value_lent,23000000
+2010-09-23,2010-09-24,Treasury Bond,2017-02-15,face_value_lent,7800000
+2010-09-30,2010-10-05,Treasury Indexed Bond,2020-08-20,face_value_lent,12500000
+2010-10-06,2010-10-07,Treasury Bond,2015-04-15,face_value_lent,10000000
+2010-10-06,2010-10-07,Treasury Bond,2015-04-15,face_value_lent,13000000
+2010-10-06,2010-10-07,Treasury Bond,2015-04-15,face_value_lent,18500000
+2010-11-10,2010-11-11,Treasury Indexed Bond,2025-09-20,face_value_lent,8000000
+2010-12-02,2010-12-03,Treasury Bond,2012-04-15,face_value_lent,5500000
+2010-12-02,2010-12-03,Treasury Bond,2012-04-15,face_value_lent,70000000
+2010-12-10,2010-12-13,Treasury Bond,2018-01-21,face_value_lent,10200000
+2011-01-07,2011-01-10,Treasury Bond,2013-05-15,face_value_lent,15500000
+2011-01-19,2011-01-20,Treasury Bond,2014-10-21,face_value_lent,12000000
+2011-01-20,2011-01-21,Treasury Bond,2014-10-21,face_value_lent,13000000
+2011-01-21,2011-01-24,Treasury Bond,2016-06-15,face_value_lent,5500000
+2011-01-28,2011-01-31,Treasury Bond,2013-05-15,face_value_lent,33000000
+2011-01-31,2011-02-01,Treasury Bond,2013-05-15,face_value_lent,5000000
+2011-01-31,2011-02-01,Treasury Bond,2013-05-15,face_value_lent,25500000
+2011-03-01,2011-03-02,Treasury Bond,2013-05-15,face_value_lent,5000000
+2011-03-01,2011-03-02,Treasury Bond,2013-05-15,face_value_lent,6300000
+2011-03-01,2011-03-02,Treasury Bond,2013-05-15,face_value_lent,16000000
+2011-03-01,2011-03-02,Treasury Bond,2013-05-15,face_value_lent,27700000
+2011-06-27,2011-06-28,Treasury Bond,2013-12-15,face_value_lent,141000000
+2011-06-27,2011-06-28,Treasury Bond,2017-02-15,face_value_lent,5000000
+2011-06-27,2011-06-28,Treasury Bond,2017-02-15,face_value_lent,35500000
+2011-06-27,2011-06-28,Treasury Bond,2017-02-15,face_value_lent,43600000
+2011-06-27,2011-06-28,Treasury Bond,2017-02-15,face_value_lent,66000000
+2011-07-20,2011-07-21,Treasury Bond,2019-03-15,face_value_lent,99600000
+2011-07-26,2011-07-28,Treasury Indexed Bond,2025-09-20,face_value_lent,7800000
+2011-07-27,2011-07-28,Treasury Indexed Bond,2025-09-20,face_value_lent,13000000
+2011-08-10,2011-08-11,Treasury Bond,2019-03-15,face_value_lent,5000000
+2011-08-12,2011-08-15,Treasury Bond,2017-02-15,face_value_lent,5500000
+2011-08-22,2011-08-23,Treasury Indexed Bond,2025-09-20,face_value_lent,5000000
+2011-08-23,2011-08-24,Treasury Bond,2018-01-21,face_value_lent,10380000
+2011-08-23,2011-08-24,Treasury Indexed Bond,2025-09-20,face_value_lent,19000000
+2011-08-29,2011-08-30,Treasury Bond,2017-02-15,face_value_lent,9500000
+2011-08-30,2011-08-31,Treasury Bond,2013-12-15,face_value_lent,89100000
+2011-09-01,2011-09-02,Treasury Bond,2019-03-15,face_value_lent,62400000
+2011-09-15,2011-09-16,Treasury Bond,2017-02-15,face_value_lent,34000000
+2011-09-15,2011-09-16,Treasury Indexed Bond,2025-09-20,face_value_lent,5000000
+2011-09-16,2011-09-19,Treasury Bond,2013-12-15,face_value_lent,5000000
+2011-09-16,2011-09-19,Treasury Bond,2013-12-15,face_value_lent,11200000
+2011-09-16,2011-09-19,Treasury Indexed Bond,2025-09-20,face_value_lent,9000000
+2011-09-27,2011-09-28,Treasury Bond,2013-12-15,face_value_lent,50500000
+2011-09-27,2011-09-29,Treasury Bond,2013-12-15,face_value_lent,30000000
+2011-09-28,2011-09-29,Treasury Bond,2013-12-15,face_value_lent,28500000
+2011-09-30,2011-10-04,Treasury Bond,2017-02-15,face_value_lent,26000000
+2011-10-06,2011-10-10,Treasury Bond,2018-01-21,face_value_lent,60300000
+2011-10-06,2011-10-10,Treasury Indexed Bond,2025-09-20,face_value_lent,30000000
+2011-10-07,2011-10-10,Treasury Bond,2018-01-21,face_value_lent,5200000
+2011-10-07,2011-10-10,Treasury Bond,2018-01-21,face_value_lent,8700000
+2011-10-07,2011-10-10,Treasury Bond,2018-01-21,face_value_lent,10000000
+2011-10-07,2011-10-10,Treasury Bond,2018-01-21,face_value_lent,16100000
+2011-10-19,2011-10-20,Treasury Bond,2013-12-15,face_value_lent,15000000
+2011-10-24,2011-10-25,Treasury Bond,2019-03-15,face_value_lent,26000000
+2011-10-24,2011-10-25,Treasury Bond,2019-03-15,face_value_lent,27000000
+2011-11-01,2011-11-02,Treasury Indexed Bond,2025-09-20,face_value_lent,27000000
+2011-11-14,2011-11-15,Treasury Bond,2017-07-21,face_value_lent,46200000
+2011-11-17,2011-11-18,Treasury Indexed Bond,2025-09-20,face_value_lent,6500000
+2011-11-25,2011-11-29,Treasury Bond,2019-03-15,face_value_lent,20000000
+2011-11-25,2011-11-29,Treasury Bond,2019-03-15,face_value_lent,21100000
+2011-11-28,2011-11-29,Treasury Bond,2019-03-15,face_value_lent,10000000
+2011-11-29,2011-11-30,Treasury Bond,2013-12-15,face_value_lent,11500000
+2012-01-09,2012-01-10,Treasury Bond,2017-07-21,face_value_lent,12000000
+2012-01-10,2012-01-11,Treasury Bond,2017-07-21,face_value_lent,13500000
+2012-01-20,2012-01-23,Treasury Bond,2018-01-21,face_value_lent,5000000
+2012-01-20,2012-01-24,Treasury Bond,2018-01-21,face_value_lent,5000000
+2012-01-25,2012-01-27,Treasury Bond,2018-01-21,face_value_lent,5000000
+2012-01-25,2012-01-27,Treasury Bond,2018-01-21,face_value_lent,5000000
+2012-01-25,2012-01-27,Treasury Bond,2018-01-21,face_value_lent,16000000
+2012-01-27,2012-01-30,Treasury Bond,2017-02-15,face_value_lent,18000000
+2012-01-27,2012-01-30,Treasury Bond,2017-02-15,face_value_lent,46500000
+2012-01-27,2012-01-31,Treasury Bond,2017-02-15,face_value_lent,5000000
+2012-01-30,2012-01-31,Treasury Bond,2017-02-15,face_value_lent,5800000
+2012-01-31,2012-02-01,Treasury Bond,2018-01-21,face_value_lent,15500000
+2012-02-08,2012-02-09,Treasury Bond,2016-06-15,face_value_lent,10300000
+2012-02-10,2012-02-13,Treasury Bond,2017-02-15,face_value_lent,12000000
+2012-02-10,2012-02-13,Treasury Bond,2017-07-21,face_value_lent,13800000
+2012-02-10,2012-02-13,Treasury Bond,2017-07-21,face_value_lent,15000000
+2012-02-10,2012-02-13,Treasury Bond,2017-07-21,face_value_lent,24500000
+2012-02-15,2012-02-16,Treasury Bond,2013-12-15,face_value_lent,86100000
+2012-02-22,2012-02-23,Treasury Bond,2013-12-15,face_value_lent,5000000
+2012-02-28,2012-02-29,Treasury Bond,2017-07-21,face_value_lent,12000000
+2012-03-09,2012-03-12,Treasury Bond,2018-01-21,face_value_lent,5000000
+2012-03-12,2012-03-13,Treasury Bond,2017-02-15,face_value_lent,12000000
+2012-04-13,2012-04-16,Treasury Bond,2013-12-15,face_value_lent,10600000
+2012-04-20,2012-04-23,Treasury Indexed Bond,2015-08-20,face_value_lent,5000000
+2012-05-18,2012-05-21,Treasury Bond,2013-12-15,face_value_lent,5000000
+2012-06-07,2012-06-08,Treasury Bond,2013-12-15,face_value_lent,37000000
+2012-06-07,2012-06-08,Treasury Bond,2013-12-15,face_value_lent,50000000
+2012-06-07,2012-06-12,Treasury Bond,2013-12-15,face_value_lent,35600000
+2012-06-08,2012-06-12,Treasury Bond,2013-12-15,face_value_lent,50141000
+2012-06-08,2012-06-12,Treasury Bond,2019-03-15,face_value_lent,58000000
+2012-07-05,2012-07-06,Treasury Indexed Bond,2022-02-21,face_value_lent,13500000
+2012-07-16,2012-07-17,Treasury Indexed Bond,2022-02-21,face_value_lent,10100000
+2012-07-17,2012-07-18,Treasury Indexed Bond,2022-02-21,face_value_lent,5100000
+2012-08-01,2012-08-02,Treasury Bond,2014-06-15,face_value_lent,9500000
+2012-10-19,2012-10-22,Treasury Bond,2014-10-21,face_value_lent,11500000
+2012-11-22,2012-11-23,Treasury Bond,2013-12-15,face_value_lent,5105000
+2012-11-22,2012-11-23,Treasury Bond,2013-12-15,face_value_lent,25900000
+2013-01-31,2013-02-01,Treasury Indexed Bond,2022-02-21,face_value_lent,13000000
+2013-05-08,2013-05-09,Treasury Bond,2015-04-15,face_value_lent,7000000
+2013-05-08,2013-05-09,Treasury Bond,2015-04-15,face_value_lent,8400000
+2013-05-08,2013-05-09,Treasury Bond,2015-04-15,face_value_lent,23100000
+2013-06-18,2013-06-19,Treasury Bond,2015-04-15,face_value_lent,10000000
+2013-06-18,2013-06-19,Treasury Bond,2015-04-15,face_value_lent,15000000
+2013-06-18,2013-06-19,Treasury Bond,2015-04-15,face_value_lent,67700000
+2013-10-04,2013-10-08,Treasury Bond,2015-04-15,face_value_lent,8600000
+2013-11-19,2013-11-20,Treasury Bond,2020-04-15,face_value_lent,30000000
+2014-01-16,2014-01-17,Treasury Bond,2021-05-15,face_value_lent,30000000
+2014-01-17,2014-01-20,Treasury Bond,2021-05-15,face_value_lent,10000000
+2014-01-23,2014-01-24,Treasury Bond,2027-04-21,face_value_lent,46000000
+2014-01-29,2014-01-30,Treasury Bond,2015-04-15,face_value_lent,26000000
+2014-01-30,2014-01-31,Treasury Bond,2019-03-15,face_value_lent,72200000
+2014-02-11,2014-02-12,Treasury Bond,2021-05-15,face_value_lent,31300000
+2014-02-12,2014-02-13,Treasury Bond,2021-05-15,face_value_lent,14000000
+2014-02-28,2014-03-03,Treasury Bond,2021-05-15,face_value_lent,135000000
+2014-03-12,2014-03-13,Treasury Bond,2020-04-15,face_value_lent,12000000
+2014-03-12,2014-03-13,Treasury Bond,2020-04-15,face_value_lent,24600000
+2014-03-31,2014-04-01,Treasury Bond,2020-04-15,face_value_lent,6800000
+2014-03-31,2014-04-03,Treasury Bond,2021-05-15,face_value_lent,6500000
+2014-04-01,2014-04-02,Treasury Bond,2021-05-15,face_value_lent,5000000
+2014-04-01,2014-04-02,Treasury Bond,2021-05-15,face_value_lent,32800000
+2014-04-02,2014-04-03,Treasury Bond,2021-05-15,face_value_lent,12100000
+2014-05-07,2014-05-08,Treasury Indexed Bond,2015-08-20,face_value_lent,30000000
+2014-09-08,2014-09-09,Treasury Bond,2019-03-15,face_value_lent,7000000
+2014-09-25,2014-09-26,Treasury Bond,2019-10-21,face_value_lent,1500000
+2014-09-25,2014-09-26,Treasury Bond,2019-10-21,face_value_lent,3500000
+2014-09-30,2014-10-01,Treasury Bond,2019-03-15,face_value_lent,7000000
+2014-09-30,2014-10-01,Treasury Bond,2019-10-21,face_value_lent,22550000
+2014-09-30,2014-10-01,Treasury Bond,2019-10-21,face_value_lent,89200000
+2014-10-08,2014-10-09,Treasury Bond,2019-03-15,face_value_lent,5000000
+2014-10-31,2014-11-03,Treasury Bond,2016-06-15,face_value_lent,70100000
+2014-11-07,2014-11-10,Treasury Bond,2019-03-15,face_value_lent,25300000
+2015-02-27,2015-03-02,Treasury Bond,2019-10-21,face_value_lent,14700000
+2015-02-27,2015-03-02,Treasury Bond,2019-10-21,face_value_lent,79000000
+2015-04-07,2015-04-08,Treasury Bond,2021-05-15,face_value_lent,10500000
+2015-06-04,2015-06-05,Treasury Indexed Bond,2035-08-21,face_value_lent,13000000
+2015-07-03,2015-07-06,Treasury Indexed Bond,2035-08-21,face_value_lent,20000000
+2016-02-03,2016-02-04,Treasury Indexed Bond,2040-08-21,face_value_lent,6850000
+2016-02-03,2016-02-04,Treasury Indexed Bond,2040-08-21,face_value_lent,9000000
+2016-02-04,2016-02-08,Treasury Indexed Bond,2040-08-21,face_value_lent,2500000
+2016-02-04,2016-02-08,Treasury Indexed Bond,2040-08-21,face_value_lent,2500000
+2016-04-12,2016-04-14,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2016-04-12,2016-04-15,Treasury Indexed Bond,2040-08-21,face_value_lent,11000000
+2016-04-14,2016-04-15,Treasury Indexed Bond,2040-08-21,face_value_lent,8200000
+2016-04-15,2016-04-26,Treasury Indexed Bond,2040-08-21,face_value_lent,15000000
+2016-04-18,2016-04-19,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2016-04-22,2016-04-26,Treasury Indexed Bond,2040-08-21,face_value_lent,6000000
+2016-04-22,2016-05-02,Treasury Indexed Bond,2040-08-21,face_value_lent,13000000
+2016-04-26,2016-04-27,Treasury Indexed Bond,2040-08-21,face_value_lent,16000000
+2016-04-26,2016-05-04,Treasury Indexed Bond,2040-08-21,face_value_lent,5300000
+2016-04-27,2016-04-29,Treasury Indexed Bond,2040-08-21,face_value_lent,11000000
+2016-04-27,2016-05-02,Treasury Indexed Bond,2040-08-21,face_value_lent,16000000
+2016-04-27,2016-05-04,Treasury Indexed Bond,2040-08-21,face_value_lent,11000000
+2016-04-29,2016-05-04,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2016-05-02,2016-05-04,Treasury Indexed Bond,2040-08-21,face_value_lent,8000000
+2016-05-03,2016-05-04,Treasury Indexed Bond,2040-08-21,face_value_lent,1000000
+2016-05-04,2016-05-05,Treasury Indexed Bond,2040-08-21,face_value_lent,8000000
+2016-05-04,2016-05-09,Treasury Indexed Bond,2040-08-21,face_value_lent,5300000
+2016-05-04,2016-05-12,Treasury Indexed Bond,2040-08-21,face_value_lent,18000000
+2016-05-04,2016-05-18,Treasury Indexed Bond,2040-08-21,face_value_lent,6000000
+2016-05-09,2016-05-10,Treasury Indexed Bond,2040-08-21,face_value_lent,5300000
+2016-05-11,2016-05-12,Treasury Indexed Bond,2040-08-21,face_value_lent,18000000
+2016-05-12,2016-05-13,Treasury Indexed Bond,2040-08-21,face_value_lent,10000000
+2016-05-12,2016-05-19,Treasury Indexed Bond,2040-08-21,face_value_lent,13000000
+2016-05-19,2016-05-24,Treasury Indexed Bond,2040-08-21,face_value_lent,6500000
+2016-07-05,2016-07-06,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2016-07-08,2016-07-14,Treasury Indexed Bond,2040-08-21,face_value_lent,11200000
+2016-07-14,2016-07-15,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2016-07-21,2016-07-22,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2016-09-07,2016-09-15,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2016-09-12,2016-09-13,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2016-09-15,2016-10-18,Treasury Indexed Bond,2040-08-21,face_value_lent,6200000
+2016-09-30,2016-10-06,Treasury Indexed Bond,2040-08-21,face_value_lent,6000000
+2016-10-05,2016-10-07,Treasury Indexed Bond,2040-08-21,face_value_lent,6500000
+2016-10-06,2016-10-07,Treasury Indexed Bond,2040-08-21,face_value_lent,10000000
+2016-10-07,2016-10-17,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2016-10-07,2016-10-20,Treasury Indexed Bond,2040-08-21,face_value_lent,7000000
+2016-10-13,2016-10-17,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2016-10-14,2016-10-17,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2016-10-17,2016-10-20,Treasury Indexed Bond,2040-08-21,face_value_lent,12200000
+2016-10-17,2016-10-20,Treasury Indexed Bond,2040-08-21,face_value_lent,12500000
+2016-11-15,2016-11-16,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2016-11-16,2016-11-21,Treasury Indexed Bond,2040-08-21,face_value_lent,10000000
+2016-11-17,2016-11-18,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2016-11-21,2016-11-22,Treasury Indexed Bond,2040-08-21,face_value_lent,13000000
+2016-11-22,2016-11-24,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2016-11-23,2016-11-24,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2016-12-21,2016-12-22,Treasury Indexed Bond,2040-08-21,face_value_lent,10000000
+2016-12-22,2017-01-05,Treasury Indexed Bond,2040-08-21,face_value_lent,9000000
+2017-01-05,2017-01-06,Treasury Indexed Bond,2040-08-21,face_value_lent,10100000
+2017-01-06,2017-01-09,Treasury Indexed Bond,2040-08-21,face_value_lent,10200000
+2017-02-08,2017-02-09,Treasury Indexed Bond,2040-08-21,face_value_lent,13000000
+2017-02-09,2017-02-13,Treasury Indexed Bond,2040-08-21,face_value_lent,5200000
+2017-02-09,2017-02-14,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2017-02-10,2017-02-14,Treasury Indexed Bond,2040-08-21,face_value_lent,11414000
+2017-02-13,2017-02-14,Treasury Indexed Bond,2040-08-21,face_value_lent,7084000
+2017-02-13,2017-02-17,Treasury Indexed Bond,2040-08-21,face_value_lent,7200000
+2017-02-14,2017-02-20,Treasury Indexed Bond,2040-08-21,face_value_lent,20234000
+2017-02-17,2017-02-20,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2017-02-17,2017-02-24,Treasury Indexed Bond,2040-08-21,face_value_lent,5700000
+2017-02-20,2017-02-22,Treasury Indexed Bond,2040-08-21,face_value_lent,8834000
+2017-02-22,2017-02-24,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2017-02-24,2017-02-27,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2017-02-24,2017-03-03,Treasury Indexed Bond,2040-08-21,face_value_lent,10700000
+2017-03-01,2017-03-07,Treasury Indexed Bond,2040-08-21,face_value_lent,7570000
+2017-03-02,2017-03-07,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2017-03-03,2017-03-07,Treasury Indexed Bond,2040-08-21,face_value_lent,12500000
+2017-03-03,2017-03-07,Treasury Indexed Bond,2040-08-21,face_value_lent,6200000
+2017-03-03,2017-03-07,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2017-05-11,2017-05-12,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2017-05-11,2017-05-12,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2017-05-15,2017-05-16,Treasury Bond,2033-04-21,face_value_lent,5021000
+2017-06-22,2017-06-23,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2017-06-26,2017-06-27,Treasury Bond,2018-10-21,face_value_lent,17000000
+2017-06-26,2017-07-26,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2017-06-27,2017-07-03,Treasury Indexed Bond,2040-08-21,face_value_lent,6000000
+2017-07-03,2017-07-13,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2017-07-06,2017-07-20,Treasury Indexed Bond,2040-08-21,face_value_lent,8000000
+2017-07-10,2017-07-13,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2017-07-12,2017-07-20,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2017-07-12,2017-07-26,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2017-07-13,2017-07-20,Treasury Indexed Bond,2040-08-21,face_value_lent,6500000
+2017-07-13,2017-07-26,Treasury Indexed Bond,2040-08-21,face_value_lent,5500000
+2017-07-20,2017-07-24,Treasury Bond,2018-10-21,face_value_lent,22000000
+2017-07-21,2017-07-24,Treasury Bond,2018-10-21,face_value_lent,40180000
+2017-07-21,2017-07-24,Treasury Bond,2018-10-21,face_value_lent,78500000
+2017-07-24,2017-07-25,Treasury Bond,2018-10-21,face_value_lent,122000000
+2017-07-24,2017-07-25,Treasury Bond,2018-10-21,face_value_lent,5000000
+2017-07-24,2017-07-26,Treasury Bond,2018-10-21,face_value_lent,12000000
+2017-08-31,2017-09-01,Treasury Indexed Bond,2018-11-21,face_value_lent,48000000
+2017-08-31,2017-09-01,Treasury Indexed Bond,2018-11-21,face_value_lent,176000000
+2017-09-25,2017-09-27,Treasury Indexed Bond,2022-02-21,face_value_lent,29000000
+2017-11-01,2017-11-02,Treasury Bond,2019-03-15,face_value_lent,122800000
+2017-11-01,2017-11-03,Treasury Bond,2019-03-15,face_value_lent,19000000
+2017-11-02,2017-11-03,Treasury Bond,2019-03-15,face_value_lent,45000000
+2017-11-03,2017-11-06,Treasury Indexed Bond,2022-02-21,face_value_lent,42000000
+2017-11-03,2017-11-07,Treasury Indexed Bond,2022-02-21,face_value_lent,9800000
+2017-11-07,2017-11-08,Treasury Indexed Bond,2022-02-21,face_value_lent,6000000
+2017-11-23,2017-11-27,Treasury Bond,2019-03-15,face_value_lent,31000000
+2017-11-24,2017-11-27,Treasury Bond,2019-03-15,face_value_lent,45000000
+2017-11-24,2017-11-28,Treasury Bond,2019-03-15,face_value_lent,18000000
+2017-11-27,2017-12-04,Treasury Bond,2019-03-15,face_value_lent,5000000
+2017-12-05,2017-12-06,Treasury Indexed Bond,2040-08-21,face_value_lent,9000000
+2017-12-05,2017-12-21,Treasury Indexed Bond,2022-02-21,face_value_lent,5000000
+2017-12-07,2017-12-21,Treasury Indexed Bond,2022-02-21,face_value_lent,5000000
+2017-12-12,2017-12-13,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2017-12-12,2017-12-27,Treasury Bond,2019-03-15,face_value_lent,5000000
+2017-12-15,2017-12-18,Treasury Bond,2019-10-21,face_value_lent,142000000
+2017-12-18,2017-12-19,Treasury Bond,2019-10-21,face_value_lent,33000000
+2017-12-18,2017-12-27,Treasury Bond,2019-03-15,face_value_lent,17000000
+2018-01-08,2018-01-11,Treasury Bond,2019-03-15,face_value_lent,20000000
+2018-01-22,2018-01-23,Treasury Bond,2019-10-21,face_value_lent,45700000
+2018-01-23,2018-01-24,Treasury Bond,2022-07-15,face_value_lent,112000000
+2018-01-25,2018-02-02,Treasury Indexed Bond,2022-02-21,face_value_lent,9000000
+2018-02-09,2018-02-12,Treasury Indexed Bond,2027-11-21,face_value_lent,7000000
+2018-03-21,2018-03-22,Treasury Bond,2019-10-21,face_value_lent,5000000
+2018-03-21,2018-03-23,Treasury Bond,2019-10-21,face_value_lent,45000000
+2018-03-22,2018-03-26,Treasury Bond,2019-10-21,face_value_lent,45000000
+2018-03-29,2018-04-03,Treasury Bond,2019-03-15,face_value_lent,35000000
+2018-03-29,2018-04-03,Treasury Bond,2019-03-15,face_value_lent,37000000
+2018-03-29,2018-04-03,Treasury Bond,2019-03-15,face_value_lent,16000000
+2018-04-03,2018-04-04,Treasury Bond,2019-03-15,face_value_lent,78000000
+2018-04-05,2018-04-06,Treasury Bond,2035-06-21,face_value_lent,18800000
+2018-05-28,2018-05-29,Treasury Indexed Bond,2022-02-21,face_value_lent,26000000
+2018-06-14,2018-06-15,Treasury Indexed Bond,2022-02-21,face_value_lent,13000000
+2018-06-15,2018-06-19,Treasury Indexed Bond,2022-02-21,face_value_lent,8000000
+2018-06-26,2018-06-28,Treasury Indexed Bond,2030-09-20,face_value_lent,4190000
+2018-06-27,2018-06-28,Treasury Indexed Bond,2030-09-20,face_value_lent,5000000
+2018-08-20,2018-08-21,Treasury Indexed Bond,2022-02-21,face_value_lent,22600000
+2018-08-20,2018-08-22,Treasury Indexed Bond,2022-02-21,face_value_lent,9000000
+2018-08-21,2018-08-22,Treasury Indexed Bond,2022-02-21,face_value_lent,3000000
+2018-08-21,2018-08-23,Treasury Indexed Bond,2022-02-21,face_value_lent,14600000
+2018-09-10,2018-09-11,Treasury Indexed Bond,2027-11-21,face_value_lent,38500000
+2018-09-10,2018-09-11,Treasury Indexed Bond,2027-11-21,face_value_lent,19000000
+2018-09-13,2018-09-18,Treasury Indexed Bond,2040-08-21,face_value_lent,4400000
+2018-09-17,2018-09-25,Treasury Indexed Bond,2040-08-21,face_value_lent,2100000
+2018-09-21,2018-09-24,Treasury Bond,2020-11-21,face_value_lent,5000000
+2018-09-21,2018-09-24,Treasury Indexed Bond,2030-09-20,face_value_lent,4100000
+2018-09-21,2018-10-03,Treasury Indexed Bond,2040-08-21,face_value_lent,4200000
+2018-09-24,2018-09-25,Treasury Indexed Bond,2040-08-21,face_value_lent,25000000
+2018-09-24,2018-09-25,Treasury Indexed Bond,2040-08-21,face_value_lent,9500000
+2018-10-02,2018-10-03,Treasury Bond,2023-04-21,face_value_lent,9000000
+2018-10-03,2018-10-04,Treasury Bond,2023-04-21,face_value_lent,105000000
+2018-10-04,2018-10-05,Treasury Bond,2023-04-21,face_value_lent,21000000
+2018-11-07,2018-11-08,Treasury Bond,2037-04-21,face_value_lent,28000000
+2018-11-26,2018-11-27,Treasury Bond,2020-11-21,face_value_lent,15000000
+2019-03-11,2019-03-12,Treasury Bond,2024-04-21,face_value_lent,45000000
+2019-04-15,2019-04-16,Treasury Bond,2035-06-21,face_value_lent,8000000
+2019-05-16,2019-05-23,Treasury Indexed Bond,2030-09-20,face_value_lent,1000000
+2019-07-01,2019-07-03,Treasury Indexed Bond,2027-11-21,face_value_lent,34300000
+2019-07-03,2019-07-04,Treasury Indexed Bond,2027-11-21,face_value_lent,34300000
+2019-07-04,2019-07-15,Treasury Indexed Bond,2027-11-21,face_value_lent,25300000
+2019-07-23,2019-07-24,Treasury Indexed Bond,2027-11-21,face_value_lent,3000000
+2019-07-23,2019-07-24,Treasury Indexed Bond,2027-11-21,face_value_lent,26000000
+2019-07-23,2019-07-26,Treasury Indexed Bond,2027-11-21,face_value_lent,4000000
+2019-07-24,2019-07-26,Treasury Indexed Bond,2027-11-21,face_value_lent,21000000
+2019-07-25,2019-07-31,Treasury Indexed Bond,2027-11-21,face_value_lent,21000000
+2019-08-13,2019-08-14,Treasury Indexed Bond,2027-11-21,face_value_lent,3400000
+2019-08-22,2019-08-30,Treasury Indexed Bond,2040-08-21,face_value_lent,1900000
+2019-08-23,2019-09-10,Treasury Indexed Bond,2040-08-21,face_value_lent,8400000
+2019-08-26,2019-08-29,Treasury Indexed Bond,2040-08-21,face_value_lent,3000000
+2019-08-28,2019-08-29,Treasury Indexed Bond,2040-08-21,face_value_lent,28700000
+2019-09-03,2019-09-09,Treasury Indexed Bond,2027-11-21,face_value_lent,2646000
+2019-09-03,2019-09-12,Treasury Indexed Bond,2022-02-21,face_value_lent,5000000
+2019-09-04,2019-09-05,Treasury Indexed Bond,2022-02-21,face_value_lent,11000000
+2019-09-04,2019-09-12,Treasury Indexed Bond,2027-11-21,face_value_lent,6300000
+2019-09-05,2019-09-06,Treasury Indexed Bond,2022-02-21,face_value_lent,4000000
+2019-09-06,2019-09-13,Treasury Indexed Bond,2027-11-21,face_value_lent,12000000
+2019-09-23,2019-09-24,Treasury Indexed Bond,2027-11-21,face_value_lent,12600000
+2019-10-01,2019-10-02,Treasury Indexed Bond,2030-09-20,face_value_lent,7500000
+2019-10-03,2019-10-11,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2019-10-03,2019-10-14,Treasury Indexed Bond,2040-08-21,face_value_lent,23000000
+2019-10-08,2019-10-09,Treasury Indexed Bond,2030-09-20,face_value_lent,19500000
+2019-10-11,2019-10-14,Treasury Indexed Bond,2022-02-21,face_value_lent,6000000
+2019-10-14,2019-10-24,Treasury Indexed Bond,2040-08-21,face_value_lent,13000000
+2019-10-16,2019-10-18,Treasury Indexed Bond,2030-09-20,face_value_lent,16330000
+2019-10-18,2019-10-28,Treasury Indexed Bond,2030-09-20,face_value_lent,10100000
+2019-10-21,2019-10-22,Treasury Bond,2020-11-21,face_value_lent,130000000
+2019-10-21,2019-10-22,Treasury Bond,2020-11-21,face_value_lent,12000000
+2019-10-21,2019-10-23,Treasury Bond,2020-11-21,face_value_lent,35000000
+2019-10-24,2019-10-28,Treasury Indexed Bond,2040-08-21,face_value_lent,9000000
+2019-10-24,2019-11-01,Treasury Indexed Bond,2040-08-21,face_value_lent,8500000
+2019-10-25,2019-10-28,Treasury Indexed Bond,2040-08-21,face_value_lent,5100000
+2019-10-31,2019-11-01,Treasury Indexed Bond,2027-11-21,face_value_lent,26800000
+2019-10-31,2019-11-05,Treasury Indexed Bond,2027-11-21,face_value_lent,9000000
+2019-11-01,2019-11-04,Treasury Indexed Bond,2030-09-20,face_value_lent,5500000
+2019-11-01,2019-11-05,Treasury Indexed Bond,2027-11-21,face_value_lent,15000000
+2019-11-01,2019-11-14,Treasury Indexed Bond,2030-09-20,face_value_lent,11000000
+2019-11-04,2019-11-05,Treasury Indexed Bond,2030-09-20,face_value_lent,1000000
+2019-11-04,2019-11-11,Treasury Indexed Bond,2030-09-20,face_value_lent,24630000
+2019-11-06,2019-11-11,Treasury Bond,2023-04-21,face_value_lent,5000000
+2019-11-06,2019-11-11,Treasury Indexed Bond,2030-09-20,face_value_lent,2000000
+2019-11-07,2019-11-14,Treasury Indexed Bond,2040-08-21,face_value_lent,3400000
+2019-11-11,2019-11-12,Treasury Indexed Bond,2027-11-21,face_value_lent,10000000
+2019-11-11,2019-11-14,Treasury Indexed Bond,2030-09-20,face_value_lent,4500000
+2019-11-11,2019-11-18,Treasury Indexed Bond,2030-09-20,face_value_lent,12000000
+2019-11-12,2019-11-13,Treasury Indexed Bond,2040-08-21,face_value_lent,3000000
+2019-11-12,2019-11-14,Treasury Indexed Bond,2030-09-20,face_value_lent,32000000
+2019-11-12,2019-11-14,Treasury Indexed Bond,2040-08-21,face_value_lent,1000000
+2019-11-12,2019-11-14,Treasury Indexed Bond,2040-08-21,face_value_lent,2744000
+2019-11-13,2019-11-14,Treasury Bond,2021-05-15,face_value_lent,60000000
+2019-11-13,2019-11-14,Treasury Indexed Bond,2035-08-21,face_value_lent,2000000
+2019-11-13,2019-11-14,Treasury Indexed Bond,2040-08-21,face_value_lent,3000000
+2019-11-14,2019-11-15,Treasury Bond,2021-12-21,face_value_lent,57700000
+2019-11-14,2019-11-18,Treasury Indexed Bond,2030-09-20,face_value_lent,1000000
+2019-11-21,2019-11-22,Treasury Bond,2021-05-15,face_value_lent,3000000
+2019-11-22,2019-11-25,Treasury Indexed Bond,2027-11-21,face_value_lent,2000000
+2019-11-25,2019-11-29,Treasury Bond,2021-05-15,face_value_lent,192000000
+2019-11-25,2019-11-29,Treasury Bond,2021-05-15,face_value_lent,24000000
+2019-11-26,2019-11-27,Treasury Bond,2021-05-15,face_value_lent,50000000
+2019-11-26,2019-11-27,Treasury Bond,2021-05-15,face_value_lent,50000000
+2019-11-26,2019-11-27,Treasury Bond,2021-05-15,face_value_lent,4000000
+2019-11-26,2019-11-27,Treasury Indexed Bond,2027-11-21,face_value_lent,1000000
+2019-11-26,2019-11-27,Treasury Bond,2029-11-21,face_value_lent,1000000
+2019-11-26,2019-11-29,Treasury Indexed Bond,2027-11-21,face_value_lent,6000000
+2019-11-28,2019-12-02,Treasury Indexed Bond,2027-11-21,face_value_lent,5500000
+2019-11-29,2019-12-02,Treasury Bond,2021-05-15,face_value_lent,18000000
+2019-11-29,2019-12-11,Treasury Indexed Bond,2040-08-21,face_value_lent,15000000
+2019-11-29,2019-12-13,Treasury Indexed Bond,2027-11-21,face_value_lent,5000000
+2019-12-03,2019-12-04,Treasury Indexed Bond,2027-11-21,face_value_lent,3000000
+2019-12-03,2019-12-04,Treasury Bond,2035-06-21,face_value_lent,11000000
+2019-12-04,2019-12-05,Treasury Bond,2021-12-21,face_value_lent,37000000
+2019-12-04,2019-12-05,Treasury Bond,2023-04-21,face_value_lent,76000000
+2019-12-05,2019-12-06,Treasury Indexed Bond,2040-08-21,face_value_lent,3000000
+2019-12-11,2019-12-18,Treasury Indexed Bond,2027-11-21,face_value_lent,13500000
+2019-12-13,2019-12-16,Treasury Bond,2022-07-15,face_value_lent,20000000
+2020-01-06,2020-01-07,Treasury Bond,2037-04-21,face_value_lent,28000000
+2020-01-16,2020-01-17,Treasury Indexed Bond,2027-11-21,face_value_lent,12000000
+2020-01-20,2020-01-22,Treasury Indexed Bond,2027-11-21,face_value_lent,5000000
+2020-01-22,2020-01-23,Treasury Indexed Bond,2027-11-21,face_value_lent,4000000
+2020-01-22,2020-02-03,Treasury Indexed Bond,2030-09-20,face_value_lent,14000000
+2020-01-22,2020-02-27,Treasury Indexed Bond,2027-11-21,face_value_lent,5000000
+2020-01-24,2020-01-28,Treasury Indexed Bond,2030-09-20,face_value_lent,30000000
+2020-01-28,2020-01-29,Treasury Indexed Bond,2030-09-20,face_value_lent,13000000
+2020-01-29,2020-02-03,Treasury Indexed Bond,2030-09-20,face_value_lent,6000000
+2020-01-30,2020-01-31,Treasury Bond,2035-06-21,face_value_lent,25000000
+2020-01-31,2020-02-03,Treasury Bond,2020-11-21,face_value_lent,80000000
+2020-02-05,2020-02-14,Treasury Indexed Bond,2030-09-20,face_value_lent,14000000
+2020-02-06,2020-02-07,Treasury Indexed Bond,2030-09-20,face_value_lent,8000000
+2020-02-11,2020-02-14,Treasury Indexed Bond,2030-09-20,face_value_lent,14000000
+2020-02-14,2020-02-18,Treasury Indexed Bond,2030-09-20,face_value_lent,25000000
+2020-02-14,2020-02-19,Treasury Indexed Bond,2030-09-20,face_value_lent,3000000
+2020-02-17,2020-02-19,Treasury Indexed Bond,2030-09-20,face_value_lent,25000000
+2020-02-18,2020-02-19,Treasury Indexed Bond,2030-09-20,face_value_lent,7000000
+2020-02-26,2020-02-27,Treasury Indexed Bond,2030-09-20,face_value_lent,4600000
+2020-02-26,2020-02-28,Treasury Indexed Bond,2030-09-20,face_value_lent,9000000
+2020-02-26,2020-03-06,Treasury Indexed Bond,2030-09-20,face_value_lent,4000000
+2020-02-26,2020-03-25,Treasury Bond,2021-12-21,face_value_lent,5000000
+2020-02-28,2020-03-06,Treasury Indexed Bond,2030-09-20,face_value_lent,18000000
+2020-03-02,2020-05-07,Treasury Indexed Bond,2040-08-21,face_value_lent,2000000
+2020-03-03,2020-03-06,Treasury Indexed Bond,2030-09-20,face_value_lent,7000000
+2020-03-04,2020-03-06,Treasury Indexed Bond,2030-09-20,face_value_lent,11000000
+2020-03-05,2020-03-06,Treasury Indexed Bond,2027-11-21,face_value_lent,15000000
+2020-03-05,2020-03-06,Treasury Indexed Bond,2030-09-20,face_value_lent,25000000
+2020-03-05,2020-03-10,Treasury Indexed Bond,2027-11-21,face_value_lent,14000000
+2020-03-05,2020-03-30,Treasury Indexed Bond,2027-11-21,face_value_lent,12500000
+2020-03-06,2020-03-09,Treasury Indexed Bond,2030-09-20,face_value_lent,3000000
+2020-03-06,2020-03-09,Treasury Indexed Bond,2040-08-21,face_value_lent,3200000
+2020-03-06,2020-03-10,Treasury Indexed Bond,2027-11-21,face_value_lent,11200000
+2020-03-06,2020-03-25,Treasury Indexed Bond,2030-09-20,face_value_lent,18000000
+2020-03-09,2020-03-11,Treasury Indexed Bond,2030-09-20,face_value_lent,19500000
+2020-03-10,2020-03-11,Treasury Indexed Bond,2030-09-20,face_value_lent,1000000
+2020-03-10,2020-03-17,Treasury Indexed Bond,2027-11-21,face_value_lent,13200000
+2020-03-11,2020-03-12,Treasury Indexed Bond,2030-09-20,face_value_lent,8100000
+2020-03-12,2020-03-13,Treasury Bond,2022-11-21,face_value_lent,164000000
+2020-03-12,2020-03-13,Treasury Indexed Bond,2025-09-20,face_value_lent,13000000
+2020-03-12,2020-03-16,Treasury Indexed Bond,2040-08-21,face_value_lent,2500000
+2020-03-12,2020-03-17,Treasury Indexed Bond,2030-09-20,face_value_lent,12000000
+2020-03-12,2020-03-25,Treasury Indexed Bond,2040-08-21,face_value_lent,1000000
+2020-03-13,2020-03-16,Treasury Bond,2033-04-21,face_value_lent,99000000
+2020-03-13,2020-03-17,Treasury Indexed Bond,2030-09-20,face_value_lent,6000000
+2020-03-13,2020-03-23,Treasury Indexed Bond,2027-11-21,face_value_lent,27600000
+2020-03-16,2020-03-25,Treasury Indexed Bond,2040-08-21,face_value_lent,1000000
+2020-03-17,2020-04-08,Treasury Indexed Bond,2030-09-20,face_value_lent,4000000
+2020-03-19,2020-03-25,Treasury Indexed Bond,2040-08-21,face_value_lent,2500000
+2020-03-20,2020-03-25,Treasury Indexed Bond,2030-09-20,face_value_lent,13000000
+2020-03-23,2020-03-24,Treasury Indexed Bond,2030-09-20,face_value_lent,2000000
+2020-03-23,2020-03-25,Treasury Indexed Bond,2040-08-21,face_value_lent,1000000
+2020-03-23,2020-03-26,Treasury Indexed Bond,2027-11-21,face_value_lent,2600000
+2020-03-25,2020-04-08,Treasury Indexed Bond,2030-09-20,face_value_lent,5000000
+2020-03-30,2020-03-31,Treasury Indexed Bond,2027-11-21,face_value_lent,56000000
+2020-04-01,2020-04-02,Treasury Indexed Bond,2030-09-20,face_value_lent,9000000
+2020-04-03,2020-04-06,Treasury Indexed Bond,2040-08-21,face_value_lent,7000000
+2020-04-06,2020-04-08,Treasury Indexed Bond,2030-09-20,face_value_lent,4000000
+2020-04-08,2020-04-15,Treasury Indexed Bond,2040-08-21,face_value_lent,2000000
+2020-04-21,2020-04-27,Treasury Indexed Bond,2040-08-21,face_value_lent,6000000
+2020-04-23,2020-04-27,Treasury Indexed Bond,2040-08-21,face_value_lent,3000000
+2020-04-24,2020-04-27,Treasury Bond,2047-03-21,face_value_lent,15000000
+2020-05-06,2020-05-07,Treasury Indexed Bond,2040-08-21,face_value_lent,1000000
+2020-05-06,2020-05-12,Treasury Indexed Bond,2040-08-21,face_value_lent,1000000
+2020-05-07,2020-05-11,Treasury Indexed Bond,2040-08-21,face_value_lent,3000000
+2020-05-14,2020-05-15,Treasury Indexed Bond,2040-08-21,face_value_lent,3000000
+2020-05-15,2020-05-28,Treasury Indexed Bond,2040-08-21,face_value_lent,4000000
+2020-06-01,2020-06-04,Treasury Indexed Bond,2035-08-21,face_value_lent,2000000
+2020-06-01,2020-06-05,Treasury Indexed Bond,2035-08-21,face_value_lent,5000000
+2020-06-02,2020-06-03,Treasury Indexed Bond,2027-11-21,face_value_lent,15000000
+2020-06-03,2020-06-10,Treasury Indexed Bond,2027-11-21,face_value_lent,24000000
+2020-06-05,2020-06-10,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2020-06-05,2020-06-12,Treasury Indexed Bond,2040-08-21,face_value_lent,7000000
+2020-06-05,2020-06-18,Treasury Indexed Bond,2040-08-21,face_value_lent,1000000
+2020-06-09,2020-06-10,Treasury Indexed Bond,2027-11-21,face_value_lent,6000000
+2020-06-09,2020-06-11,Treasury Indexed Bond,2035-08-21,face_value_lent,15000000
+2020-06-09,2020-06-12,Treasury Indexed Bond,2027-11-21,face_value_lent,10000000
+2020-06-09,2020-06-12,Treasury Indexed Bond,2040-08-21,face_value_lent,14000000
+2020-06-10,2020-06-11,Treasury Indexed Bond,2035-08-21,face_value_lent,7000000
+2020-06-11,2020-06-12,Treasury Indexed Bond,2027-11-21,face_value_lent,50000000
+2020-06-11,2020-06-19,Treasury Indexed Bond,2040-08-21,face_value_lent,8000000
+2020-06-12,2020-06-16,Treasury Indexed Bond,2027-11-21,face_value_lent,23000000
+2020-06-16,2020-06-17,Treasury Indexed Bond,2040-08-21,face_value_lent,3000000
+2020-06-17,2020-06-25,Treasury Indexed Bond,2027-11-21,face_value_lent,16500000
+2020-06-18,2020-06-25,Treasury Indexed Bond,2027-11-21,face_value_lent,26200000
+2020-06-18,2020-06-26,Treasury Indexed Bond,2040-08-21,face_value_lent,22000000
+2020-07-02,2020-07-07,Treasury Indexed Bond,2027-11-21,face_value_lent,9000000
+2020-07-02,2020-07-14,Treasury Indexed Bond,2040-08-21,face_value_lent,7000000
+2020-07-03,2020-07-07,Treasury Indexed Bond,2027-11-21,face_value_lent,4000000
+2020-07-03,2020-07-14,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2020-07-09,2020-07-15,Treasury Indexed Bond,2035-08-21,face_value_lent,20000000
+2020-07-13,2020-07-15,Treasury Indexed Bond,2035-08-21,face_value_lent,4000000
+2020-07-14,2020-07-15,Treasury Indexed Bond,2035-08-21,face_value_lent,7700000
+2020-07-23,2020-07-29,Treasury Indexed Bond,2040-08-21,face_value_lent,10000000
+2020-07-23,2020-07-30,Treasury Indexed Bond,2040-08-21,face_value_lent,12000000
+2020-07-24,2020-07-30,Treasury Indexed Bond,2040-08-21,face_value_lent,6000000
+2020-07-27,2020-07-30,Treasury Indexed Bond,2040-08-21,face_value_lent,9000000
+2020-07-28,2020-07-30,Treasury Indexed Bond,2040-08-21,face_value_lent,7500000
+2020-07-29,2020-08-12,Treasury Indexed Bond,2040-08-21,face_value_lent,9000000
+2020-07-30,2020-08-04,Treasury Indexed Bond,2040-08-21,face_value_lent,19500000
+2020-08-04,2020-08-05,Treasury Bond,2021-05-15,face_value_lent,194000000
+2020-08-07,2020-08-12,Treasury Indexed Bond,2027-11-21,face_value_lent,9000000
+2020-08-10,2020-08-12,Treasury Bond,2041-05-21,face_value_lent,12400000
+2020-08-14,2020-08-17,Treasury Indexed Bond,2035-08-21,face_value_lent,5000000
+2020-08-17,2020-08-19,Treasury Indexed Bond,2027-11-21,face_value_lent,20600000
+2020-08-19,2020-08-20,Treasury Bond,2021-12-21,face_value_lent,300100000
+2020-08-24,2020-08-25,Treasury Bond,2037-04-21,face_value_lent,80000000
+2020-08-25,2020-08-27,Treasury Bond,2021-12-21,face_value_lent,99675000
+2020-08-27,2020-08-28,Treasury Bond,2037-04-21,face_value_lent,46000000
+2020-09-01,2020-09-02,Treasury Bond,2041-05-21,face_value_lent,26200000
+2020-09-01,2020-09-02,Treasury Bond,2041-05-21,face_value_lent,6000000
+2020-09-02,2020-09-04,Treasury Indexed Bond,2027-11-21,face_value_lent,26000000
+2020-09-29,2020-10-01,Treasury Bond,2021-12-21,face_value_lent,40000000
+2020-11-12,2020-11-13,Treasury Bond,2024-04-21,face_value_lent,25000000
+2020-11-12,2020-11-13,Treasury Bond,2024-04-21,face_value_lent,40000000
+2020-11-13,2020-11-24,Treasury Bond,2024-04-21,face_value_lent,155000000
+2020-11-16,2020-11-17,Treasury Bond,2024-04-21,face_value_lent,100000000
+2020-11-16,2020-11-17,Treasury Bond,2024-04-21,face_value_lent,208000000
+2020-11-17,2020-11-19,Treasury Bond,2021-12-21,face_value_lent,1000000
+2020-12-01,2020-12-22,Treasury Indexed Bond,2040-08-21,face_value_lent,5700000
+2020-12-07,2020-12-08,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2020-12-09,2020-12-22,Treasury Indexed Bond,2040-08-21,face_value_lent,16000000
+2020-12-10,2020-12-11,Treasury Bond,2024-04-21,face_value_lent,34000000
+2020-12-18,2020-12-30,Treasury Indexed Bond,2040-08-21,face_value_lent,3000000
+2020-12-18,2021-02-08,Treasury Bond,2024-04-21,face_value_lent,3000000
+2020-12-22,2021-01-14,Treasury Indexed Bond,2040-08-21,face_value_lent,13000000
+2020-12-23,2020-12-29,Treasury Bond,2022-11-21,face_value_lent,20232000
+2020-12-24,2021-01-08,Treasury Indexed Bond,2040-08-21,face_value_lent,3200000
+2020-12-29,2020-12-30,Treasury Bond,2022-07-15,face_value_lent,2000000
+2020-12-29,2021-02-08,Treasury Bond,2024-04-21,face_value_lent,10000000
+2021-01-04,2021-01-05,Treasury Bond,2024-04-21,face_value_lent,340000000
+2021-01-14,2021-02-05,Treasury Indexed Bond,2040-08-21,face_value_lent,1000000
+2021-01-15,2021-01-21,Treasury Bond,2024-04-21,face_value_lent,7800000
+2021-01-19,2021-01-20,Treasury Indexed Bond,2040-08-21,face_value_lent,1000000
+2021-01-20,2021-02-05,Treasury Indexed Bond,2040-08-21,face_value_lent,5500000
+2021-01-21,2021-01-22,Treasury Indexed Bond,2040-08-21,face_value_lent,12000000
+2021-01-21,2021-02-08,Treasury Bond,2024-04-21,face_value_lent,25021000
+2021-01-22,2021-02-04,Treasury Indexed Bond,2040-08-21,face_value_lent,20000000
+2021-01-29,2021-02-01,Treasury Bond,2024-04-21,face_value_lent,118500000
+2021-02-23,2021-02-24,Treasury Indexed Bond,2040-08-21,face_value_lent,6400000
+2021-02-23,2021-02-26,Treasury Indexed Bond,2040-08-21,face_value_lent,4100000
+2021-02-24,2021-02-25,Treasury Bond,2024-04-21,face_value_lent,316000000
+2021-02-24,2021-02-26,Treasury Indexed Bond,2040-08-21,face_value_lent,5300000
+2021-02-26,2021-03-10,Treasury Bond,2024-04-21,face_value_lent,150000000
+2021-03-01,2021-03-02,Treasury Bond,2024-04-21,face_value_lent,175000000
+2021-03-01,2021-03-04,Treasury Bond,2023-04-21,face_value_lent,270000000
+2021-03-01,2021-03-05,Treasury Bond,2024-04-21,face_value_lent,102000000
+2021-03-01,2021-03-08,Treasury Bond,2024-04-21,face_value_lent,254000000
+2021-03-02,2021-03-03,Treasury Bond,2024-04-21,face_value_lent,60000000
+2021-03-02,2021-03-05,Treasury Bond,2023-04-21,face_value_lent,125300000
+2021-03-02,2021-03-05,Treasury Bond,2024-04-21,face_value_lent,179100000
+2021-03-03,2021-03-04,Treasury Bond,2023-04-21,face_value_lent,260000000
+2021-03-03,2021-03-04,Treasury Bond,2024-04-21,face_value_lent,231000000
+2021-03-03,2021-03-10,Treasury Bond,2024-04-21,face_value_lent,6000000
+2021-03-03,2021-03-10,Treasury Bond,2024-04-21,face_value_lent,50000000
+2021-03-03,2021-03-12,Treasury Bond,2025-04-21,face_value_lent,20000000
+2021-03-04,2021-03-05,Treasury Bond,2023-04-21,face_value_lent,14100000
+2021-03-04,2021-03-05,Treasury Bond,2023-04-21,face_value_lent,103000000
+2021-03-04,2021-03-05,Treasury Bond,2051-06-21,face_value_lent,29000000
+2021-03-05,2021-03-17,Treasury Indexed Bond,2035-08-21,face_value_lent,12000000
+2021-03-09,2021-03-10,Treasury Bond,2041-05-21,face_value_lent,30000000
+2021-03-12,2021-03-15,Treasury Bond,2041-05-21,face_value_lent,29000000
+2021-03-15,2021-03-16,Treasury Bond,2025-04-21,face_value_lent,50000000
+2021-03-16,2021-03-17,Treasury Bond,2051-06-21,face_value_lent,22418000
+2021-03-18,2021-04-15,Treasury Indexed Bond,2030-09-20,face_value_lent,36700000
+2021-03-19,2021-03-22,Treasury Bond,2041-05-21,face_value_lent,94000000
+2021-03-23,2021-04-13,Treasury Indexed Bond,2030-09-20,face_value_lent,21000000
+2021-03-23,2021-05-04,Treasury Bond,2041-05-21,face_value_lent,9400000
+2021-03-25,2021-03-31,Treasury Indexed Bond,2030-09-20,face_value_lent,2000000
+2021-03-25,2021-05-03,Treasury Indexed Bond,2030-09-20,face_value_lent,35000000
+2021-03-31,2021-04-06,Treasury Bond,2041-05-21,face_value_lent,21400000
+2021-04-07,2021-04-08,Treasury Bond,2041-05-21,face_value_lent,71000000
+2021-04-14,2021-04-16,Treasury Indexed Bond,2030-09-20,face_value_lent,7000000
+2021-04-15,2021-04-16,Treasury Indexed Bond,2030-09-20,face_value_lent,30700000
+2021-04-15,2021-04-22,Treasury Bond,2021-12-21,face_value_lent,27000000
+2021-04-15,2021-05-03,Treasury Indexed Bond,2030-09-20,face_value_lent,6000000
+2021-04-22,2021-04-23,Treasury Indexed Bond,2030-09-20,face_value_lent,13900000
+2021-05-03,2021-05-18,Treasury Indexed Bond,2030-09-20,face_value_lent,25000000
+2021-05-12,2021-05-13,Treasury Bond,2027-11-21,face_value_lent,15000000
+2021-05-19,2021-05-20,Treasury Bond,2028-05-21,face_value_lent,48000000
+2021-05-21,2021-07-05,Treasury Indexed Bond,2040-08-21,face_value_lent,8000000
+2021-05-25,2021-05-27,Treasury Bond,2024-11-21,face_value_lent,140000000
+2021-05-25,2021-05-27,Treasury Indexed Bond,2040-08-21,face_value_lent,10100000
+2021-05-26,2021-05-27,Treasury Bond,2027-11-21,face_value_lent,25000000
+2021-05-26,2021-05-27,Treasury Bond,2027-11-21,face_value_lent,95000000
+2021-05-27,2021-05-28,Treasury Bond,2037-04-21,face_value_lent,27000000
+2021-06-02,2021-06-07,Treasury Bond,2028-05-21,face_value_lent,20000000
+2021-06-03,2021-06-04,Treasury Bond,2041-05-21,face_value_lent,50000000
+2021-06-04,2021-06-07,Treasury Indexed Bond,2027-11-21,face_value_lent,8000000
+2021-06-04,2021-06-07,Treasury Indexed Bond,2040-08-21,face_value_lent,16300000
+2021-06-07,2021-06-23,Treasury Indexed Bond,2040-08-21,face_value_lent,12250000
+2021-06-09,2021-06-10,Treasury Indexed Bond,2027-11-21,face_value_lent,29300000
+2021-06-09,2021-06-10,Treasury Indexed Bond,2027-11-21,face_value_lent,26000000
+2021-06-09,2021-06-23,Treasury Indexed Bond,2040-08-21,face_value_lent,1000000
+2021-06-10,2021-06-15,Treasury Bond,2032-11-21,face_value_lent,25000000
+2021-06-10,2021-06-24,Treasury Indexed Bond,2040-08-21,face_value_lent,5250000
+2021-06-11,2021-06-15,Treasury Bond,2025-11-21,face_value_lent,60000000
+2021-06-11,2021-06-21,Treasury Bond,2051-06-21,face_value_lent,18100000
+2021-06-15,2021-06-18,Treasury Bond,2028-11-21,face_value_lent,100000000
+2021-06-15,2021-06-25,Treasury Indexed Bond,2040-08-21,face_value_lent,15700000
+2021-06-17,2021-06-18,Treasury Indexed Bond,2027-11-21,face_value_lent,35000000
+2021-06-18,2021-06-24,Treasury Indexed Bond,2040-08-21,face_value_lent,2200000
+2021-06-21,2021-06-23,Treasury Bond,2032-11-21,face_value_lent,49000000
+2021-06-21,2021-06-23,Treasury Indexed Bond,2040-08-21,face_value_lent,6638000
+2021-06-23,2021-06-30,Treasury Indexed Bond,2040-08-21,face_value_lent,1000000
+2021-06-24,2021-06-25,Treasury Bond,2051-06-21,face_value_lent,66200000
+2021-06-24,2021-06-25,Treasury Bond,2051-06-21,face_value_lent,17000
+2021-06-25,2021-06-28,Treasury Bond,2051-06-21,face_value_lent,28400000
+2021-06-28,2021-06-30,Treasury Bond,2051-06-21,face_value_lent,7000000
+2021-07-01,2021-07-02,Treasury Bond,2033-04-21,face_value_lent,33000000
+2021-07-01,2021-07-02,Treasury Bond,2037-04-21,face_value_lent,12400000
+2021-07-01,2021-07-02,Treasury Bond,2051-06-21,face_value_lent,34900000
+2021-07-01,2021-07-05,Treasury Indexed Bond,2040-08-21,face_value_lent,1000000
+2021-07-02,2021-07-05,Treasury Indexed Bond,2040-08-21,face_value_lent,3300000
+2021-07-02,2021-07-05,Treasury Bond,2041-05-21,face_value_lent,58000000
+2021-07-02,2021-07-05,Treasury Bond,2041-05-21,face_value_lent,16000000
+2021-07-02,2021-07-05,Treasury Bond,2051-06-21,face_value_lent,22500000
+2021-07-02,2021-07-16,Treasury Bond,2041-05-21,face_value_lent,101000
+2021-07-02,2021-07-20,Treasury Bond,2025-11-21,face_value_lent,1700000
+2021-07-05,2021-07-06,Treasury Bond,2041-05-21,face_value_lent,33000000
+2021-07-05,2021-07-13,Treasury Indexed Bond,2040-08-21,face_value_lent,8000000
+2021-07-06,2021-07-12,Treasury Indexed Bond,2040-08-21,face_value_lent,1300000
+2021-07-07,2021-07-12,Treasury Indexed Bond,2040-08-21,face_value_lent,5500000
+2021-07-09,2021-07-12,Treasury Indexed Bond,2040-08-21,face_value_lent,6300000
+2021-07-09,2021-07-15,Treasury Bond,2037-04-21,face_value_lent,57000
+2021-07-09,2021-07-27,Treasury Indexed Bond,2025-09-20,face_value_lent,5000000
+2021-07-13,2021-07-27,Treasury Indexed Bond,2025-09-20,face_value_lent,5000000
+2021-07-20,2021-08-19,Treasury Indexed Bond,2040-08-21,face_value_lent,9000000
+2021-07-20,2021-09-06,Treasury Indexed Bond,2030-09-20,face_value_lent,1000000
+2021-07-22,2021-08-18,Treasury Indexed Bond,2040-08-21,face_value_lent,1500000
+2021-07-27,2021-08-05,Treasury Bond,2027-11-21,face_value_lent,2576000
+2021-08-06,2021-09-06,Treasury Indexed Bond,2030-09-20,face_value_lent,5209000
+2021-08-11,2021-08-19,Treasury Indexed Bond,2040-08-21,face_value_lent,3900000
+2021-08-12,2021-08-13,Treasury Bond,2035-06-21,face_value_lent,6000000
+2021-08-12,2021-08-19,Treasury Indexed Bond,2040-08-21,face_value_lent,5450000
+2021-08-13,2021-08-19,Treasury Indexed Bond,2040-08-21,face_value_lent,5500000
+2021-08-17,2021-08-18,Treasury Indexed Bond,2040-08-21,face_value_lent,27300000
+2021-08-17,2021-08-19,Treasury Indexed Bond,2040-08-21,face_value_lent,5458000
+2021-08-18,2021-08-19,Treasury Indexed Bond,2030-09-20,face_value_lent,30000000
+2021-08-19,2021-08-26,Treasury Indexed Bond,2035-08-21,face_value_lent,40500000
+2021-08-19,2021-09-01,Treasury Indexed Bond,2035-08-21,face_value_lent,24000000
+2021-08-23,2021-09-02,Treasury Indexed Bond,2040-08-21,face_value_lent,7378000
+2021-08-24,2021-09-23,Treasury Indexed Bond,2040-08-21,face_value_lent,14000000
+2021-08-25,2021-08-31,Treasury Bond,2021-12-21,face_value_lent,2434000
+2021-08-27,2021-09-03,Treasury Bond,2025-11-21,face_value_lent,513000
+2021-08-31,2021-09-21,Treasury Indexed Bond,2040-08-21,face_value_lent,6000000
+2021-09-01,2021-09-23,Treasury Indexed Bond,2040-08-21,face_value_lent,5598000
+2021-09-03,2021-09-21,Treasury Indexed Bond,2040-08-21,face_value_lent,5752000
+2021-09-06,2021-10-25,Treasury Indexed Bond,2030-09-20,face_value_lent,2800000
+2021-09-08,2021-10-07,Treasury Indexed Bond,2040-08-21,face_value_lent,20500000
+2021-09-14,2021-09-20,Treasury Indexed Bond,2040-08-21,face_value_lent,11400000
+2021-09-14,2021-09-23,Treasury Indexed Bond,2040-08-21,face_value_lent,16886000
+2021-09-14,2021-09-30,Treasury Indexed Bond,2040-08-21,face_value_lent,1000000
+2021-09-14,2021-10-07,Treasury Indexed Bond,2040-08-21,face_value_lent,11900000
+2021-09-20,2021-10-19,Treasury Indexed Bond,2040-08-21,face_value_lent,22000000
+2021-09-22,2021-09-23,Treasury Indexed Bond,2030-09-20,face_value_lent,64015000
+2021-09-22,2021-10-20,Treasury Indexed Bond,2030-09-20,face_value_lent,16300000
+2021-09-23,2021-09-24,Treasury Indexed Bond,2030-09-20,face_value_lent,14595000
+2021-09-23,2021-09-24,Treasury Indexed Bond,2030-09-20,face_value_lent,16600000
+2021-09-23,2021-10-11,Treasury Indexed Bond,2040-08-21,face_value_lent,28954000
+2021-09-29,2021-09-30,Treasury Indexed Bond,2030-09-20,face_value_lent,25837000
+2021-09-30,2021-10-06,Treasury Bond,2024-11-21,face_value_lent,70000000
+2021-10-01,2021-10-05,Treasury Indexed Bond,2030-09-20,face_value_lent,7000000
+2021-10-01,2021-10-06,Treasury Indexed Bond,2040-08-21,face_value_lent,4445000
+2021-10-11,2021-10-12,Treasury Bond,2051-06-21,face_value_lent,40000000
+2021-10-11,2021-10-19,Treasury Indexed Bond,2040-08-21,face_value_lent,23638000
+2021-10-11,2021-10-27,Treasury Indexed Bond,2030-09-20,face_value_lent,5000000
+2021-10-13,2021-10-25,Treasury Indexed Bond,2030-09-20,face_value_lent,7200000
+2021-10-13,2021-12-07,Treasury Indexed Bond,2030-09-20,face_value_lent,8000000
+2021-10-14,2021-10-15,Treasury Indexed Bond,2030-09-20,face_value_lent,10000000
+2021-10-14,2021-10-15,Treasury Bond,2051-06-21,face_value_lent,10550000
+2021-10-15,2021-10-18,Treasury Indexed Bond,2030-09-20,face_value_lent,18000000
+2021-10-18,2021-10-19,Treasury Bond,2024-11-21,face_value_lent,94643000
+2021-10-18,2021-12-20,Treasury Indexed Bond,2040-08-21,face_value_lent,2700000
+2021-10-19,2021-11-01,Treasury Indexed Bond,2040-08-21,face_value_lent,11708000
+2021-10-20,2021-10-25,Treasury Indexed Bond,2030-09-20,face_value_lent,10400000
+2021-10-20,2021-10-26,Treasury Indexed Bond,2040-08-21,face_value_lent,19339000
+2021-10-22,2021-10-25,Treasury Bond,2025-04-21,face_value_lent,32853000
+2021-10-22,2021-10-25,Treasury Bond,2035-06-21,face_value_lent,30000000
+2021-10-22,2021-10-25,Treasury Bond,2051-06-21,face_value_lent,8120000
+2021-10-22,2021-10-26,Treasury Bond,2022-07-15,face_value_lent,34075000
+2021-10-22,2021-10-27,Treasury Bond,2024-11-21,face_value_lent,16422000
+2021-10-25,2021-12-07,Treasury Indexed Bond,2030-09-20,face_value_lent,4500000
+2021-10-26,2021-11-01,Treasury Indexed Bond,2040-08-21,face_value_lent,8807000
+2021-10-27,2022-01-05,Treasury Indexed Bond,2040-08-21,face_value_lent,5800000
+2021-11-01,2021-11-05,Treasury Bond,2035-06-21,face_value_lent,10000000
+2021-11-01,2021-11-09,Treasury Indexed Bond,2040-08-21,face_value_lent,16243000
+2021-11-02,2021-11-03,Treasury Bond,2051-06-21,face_value_lent,33000000
+2021-11-02,2021-12-02,Treasury Indexed Bond,2040-08-21,face_value_lent,6200000
+2021-11-03,2021-11-04,Treasury Bond,2051-06-21,face_value_lent,1000000
+2021-11-03,2021-11-04,Treasury Bond,2051-06-21,face_value_lent,16800000
+2021-11-03,2021-11-17,Treasury Bond,2037-04-21,face_value_lent,20000000
+2021-11-04,2021-11-05,Treasury Bond,2051-06-21,face_value_lent,8900000
+2021-11-05,2021-11-09,Treasury Indexed Bond,2030-09-20,face_value_lent,5800000
+2021-11-05,2021-12-23,Treasury Bond,2035-06-21,face_value_lent,5000000
+2021-11-08,2021-11-09,Treasury Indexed Bond,2030-09-20,face_value_lent,10952000
+2021-11-08,2021-12-02,Treasury Indexed Bond,2040-08-21,face_value_lent,1700000
+2021-11-08,2022-03-25,Treasury Indexed Bond,2040-08-21,face_value_lent,4000000
+2021-11-09,2021-11-11,Treasury Indexed Bond,2030-09-20,face_value_lent,9000000
+2021-11-09,2021-11-12,Treasury Indexed Bond,2040-08-21,face_value_lent,15237000
+2021-11-11,2021-11-12,Treasury Bond,2051-06-21,face_value_lent,5400000
+2021-11-12,2021-12-07,Treasury Indexed Bond,2040-08-21,face_value_lent,10000000
+2021-11-18,2021-11-24,Treasury Bond,2051-06-21,face_value_lent,20000000
+2021-11-18,2021-11-26,Treasury Bond,2051-06-21,face_value_lent,9700000
+2021-11-19,2021-11-26,Treasury Bond,2051-06-21,face_value_lent,26400000
+2021-11-19,2021-11-30,Treasury Bond,2051-06-21,face_value_lent,10000000
+2021-11-23,2021-11-25,Treasury Bond,2051-06-21,face_value_lent,2000000
+2021-11-29,2021-11-30,Treasury Indexed Bond,2040-08-21,face_value_lent,1000000
+2021-11-30,2021-12-07,Treasury Indexed Bond,2040-08-21,face_value_lent,1000000
+2021-12-01,2021-12-02,Treasury Bond,2039-06-21,face_value_lent,61067000
+2021-12-09,2021-12-13,Treasury Bond,2039-06-21,face_value_lent,50000000
+2021-12-10,2021-12-13,Treasury Bond,2039-06-21,face_value_lent,50000000
+2021-12-13,2021-12-21,Treasury Bond,2035-06-21,face_value_lent,9200000
+2021-12-13,2022-05-12,Treasury Indexed Bond,2040-08-21,face_value_lent,9500000
+2021-12-20,2022-01-14,Treasury Bond,2024-04-21,face_value_lent,9600000
+2021-12-20,2022-01-14,Treasury Bond,2024-11-21,face_value_lent,5050000
+2021-12-20,2022-01-14,Treasury Bond,2025-04-21,face_value_lent,47423000
+2021-12-21,2021-12-22,Treasury Bond,2039-06-21,face_value_lent,26600000
+2021-12-21,2021-12-24,Treasury Indexed Bond,2035-08-21,face_value_lent,3000000
+2021-12-23,2021-12-29,Treasury Bond,2037-04-21,face_value_lent,40000000
+2021-12-23,2022-01-13,Treasury Bond,2023-04-21,face_value_lent,26100000
+2021-12-23,2022-05-10,Treasury Indexed Bond,2040-08-21,face_value_lent,1400000
+2021-12-24,2021-12-29,Treasury Bond,2051-06-21,face_value_lent,1000000
+2021-12-24,2022-01-04,Treasury Bond,2039-06-21,face_value_lent,2173000
+2022-01-04,2022-01-10,Treasury Bond,2024-11-21,face_value_lent,50000000
+2022-01-04,2022-01-13,Treasury Indexed Bond,2040-08-21,face_value_lent,6836000
+2022-01-04,2022-07-08,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2022-01-10,2022-01-11,Treasury Indexed Bond,2035-08-21,face_value_lent,8000000
+2022-01-12,2022-01-13,Treasury Indexed Bond,2040-08-21,face_value_lent,10004000
+2022-01-13,2022-01-14,Treasury Indexed Bond,2040-08-21,face_value_lent,3744000
+2022-01-20,2022-01-21,Treasury Indexed Bond,2030-09-20,face_value_lent,8500000
+2022-02-01,2022-02-03,Treasury Indexed Bond,2030-09-20,face_value_lent,13000000
+2022-02-01,2022-02-04,Treasury Indexed Bond,2040-08-21,face_value_lent,3545000
+2022-02-01,2022-04-20,Treasury Bond,2041-05-21,face_value_lent,28000000
+2022-02-02,2022-02-04,Treasury Indexed Bond,2040-08-21,face_value_lent,18476000
+2022-02-03,2022-02-04,Treasury Indexed Bond,2030-09-20,face_value_lent,3700000
+2022-02-03,2022-04-19,Treasury Indexed Bond,2040-08-21,face_value_lent,4100000
+2022-02-04,2022-02-10,Treasury Indexed Bond,2027-11-21,face_value_lent,1000000
+2022-02-04,2022-02-10,Treasury Bond,2037-04-21,face_value_lent,18000000
+2022-02-04,2022-02-10,Treasury Indexed Bond,2040-08-21,face_value_lent,22240000
+2022-02-10,2022-02-11,Treasury Indexed Bond,2040-08-21,face_value_lent,1000000
+2022-02-21,2022-02-22,Treasury Bond,2051-06-21,face_value_lent,2200000
+2022-02-23,2022-02-24,Treasury Bond,2051-06-21,face_value_lent,10000000
+2022-02-24,2022-03-02,Treasury Bond,2051-06-21,face_value_lent,80000000
+2022-02-25,2022-04-07,Treasury Indexed Bond,2040-08-21,face_value_lent,700000
+2022-02-25,2022-04-20,Treasury Indexed Bond,2040-08-21,face_value_lent,1500000
+2022-02-28,2022-03-01,Treasury Indexed Bond,2025-09-20,face_value_lent,25000000
+2022-02-28,2022-03-25,Treasury Indexed Bond,2040-08-21,face_value_lent,2000000
+2022-03-01,2022-03-07,Treasury Indexed Bond,2040-08-21,face_value_lent,3900000
+2022-03-02,2022-03-07,Treasury Indexed Bond,2040-08-21,face_value_lent,2760000
+2022-03-04,2022-03-07,Treasury Indexed Bond,2032-11-21,face_value_lent,2700000
+2022-03-09,2022-08-09,Treasury Indexed Bond,2040-08-21,face_value_lent,3800000
+2022-03-10,2022-03-14,Treasury Indexed Bond,2040-08-21,face_value_lent,9480000
+2022-03-14,2022-03-16,Treasury Bond,2041-05-21,face_value_lent,3000000
+2022-03-14,2022-03-17,Treasury Indexed Bond,2040-08-21,face_value_lent,9630000
+2022-03-14,2022-03-23,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2022-03-15,2022-08-09,Treasury Indexed Bond,2040-08-21,face_value_lent,3800000
+2022-03-17,2022-04-07,Treasury Indexed Bond,2040-08-21,face_value_lent,5480000
+2022-03-22,2022-03-23,Treasury Bond,2041-05-21,face_value_lent,22000000
+2022-03-23,2022-04-05,Treasury Indexed Bond,2040-08-21,face_value_lent,1200000
+2022-03-24,2022-04-14,Treasury Indexed Bond,2040-08-21,face_value_lent,23921000
+2022-03-25,2022-04-14,Treasury Indexed Bond,2040-08-21,face_value_lent,1000000
+2022-03-30,2022-04-05,Treasury Bond,2051-06-21,face_value_lent,10400000
+2022-03-30,2022-04-20,Treasury Indexed Bond,2040-08-21,face_value_lent,13800000
+2022-04-01,2022-04-29,Treasury Bond,2035-06-21,face_value_lent,1100000
+2022-04-08,2022-04-13,Treasury Bond,2051-06-21,face_value_lent,16200000
+2022-04-11,2022-04-19,Treasury Indexed Bond,2040-08-21,face_value_lent,7700000
+2022-04-11,2022-07-07,Treasury Indexed Bond,2040-08-21,face_value_lent,11000000
+2022-04-12,2022-04-14,Treasury Bond,2051-06-21,face_value_lent,5000000
+2022-04-13,2022-04-19,Treasury Indexed Bond,2032-11-21,face_value_lent,5750000
+2022-04-14,2022-04-29,Treasury Indexed Bond,2050-02-21,face_value_lent,3900000
+2022-04-19,2022-04-20,Treasury Bond,2029-04-21,face_value_lent,81106000
+2022-04-19,2022-04-20,Treasury Indexed Bond,2032-11-21,face_value_lent,11500000
+2022-04-19,2022-04-20,Treasury Bond,2041-05-21,face_value_lent,97813000
+2022-04-19,2022-04-20,Treasury Indexed Bond,2050-02-21,face_value_lent,10600000
+2022-04-19,2022-04-20,Treasury Bond,2051-06-21,face_value_lent,70000000
+2022-04-19,2022-04-20,Treasury Bond,2051-06-21,face_value_lent,57000000
+2022-04-27,2022-04-28,Treasury Indexed Bond,2050-02-21,face_value_lent,4980000
+2022-04-28,2022-04-29,Treasury Indexed Bond,2050-02-21,face_value_lent,4860000
+2022-04-28,2022-05-04,Treasury Bond,2051-06-21,face_value_lent,35000000
+2022-05-02,2022-05-12,Treasury Indexed Bond,2050-02-21,face_value_lent,6500000
+2022-05-03,2022-05-04,Treasury Bond,2051-06-21,face_value_lent,83800000
+2022-05-03,2022-05-09,Treasury Bond,2035-06-21,face_value_lent,1000000
+2022-05-03,2022-07-26,Treasury Indexed Bond,2040-08-21,face_value_lent,5200000
+2022-05-04,2022-05-05,Treasury Bond,2027-04-21,face_value_lent,44329000
+2022-05-04,2022-05-05,Treasury Bond,2051-06-21,face_value_lent,28300000
+2022-05-04,2022-05-09,Treasury Bond,2033-11-21,face_value_lent,30900000
+2022-05-04,2022-05-13,Treasury Bond,2051-06-21,face_value_lent,56100000
+2022-05-04,2022-06-07,Treasury Indexed Bond,2040-08-21,face_value_lent,7000000
+2022-05-04,2022-06-07,Treasury Bond,2051-06-21,face_value_lent,31000000
+2022-05-06,2022-05-12,Treasury Indexed Bond,2032-11-21,face_value_lent,43000000
+2022-05-06,2022-05-12,Treasury Bond,2051-06-21,face_value_lent,51000000
+2022-05-06,2022-08-09,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2022-05-09,2022-05-11,Treasury Bond,2051-06-21,face_value_lent,13293000
+2022-05-09,2022-05-13,Treasury Bond,2051-06-21,face_value_lent,10000000
+2022-05-09,2022-08-09,Treasury Bond,2047-03-21,face_value_lent,7000000
+2022-05-11,2022-05-13,Treasury Indexed Bond,2050-02-21,face_value_lent,17600000
+2022-05-11,2022-07-04,Treasury Bond,2051-06-21,face_value_lent,60000000
+2022-05-12,2022-05-13,Treasury Bond,2051-06-21,face_value_lent,15000000
+2022-05-12,2022-07-13,Treasury Indexed Bond,2040-08-21,face_value_lent,9500000
+2022-05-18,2022-05-19,Treasury Indexed Bond,2040-08-21,face_value_lent,6400000
+2022-05-18,2022-05-19,Treasury Indexed Bond,2040-08-21,face_value_lent,6000000
+2022-05-19,2022-05-30,Treasury Indexed Bond,2032-11-21,face_value_lent,4200000
+2022-05-20,2022-05-23,Treasury Indexed Bond,2032-11-21,face_value_lent,98079000
+2022-05-20,2022-05-25,Treasury Indexed Bond,2032-11-21,face_value_lent,33000000
+2022-05-23,2022-05-24,Treasury Indexed Bond,2032-11-21,face_value_lent,61000000
+2022-05-24,2022-05-25,Treasury Indexed Bond,2032-11-21,face_value_lent,43100000
+2022-05-24,2022-05-25,Treasury Indexed Bond,2040-08-21,face_value_lent,8500000
+2022-05-25,2022-05-26,Treasury Indexed Bond,2032-11-21,face_value_lent,61030000
+2022-05-25,2022-05-30,Treasury Indexed Bond,2040-08-21,face_value_lent,7000000
+2022-05-25,2022-06-01,Treasury Indexed Bond,2040-08-21,face_value_lent,10735000
+2022-05-26,2022-06-02,Treasury Indexed Bond,2040-08-21,face_value_lent,1000000
+2022-05-27,2022-06-03,Treasury Indexed Bond,2040-08-21,face_value_lent,6200000
+2022-05-31,2022-06-01,Treasury Bond,2051-06-21,face_value_lent,25100000
+2022-06-01,2022-06-02,Treasury Bond,2051-06-21,face_value_lent,80900000
+2022-06-01,2022-06-03,Treasury Indexed Bond,2040-08-21,face_value_lent,4400000
+2022-06-02,2022-06-03,Treasury Bond,2051-06-21,face_value_lent,53000000
+2022-06-02,2022-08-09,Treasury Indexed Bond,2040-08-21,face_value_lent,8100000
+2022-06-03,2022-06-29,Treasury Bond,2051-06-21,face_value_lent,15000000
+2022-06-06,2022-08-11,Treasury Indexed Bond,2040-08-21,face_value_lent,17300000
+2022-06-16,2022-07-05,Treasury Indexed Bond,2032-11-21,face_value_lent,1100000
+2022-06-17,2022-06-20,Treasury Indexed Bond,2032-11-21,face_value_lent,5100000
+2022-06-17,2022-06-29,Treasury Bond,2051-06-21,face_value_lent,30000000
+2022-06-20,2022-06-21,Treasury Bond,2051-06-21,face_value_lent,20000000
+2022-06-20,2022-06-23,Treasury Bond,2035-06-21,face_value_lent,5000000
+2022-06-20,2022-08-24,Treasury Bond,2035-06-21,face_value_lent,31100000
+2022-06-21,2022-06-27,Treasury Bond,2035-06-21,face_value_lent,26000000
+2022-06-21,2022-06-27,Treasury Indexed Bond,2040-08-21,face_value_lent,1000000
+2022-06-21,2022-06-29,Treasury Bond,2051-06-21,face_value_lent,20000000
+2022-06-21,2022-07-26,Treasury Indexed Bond,2040-08-21,face_value_lent,1000000
+2022-06-21,2022-09-15,Treasury Indexed Bond,2040-08-21,face_value_lent,3000000
+2022-06-22,2022-06-24,Treasury Indexed Bond,2040-08-21,face_value_lent,230000
+2022-06-22,2022-07-01,Treasury Indexed Bond,2032-11-21,face_value_lent,6500000
+2022-06-23,2022-06-24,Treasury Indexed Bond,2032-11-21,face_value_lent,22100000
+2022-06-24,2022-06-27,Treasury Bond,2051-06-21,face_value_lent,12100000
+2022-06-24,2022-07-01,Treasury Indexed Bond,2030-09-20,face_value_lent,1300000
+2022-06-27,2022-06-28,Treasury Bond,2051-06-21,face_value_lent,84900000
+2022-06-27,2022-06-28,Treasury Bond,2051-06-21,face_value_lent,110000000
+2022-06-28,2022-06-29,Treasury Bond,2051-06-21,face_value_lent,28300000
+2022-06-28,2022-06-29,Treasury Bond,2051-06-21,face_value_lent,129500000
+2022-06-30,2022-07-01,Treasury Bond,2047-03-21,face_value_lent,27000000
+2022-07-01,2022-07-05,Treasury Bond,2047-03-21,face_value_lent,14000000
+2022-07-01,2022-07-13,Treasury Indexed Bond,2040-08-21,face_value_lent,244000
+2022-07-04,2022-07-06,Treasury Bond,2047-03-21,face_value_lent,8000000
+2022-07-04,2022-07-13,Treasury Indexed Bond,2040-08-21,face_value_lent,225000
+2022-07-05,2022-07-27,Treasury Indexed Bond,2040-08-21,face_value_lent,2121000
+2022-07-06,2022-07-26,Treasury Indexed Bond,2040-08-21,face_value_lent,200000
+2022-07-12,2022-07-27,Treasury Indexed Bond,2040-08-21,face_value_lent,4677000
+2022-07-13,2022-08-09,Treasury Indexed Bond,2040-08-21,face_value_lent,9500000
+2022-07-22,2022-07-27,Treasury Indexed Bond,2040-08-21,face_value_lent,300000
+2022-07-26,2022-07-29,Treasury Indexed Bond,2050-02-21,face_value_lent,1000000
+2022-07-28,2022-08-08,Treasury Indexed Bond,2040-08-21,face_value_lent,16800000
+2022-07-29,2022-08-03,Treasury Bond,2051-06-21,face_value_lent,4000000
+2022-08-02,2022-08-09,Treasury Indexed Bond,2040-08-21,face_value_lent,1839000
+2022-08-03,2022-08-08,Treasury Bond,2051-06-21,face_value_lent,30000000
+2022-08-03,2022-08-09,Treasury Indexed Bond,2040-08-21,face_value_lent,7405000
+2022-08-04,2022-08-09,Treasury Indexed Bond,2040-08-21,face_value_lent,10040000
+2022-08-05,2022-08-12,Treasury Indexed Bond,2030-09-20,face_value_lent,14033000
+2022-08-08,2022-09-07,Treasury Indexed Bond,2040-08-21,face_value_lent,26760000
+2022-08-09,2022-08-10,Treasury Indexed Bond,2030-09-20,face_value_lent,5500000
+2022-08-09,2022-08-10,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2022-08-10,2022-08-11,Treasury Indexed Bond,2030-09-20,face_value_lent,5000000
+2022-08-10,2022-08-11,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2022-08-11,2022-08-15,Treasury Indexed Bond,2040-08-21,face_value_lent,5000000
+2022-08-12,2022-08-25,Treasury Indexed Bond,2030-09-20,face_value_lent,9533000
+2022-08-15,2022-08-19,Treasury Indexed Bond,2040-08-21,face_value_lent,14234000
+2022-08-19,2022-08-30,Treasury Indexed Bond,2040-08-21,face_value_lent,9794000
+2022-08-24,2022-08-25,Treasury Indexed Bond,2032-11-21,face_value_lent,29000000
+2022-08-24,2022-08-29,Treasury Indexed Bond,2032-11-21,face_value_lent,3000000
+2022-08-30,2022-09-07,Treasury Indexed Bond,2040-08-21,face_value_lent,10000000
+2022-09-02,2022-09-05,Treasury Bond,2035-06-21,face_value_lent,154200000
+2022-09-02,2022-09-08,Treasury Bond,2035-06-21,face_value_lent,30000000
+2022-09-05,2022-09-21,Treasury Indexed Bond,2040-08-21,face_value_lent,36100000
+2022-09-07,2022-09-27,Treasury Indexed Bond,2040-08-21,face_value_lent,36760000
+2022-09-09,2022-09-21,Treasury Bond,2047-03-21,face_value_lent,90000000
+2022-09-21,2022-10-05,Treasury Indexed Bond,2040-08-21,face_value_lent,26200000
+2022-09-27,2022-10-27,Treasury Indexed Bond,2040-08-21,face_value_lent,36760000
+2022-09-29,2022-09-30,Treasury Indexed Bond,2040-08-21,face_value_lent,2950000
+2022-09-30,2022-10-05,Treasury Indexed Bond,2040-08-21,face_value_lent,11000000
+2022-10-04,2022-10-10,Treasury Indexed Bond,2040-08-21,face_value_lent,9840000
+2022-10-04,2022-10-10,Treasury Indexed Bond,2040-08-21,face_value_lent,1000000
+2022-10-04,2022-10-12,Treasury Indexed Bond,2040-08-21,face_value_lent,9500000
+2022-10-05,2022-10-06,Treasury Indexed Bond,2040-08-21,face_value_lent,11000000
+2022-10-05,2022-10-07,Treasury Indexed Bond,2027-11-21,face_value_lent,18963000
+2022-10-05,2022-10-07,Treasury Indexed Bond,2030-09-20,face_value_lent,227000
+2022-10-05,2022-10-07,Treasury Bond,2051-06-21,face_value_lent,16900000
+2022-10-05,2022-10-10,Treasury Indexed Bond,2040-08-21,face_value_lent,31300000
+2022-10-05,2022-11-17,Treasury Indexed Bond,2040-08-21,face_value_lent,17200000
+2022-10-07,2022-10-10,Treasury Bond,2035-06-21,face_value_lent,30000000
+2022-10-10,2022-10-13,Treasury Indexed Bond,2040-08-21,face_value_lent,18266000
+2022-10-17,2022-10-19,Treasury Indexed Bond,2040-08-21,face_value_lent,30000000
+2022-10-27,2022-11-01,Treasury Indexed Bond,2040-08-21,face_value_lent,24711000
+2022-11-01,2022-11-02,Treasury Indexed Bond,2040-08-21,face_value_lent,17711000
+2022-11-02,2022-11-18,Treasury Indexed Bond,2040-08-21,face_value_lent,16000000
+2022-11-03,2022-11-08,Treasury Indexed Bond,2025-09-20,face_value_lent,10000000
+2022-11-04,2022-11-07,Treasury Bond,2033-11-21,face_value_lent,45600000
+2022-11-11,2022-11-14,Treasury Indexed Bond,2040-08-21,face_value_lent,6200000
+2022-11-16,2022-11-18,Treasury Indexed Bond,2040-08-21,face_value_lent,17000000
+2022-11-18,2022-12-06,Treasury Indexed Bond,2040-08-21,face_value_lent,13000000
+2022-12-01,2022-12-02,Treasury Indexed Bond,2027-11-21,face_value_lent,36500000
+2022-12-02,2022-12-05,Treasury Indexed Bond,2040-08-21,face_value_lent,14510000
+2022-12-02,2022-12-06,Treasury Indexed Bond,2050-02-21,face_value_lent,15060000
+2022-12-02,2022-12-09,Treasury Indexed Bond,2027-11-21,face_value_lent,8200000
+2022-12-05,2022-12-08,Treasury Indexed Bond,2027-11-21,face_value_lent,39000000
+2022-12-05,2022-12-08,Treasury Bond,2037-04-21,face_value_lent,17000000
+2022-12-06,2022-12-07,Treasury Indexed Bond,2035-08-21,face_value_lent,4015000
+2022-12-06,2022-12-07,Treasury Indexed Bond,2050-02-21,face_value_lent,3660000
+2022-12-06,2022-12-08,Treasury Bond,2035-06-21,face_value_lent,81000000
+2022-12-06,2023-03-22,Treasury Indexed Bond,2040-08-21,face_value_lent,13000000
+2022-12-07,2022-12-08,Treasury Bond,2047-03-21,face_value_lent,137000000
+2022-12-08,2022-12-29,Treasury Indexed Bond,2027-11-21,face_value_lent,6000000
+2022-12-09,2022-12-30,Treasury Indexed Bond,2027-11-21,face_value_lent,8200000
+2022-12-12,2022-12-13,Treasury Indexed Bond,2035-08-21,face_value_lent,5000000
+2022-12-12,2022-12-13,Treasury Bond,2039-06-21,face_value_lent,20000000
+2022-12-12,2022-12-15,Treasury Indexed Bond,2027-11-21,face_value_lent,19100000
+2022-12-15,2022-12-16,Treasury Indexed Bond,2040-08-21,face_value_lent,13700000
+2022-12-15,2022-12-16,Treasury Indexed Bond,2040-08-21,face_value_lent,200000
+2022-12-19,2023-01-24,Treasury Indexed Bond,2040-08-21,face_value_lent,11700000
+2022-12-20,2022-12-29,Treasury Indexed Bond,2032-11-21,face_value_lent,2500000
+2022-12-28,2022-12-30,Treasury Bond,2025-04-21,face_value_lent,20933000
+2023-01-12,2023-01-13,Treasury Bond,2051-06-21,face_value_lent,37420000
+2023-01-19,2023-01-20,Treasury Bond,2037-04-21,face_value_lent,20000000
+2023-01-27,2023-02-08,Treasury Indexed Bond,2040-08-21,face_value_lent,7430000
+2023-01-31,2023-02-01,Treasury Indexed Bond,2025-09-20,face_value_lent,45355000
+2023-01-31,2023-02-02,Treasury Indexed Bond,2040-08-21,face_value_lent,10000000
+2023-02-01,2023-02-02,Treasury Indexed Bond,2040-08-21,face_value_lent,1108000
+2023-02-02,2023-02-08,Treasury Indexed Bond,2040-08-21,face_value_lent,5791000
+2023-02-08,2023-02-13,Treasury Indexed Bond,2040-08-21,face_value_lent,8221000
+2023-02-09,2023-02-10,Treasury Indexed Bond,2030-09-20,face_value_lent,9860000
+2023-02-13,2023-03-08,Treasury Indexed Bond,2040-08-21,face_value_lent,3221000
+2023-02-15,2023-02-20,Treasury Bond,2041-05-21,face_value_lent,10000000
+2023-02-22,2023-03-07,Treasury Bond,2035-06-21,face_value_lent,1000000
+2023-02-28,2023-03-07,Treasury Bond,2047-03-21,face_value_lent,5000000
+2023-03-01,2023-03-13,Treasury Indexed Bond,2040-08-21,face_value_lent,2200000
+2023-03-03,2023-03-16,Treasury Indexed Bond,2040-08-21,face_value_lent,8900000
+2023-03-06,2023-03-08,Treasury Indexed Bond,2040-08-21,face_value_lent,2000000
+2023-03-07,2023-03-08,Treasury Bond,2041-05-21,face_value_lent,30000000
+2023-03-07,2023-03-16,Treasury Indexed Bond,2040-08-21,face_value_lent,9900000
+2023-03-08,2023-03-10,Treasury Indexed Bond,2040-08-21,face_value_lent,1000000
+2023-03-08,2023-03-23,Treasury Indexed Bond,2040-08-21,face_value_lent,5221000
+2023-03-10,2023-03-14,Treasury Indexed Bond,2030-09-20,face_value_lent,4000000
+2023-03-13,2023-03-15,Treasury Indexed Bond,2027-11-21,face_value_lent,10400000
+2023-03-15,2023-03-16,Treasury Bond,2035-06-21,face_value_lent,28000000
+2023-03-15,2023-03-16,Treasury Bond,2039-06-21,face_value_lent,1000000
+2023-03-15,2023-03-16,Treasury Bond,2047-03-21,face_value_lent,2000000
+2023-03-23,2023-03-24,Treasury Indexed Bond,2040-08-21,face_value_lent,4991000
+2023-03-24,2023-03-29,Treasury Indexed Bond,2040-08-21,face_value_lent,4681000
+2023-03-29,2023-03-31,Treasury Indexed Bond,2040-08-21,face_value_lent,4161000
+2023-03-31,2023-04-13,Treasury Indexed Bond,2040-08-21,face_value_lent,2001000
+2023-05-15,2023-05-17,Treasury Indexed Bond,2035-08-21,face_value_lent,17363000
+2023-05-17,2023-05-23,Treasury Indexed Bond,2040-08-21,face_value_lent,2000000
+2023-05-18,2023-05-23,Treasury Indexed Bond,2040-08-21,face_value_lent,7216000
+2023-05-22,2023-05-25,Treasury Indexed Bond,2040-08-21,face_value_lent,10070000
+2023-05-23,2023-05-24,Treasury Indexed Bond,2040-08-21,face_value_lent,18772000
+2023-05-24,2023-05-25,Treasury Indexed Bond,2040-08-21,face_value_lent,15000000
+2023-05-26,2023-05-29,Treasury Bond,2041-05-21,face_value_lent,30000000
+2023-06-13,2023-06-14,Treasury Bond,2041-05-21,face_value_lent,43523000
+2023-06-15,2023-06-19,Treasury Bond,2033-11-21,face_value_lent,14000000
+2023-06-19,2023-06-29,Treasury Bond,2035-06-21,face_value_lent,100000000
+2023-06-22,2023-06-23,Treasury Bond,2035-06-21,face_value_lent,151000000
+2023-07-04,2023-07-06,Treasury Bond,2035-06-21,face_value_lent,1000000
+2023-07-12,2023-07-13,Treasury Bond,2034-12-21,face_value_lent,400000000
+2023-07-18,2023-07-19,Treasury Indexed Bond,2035-08-21,face_value_lent,18200000
+2023-07-21,2023-07-24,Treasury Bond,2041-05-21,face_value_lent,21871000
+2023-07-31,2023-08-02,Treasury Bond,2051-06-21,face_value_lent,5340000
+2023-08-01,2023-08-02,Treasury Bond,2035-06-21,face_value_lent,18000000
+2023-08-01,2023-08-02,Treasury Bond,2051-06-21,face_value_lent,24960000
+2023-08-28,2023-08-29,Treasury Bond,2051-06-21,face_value_lent,73700000

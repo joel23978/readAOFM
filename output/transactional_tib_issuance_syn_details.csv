@@ -1,0 +1,16 @@
+bond_line,pricing_date,settlement_date,face_value_issued_m,bids_at_clearing_price_m,pricing_reference,initial_price_guidance_bp,final_spread_bp,yield_percent,curve_extension,joint_lead_managers,domestic,offshore,asia_ex_japan,europe,japan,north_america,uk,other,bank_trading,bank_balance_sheet,fund_manager,central_bank,hedge_fund,other_2,type
+3.00% 20 September 2025,2009-09-30,2009-10-08,4000,5486,20 August 2020 TIB,0 to +5,+1,3.04,Yes,"Deutsche Bank, RBS, UBS
+Co-Managers: Citi, JP Morgan, Westpac",71.900000000000006,28.1,0,6.7,0,0,21.1,0.3,25,0,61,0,5,9,new_bond
+2.50% 20 September 2030,2010-09-16,2010-09-21,1250,1349.75,20 September 2025 TIB,+2 to +5,+5,2.66,Yes,"JP Morgan, RBS, UBS
+Co Managers: BAML, Citi, CBA, Deutsche Bank",79.400000000000006,20.6,0,13,0,0,7.6,0,65.14,0,30.86,0,4,0,new_bond
+1.25% 21 February 2022,2012-02-21,2012-02-28,900,2016.2,20 August 2020 TIB,+6 to +8,+6,1.37,No,"BAML, Deutsche Bank,
+RBS, UBS",87.6,12.4,3.89,6.56,0,0.56000000000000005,0.54,0.84,12.22,0,82.5,3.89,0.56000000000000005,0.83,new_bond
+2.00% 21 August 2035,2013-09-26,2013-10-03,2100,3046,20 September 2030 TIB,+25 to +29,+25,2.2000000000000002,Yes,"BAML, Deutsche Bank,
+Westpac",55.4,44.6,27.02,0,0,2.14,13.52,1.9,11.65,0,57.29,26.2,0,4.88,new_bond
+1.25% 21 August 2040,2015-08-11,2015-08-20,1250,2815.2,21 August 2035 TIB,+14 to +18,+14,1.2450000000000001,Yes,"Deutsche Bank, UBS
+ Westpac",91.9,8.1,0.78,1.8,0,0,5.53,0,9.6,0,86.33,0,2.27,1.8,new_bond
+0.75% 21 November 2027,2017-08-23,2017-08-31,3000,5033.4750000000004,20 September 2025 TIB,+9.5 to +12.5,+10.5,0.87250000000000005,No,"Citi, Deutsche Bank, UBS, Westpac",83.4,16.600000000000001,0,2.65,0,3.83,10.17,0,23.07,0,69.150000000000006,0,4.67,3.11,new_bond
+1.00% 21 February 2050,2018-09-18,2018-09-25,3750,7782.8,21 August 2040 TIB,+9 to +13,+9,1.1599999999999999,Yes,"BAML, Citi, Deutsche Bank, UBS, Westpac",73.53,26.47,1.07,4.08,0,10.8,6.53,4,10.79,0,71.83,0,11.17,6.21,new_bond
+0.25% 21 November 2032,2021-08-24,2021-08-31,3250,7508.7259999999997,20 September 2030 TIB,+16 to +19,+17,-0.67500000000000004,No,"NAB, UBS, Westpac",79.81,20.190000000000001,4.43,4.12,0,5.68,5.96,0,11.59,2.15,71.040000000000006,0,13.68,1.54,new_bond
+1.25% 21 August 2040 tap,2017-02-28,2017-03-07,700,822.12,21 August 2035 TIB,+3 to +4,+4,1.2424999999999999,No,"Deutsche Bank, UBS
+ Westpac",88.8,11.2,0,0,0,5,6.2,0,30.58,0,63.71,0,5.71,0,tap
