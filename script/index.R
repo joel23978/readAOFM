@@ -229,7 +229,7 @@ index <- data.frame(
 ) 
 
 index_nav <- index %>%
-  select(c(4, 7, 1:3)) %>%
+  select(c(4, 6, 1:3)) %>%
   `colnames<-`(c("Argument", "Function", "Category", "Title", "Description"))
 
 
