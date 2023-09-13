@@ -12,21 +12,29 @@ download.R contains a function which enables you down a single file (or all data
 - specify a specific table (from browse_tables()) to down to /data
 - if no argument is passed the function it will download all table to /data
 
-tidy_data.R has 7 function which enable one to read in almost any data you might want from the AOFM:
+tidy_data.R has 7 functions which enable one to read in almost any data you might want from the AOFM:
+
 End of Financial Year Positions:
 - read_eofy()
+  
 End of Month Positions:
 - read_eom()
+  
 Transactional Data:
 - read_transactional()
+  
 Transactional Data - Syndication Details:
 - read_syndication()
+  
 Ownership of Australian Government Securities;
 - read_ownership()
+  
 AGS Secondary Market Turnover;
 - read_secondary()
+  
 Term Premium Estimates:
 - read_premium()
+  
 Other:
 - no function exists to download this data.
 
