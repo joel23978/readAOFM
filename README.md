@@ -38,5 +38,5 @@ Term Premium Estimates:
 Other:
 - no function exists to download this data.
 
-the Argument for each of the above files is specified in the "Argument" column from browse_tables() and the relevant function is also listed in browse_tables().
+the relevant arguments and functions are specified in browse_tables().
 
