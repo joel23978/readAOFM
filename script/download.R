@@ -5,6 +5,7 @@ library(httr)
 library(here)
 library(zoo)
 
+source(here::here("script", "index.R"))
 
 
 
@@ -39,8 +40,6 @@ download_aofm_xlsx <- function(aofm_table = NULL
     download.file(file.url, destfile = here("data", file.name))
   }
 }
-    
-#download_aofm_xlsx()
 
 
 

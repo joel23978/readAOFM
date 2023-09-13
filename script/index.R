@@ -239,7 +239,7 @@ index_nav <- index %>%
 browse_tables <- function(x = index_nav){
   print(x)
 }
-browse_tables()
+
 
 
 

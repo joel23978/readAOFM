@@ -6,14 +6,10 @@ library(here)
 library(zoo)
 library(stringr)
 
-here::here()
-
+source(here::here("script", "index.R"))
 
 
 read_excel_allsheets <- function(filename, tibble = FALSE) {
-  # I prefer straight data.frames
-  # but if you like tidyverse tibbles (the default with read_excel)
-  # then just pass tibble = TRUE
   sheets <- readxl::excel_sheets(filename)
   x <- lapply(sheets, function(X) readxl::read_excel(filename, sheet = X))
   if(!tibble) x <- lapply(x, as.data.frame)
@@ -142,15 +138,6 @@ read_eom <- function(aofm_table
   }
 }
 
-# for (k in 4:9){
-# read_eom_data(index$id[k]
-# )
-# }
-
-# rm(tmp0, tmp1, tmp2, tmp3, tmp4
-#    , output.name, output.name.csv
-#    , fiel.url, aofm_table)
-# 
 
 
 
@@ -217,10 +204,7 @@ read_transactional <- function(aofm_table
   write_csv(tmp3, here("output", output.name.csv))
 }
 
-# for (k in c(10, 13:14, 16:19)){
-#   print(index$id[k])
-#   read_transactional(index$id[k])
-# }
+
 
 
 
@@ -229,7 +213,6 @@ read_transactional <- function(aofm_table
 
 
 ####### 4 syndication details ####
-# 12 and 15
 
 read_syndication <- function(aofm_table
                                , csv = NULL
@@ -271,9 +254,6 @@ read_syndication <- function(aofm_table
   write_csv(tmp5, here("output", output.name.csv))
 }
 
-# for (k in c(12,15)){
-#   read_syndication(index$id[k])
-# }
 
 
 
@@ -322,10 +302,6 @@ read_secondary <- function(aofm_table
   write_csv(tmp5, here("output", output.name.csv))
   
 }
-
-# for (k in c(22:23)){
-#   read_secondary(index$id[k])
-# }
 
 
 
@@ -377,7 +353,10 @@ read_premium <- function(aofm_table
   
 }
 
-#read_premium(index$id[24])
+
+
+
+
 
 
 
@@ -457,9 +436,9 @@ read_ownership <- function(aofm_table
   }
 }
 
-for (k in 20:21){
-read_ownership(index$id[k])
-}
+
+
+
 
 
 ####### 8 Other ####
