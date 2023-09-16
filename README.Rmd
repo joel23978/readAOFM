@@ -17,7 +17,7 @@ knitr::opts_chunk$set(
 
 {readAOFM} exists with the goal of making it easier to download data from the AOFM's datahub.
 
-The package enables you to read most of the datasets from the [AOFM's datahub](https://www.aofm.gov.au/data-hub) with thr exception of *Other Historical Datasets.*
+The package enables you to read most of the datasets from the [AOFM's datahub](https://www.aofm.gov.au/data-hub) with the exception of *Other Historical Datasets.*
 
 
 ## Installation
@@ -47,12 +47,23 @@ print(read_aofm("tb", "issuance"))
 
 ```
 
-The read_aofm function takes up to four arguments
+The read_aofm function takes up to four arguments:
 
 - security, ## options include; tb, tib, tn, slf, summary, aggregate, ownership, retail, term.premium
 - type, ## options include; dealt, settlement, issuance, syndication, buyback, turnover
 - csv = FALSE, ## defaults to FALSE, if TRUE it will output a csv to /ouput with the cleaned data
 - data.index = index, ## an index of data on the AOFM website, pulled from index.R
+
+The function needs to be written to an object like the below:
+
+- Where the excel files has multiple sheets the data is written to a list object with a list element for each sheet.
+- The "Notes" sheet in the orignal files is not read into R
+
+```{r example3, eval = F}
+tb_issuance <- read_aofm("tb", "issuance")
+
+```
+
 
 
 To see the index of files/arguments to pass, use:
@@ -67,7 +78,7 @@ download.R contains two functions:
   - if no argument is passed; it will download all files from the AOFM's webite
   - if an argument with multiple matches is passed it will download all matching tables
   - if two arguments are passed (security, type) it will download the specific table
-- find_file() takes arguemnts for (security, type) and returns a table id
+- find_file() takes arguments for (security, type) and returns a table id
 
 
 

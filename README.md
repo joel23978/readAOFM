@@ -7,7 +7,7 @@
 from the AOFM’s datahub.
 
 The package enables you to read most of the datasets from the [AOFM’s
-datahub](https://www.aofm.gov.au/data-hub) with thr exception of *Other
+datahub](https://www.aofm.gov.au/data-hub) with the exception of *Other
 Historical Datasets.*
 
 ## Installation
@@ -42,7 +42,7 @@ print(read_aofm("tb", "issuance"))
     #> 10 1982-09-17 TB2           1992-03-16 AU0000XCLQA2 1982-09-22   weighte… 1.55e1
     #> # ℹ 23,312 more rows
 
-The read_aofm function takes up to four arguments
+The read_aofm function takes up to four arguments:
 
 - security, \## options include; tb, tib, tn, slf, summary, aggregate,
   ownership, retail, term.premium
@@ -52,6 +52,16 @@ The read_aofm function takes up to four arguments
   /ouput with the cleaned data
 - data.index = index, \## an index of data on the AOFM website, pulled
   from index.R
+
+The function needs to be written to an object like the below:
+
+- Where the excel files has multiple sheets the data is written to a
+  list object with a list element for each sheet.
+- The “Notes” sheet in the orignal files is not read into R
+
+``` r
+tb_issuance <- read_aofm("tb", "issuance")
+```
 
 To see the index of files/arguments to pass, use:
 
