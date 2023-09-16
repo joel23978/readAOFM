@@ -30,6 +30,33 @@ The package enables you to read most of the datasets from the [AOFM's datahub](h
 <!-- ``` -->
 
 ## Example
+
+One line to pull in the data in a tidy format, and a few more lines to make a chart
+```{r exampleChart, warning=FALSE, message=FALSE}
+library(here)
+source(here("script", "tidy_data.R"))
+
+## Treasury Bond Coverage Ratio's
+p <- read_aofm("tb", "issuance") %>%
+  filter(name == "coverage_ratio") %>%
+  ggplot(aes(x = date_held
+             , y = value
+             , colour = as.numeric(difftime(maturity, date_held))/365
+  )) +
+  geom_point() +
+  theme_minimal() +
+  xlab("Issuance date") +
+  ylab("Coverage ratio") + 
+  guides(colour=guide_legend(title="Tenor (yrs)")) +
+  ggtitle("AOFM Treasury Bond Issuance - Coverage Ratio")
+p
+
+```
+
+
+What the data looks like:
+
+
 ```{r example, eval = F}
 library(here)
 source(here("script", "tidy_data.R"))

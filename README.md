@@ -20,6 +20,33 @@ Historical Datasets.*
 
 ## Example
 
+One line to pull in the data in a tidy format, and a few more lines to
+make a chart
+
+``` r
+library(here)
+source(here("script", "tidy_data.R"))
+
+## Treasury Bond Coverage Ratio's
+p <- read_aofm("tb", "issuance") %>%
+  filter(name == "coverage_ratio") %>%
+  ggplot(aes(x = date_held
+             , y = value
+             , colour = as.numeric(difftime(maturity, date_held))/365
+  )) +
+  geom_point() +
+  theme_minimal() +
+  xlab("Issuance date") +
+  ylab("Coverage ratio") + 
+  guides(colour=guide_legend(title="Tenor (yrs)")) +
+  ggtitle("AOFM Treasury Bond Issuance - Coverage Ratio")
+p
+```
+
+<img src="man/figures/README-exampleChart-1.png" width="100%" />
+
+What the data looks like:
+
 ``` r
 library(here)
 source(here("script", "tidy_data.R"))
@@ -172,7 +199,7 @@ download.R contains two functions:
     matching tables
   - if two arguments are passed (security, type) it will download the
     specific table
-- find_file() takes arguemnts for (security, type) and returns a table
+- find_file() takes arguments for (security, type) and returns a table
   id
 
 ## Disclaimer

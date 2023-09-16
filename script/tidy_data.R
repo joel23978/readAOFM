@@ -200,9 +200,9 @@ read_transactional <- function(aofm_table
     
   } else if (str_detect(aofm_table, "tn_issuance") == T) {
     tmp2 <- tmp1 %>%
-      mutate(date_held = as.Date(date_held)
-             , date_settled = as.Date(date_settled)
-             , maturity = as.Date(maturity)
+      mutate(date_held = as.Date(as.numeric(date_held), origin = "1899-12-31")
+             , date_settled = as.Date(as.numeric(date_settled), origin = "1899-12-31")
+             , maturity = as.Date(as.numeric(maturity), origin = "1899-12-31")
       ) %>%
       mutate_if(is.logical, as.numeric)
     
