@@ -5,11 +5,8 @@ source(here::here("script", "tidy_data.R"))
 
 view(browse_tables())
 
-read_transactional("transactional_tb_issuance_tender_syn")
-
-
 ## Treasury Bond Coverage Ratio's
-p <- transactional_tb_issuance_tender_syn %>%
+p <- read_aofm("tib", "issuance") %>%
   filter(name == "coverage_ratio") %>%
   ggplot(aes(x = date_held
              , y = value
@@ -25,7 +22,7 @@ p
 
 
 ## Treasury Bond Annual Issuance Volume
-q <- transactional_tb_issuance_tender_syn %>%
+q <- read_aofm("tb", "issuance") %>%
   filter(name == "amount_allotted") %>%
   mutate(year = year(date_held)) %>%
   group_by(year) %>%

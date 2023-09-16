@@ -7,7 +7,11 @@ library(zoo)
 library(stringr)
 
 source(here::here("script", "index.R"))
+source(here::here("script", "download.R"))
 
+
+
+####### .0 baseline functions ####
 
 read_excel_allsheets <- function(filename, tibble = FALSE) {
   sheets <- readxl::excel_sheets(filename)
@@ -17,28 +21,30 @@ read_excel_allsheets <- function(filename, tibble = FALSE) {
   x
 }
 
+not_all_na <- function(x) any(!is.na(x))
 
 
 
 
 
 
-####### 1 EOFY data ####
 
+
+####### .1 EOFY data ####
 read_eofy <- function(aofm_table
                       , csv = NULL
                       , data.index = index
 ) {
   
   
-  file.url <- index %>%
+  file.url <- data.index %>%
     filter(id == aofm_table) %>%
     pull(file.path)
   
   GET(file.url, write_disk(tmp0 <- tempfile(fileext = ".xlsx")))
   
   
-  tmp1 <- read_excel(aofm_table
+  tmp1 <- read_excel(tmp0
                      , skip = 1
                      , sheet = 1) 
   ##### this function is so fucked but it's functional
@@ -59,8 +65,10 @@ read_eofy <- function(aofm_table
     mutate_at(vars(value), ~replace_na(., 0)) %>%
     na.omit()
   
-  write_csv(eofy_executive_summary, here("output", "eofy_executive_summary.csv"))
-  eofy_executive_summary <<- eofy_executive_summary
+  if (is.null(csv)!=T){
+    write_csv(eofy_executive_summary, here("output", "eofy_executive_summary.csv"))
+  }
+  return(eofy_executive_summary)
   
 }
 
@@ -71,20 +79,20 @@ read_eofy <- function(aofm_table
 
 
 
-####### 2 EOM data ####
-
+####### .2 EOM data ####
 read_eom <- function(aofm_table
                                 , csv = NULL
                                 , data.index = index
 ) {
   
-  file.url <- index %>%
+  file.url <- data.index %>%
     filter(id == aofm_table) %>%
     pull(file.path)
   
-  GET(file.url, write_disk(tmp0 <<- tempfile(fileext = ".xlsx")))
+  GET(file.url, write_disk(tmp0 <- tempfile(fileext = ".xlsx")))
   tmp1 <- read_excel_allsheets(tmp0)
   
+  return.data <- list()
   for (i in 2:5) {
     
     output.name <-  paste0(aofm_table
@@ -99,7 +107,7 @@ read_eom <- function(aofm_table
     }
     
     tmp2 <- tmp1[[i]][1:m, ] %>%
-      transpose()
+      data.table::transpose()
     
     for (j in c(3:1,(4:m))){
       if (j >1){
@@ -112,14 +120,14 @@ read_eom <- function(aofm_table
     }
     
     tmp3 <- tmp2 %>%
-      transpose() 
+      data.table::transpose() 
     
     tmp4 <- tmp3 %>% 
       rbind(tmp1[[i]][(m+1):(nrow(tmp1[[i]])), ] %>%
               `colnames<-`(names(tmp3))
       ) %>%
       mutate(V1 = ifelse(is.na(V1), V2, V1)) %>%
-      transpose() %>%
+      data.table::transpose() %>%
       `colnames<-`(.[1,]) %>%
       row_to_names(row_number = 1) %>%
       pivot_longer(!c(1:m), names_to = "date") %>%
@@ -133,9 +141,16 @@ read_eom <- function(aofm_table
      tmp4$Maturity <- replace_na(tmp4$Maturity, "total")
     } 
     
-    assign(output.name,tmp4, envir = parent.frame())
-    write_csv(tmp4, here("output", output.name.csv))
+    return.data[[i-1]] <- tmp4
+    names(return.data)[i-1] <- output.name
+    
+    if (is.null(csv)!=T){
+      write_csv(tmp4, here("output", output.name.csv))
+    }
   }
+  
+  return(return.data)
+  
 }
 
 
@@ -143,18 +158,24 @@ read_eom <- function(aofm_table
 
 
 
-####### 3 transactional ####
 
+
+
+
+
+
+
+####### .3 transactional ####
 read_transactional <- function(aofm_table
                      , csv = NULL
                      , data.index = index
 ) {
   
-  file.url <- index %>%
+  file.url <- data.index %>%
     filter(id == aofm_table) %>%
     pull(file.path)
   
-  GET(file.url, write_disk(tmp0 <<- tempfile(fileext = ".xlsx")))
+  GET(file.url, write_disk(tmp0 <- tempfile(fileext = ".xlsx")))
 
   tmp1 <- read_excel(tmp0
                      , skip = 3
@@ -164,13 +185,13 @@ read_transactional <- function(aofm_table
                      ) %>%
     clean_names() 
   
-  if (str_detect(aofm_table, "retail_buybacks") == T) {
+  if (str_detect(aofm_table, "retail") == T) {
     tmp2 <- tmp1 %>%
       mutate(settle_date = as.Date(settle_date)
              , security_maturity_date = as.Date(security_maturity_date)
       )
 
-  } else if (str_detect(aofm_table, "securities_lending") == T) {
+  } else if (str_detect(aofm_table, "slf") == T) {
     tmp2 <- tmp1 %>%
       mutate(start_date = as.Date(start_date)
              , end_date = as.Date(end_date)
@@ -194,14 +215,16 @@ read_transactional <- function(aofm_table
   }
  
   tmp3 <- tmp2 %>%
-    pivot_longer(!colnames(tmp2 %>% select_if(~!is.numeric(.)))) %>%
+    select(where(not_all_na)) %>%
+    pivot_longer(!colnames((.) %>% select_if(~!is.numeric(.)))) %>%
     na.omit(value)
   
-  output.name <-  aofm_table
-  output.name.csv <- paste0(output.name, ".csv")
+  if (is.null(csv)!=T){
+    output.name.csv <- paste0(aofm_table, ".csv")
+    write_csv(tmp3, here("output", output.name.csv))
+  }
   
-  assign(output.name,tmp3, envir = parent.frame())
-  write_csv(tmp3, here("output", output.name.csv))
+  return(tmp3)
 }
 
 
@@ -212,18 +235,17 @@ read_transactional <- function(aofm_table
 
 
 
-####### 4 syndication details ####
-
+####### .4 syndication details ####
 read_syndication <- function(aofm_table
                                , csv = NULL
                                , data.index = index
 ) {
   
-  file.url <- index %>%
+  file.url <- data.index %>%
     filter(id == aofm_table) %>%
     pull(file.path)
   
-  GET(file.url, write_disk(tmp0 <<- tempfile(fileext = ".xlsx")))
+  GET(file.url, write_disk(tmp0 <- tempfile(fileext = ".xlsx")))
   
   for (i in 1:2){
     output.df <- paste0("tmp", i+2)
@@ -234,24 +256,26 @@ read_syndication <- function(aofm_table
     
     tmp2 <- tmp1 %>%
       na.omit() %>%
-      transpose() %>%
+      data.table::transpose() %>%
       row_to_names(row_number = 1)  %>%
       clean_names() %>%
       mutate(pricing_date = as.Date(as.numeric(pricing_date), origin = "1899-12-30")
              , settlement_date = as.Date(as.numeric(settlement_date), origin = "1899-12-30")
              , type = ifelse(i==1, "new_bond", "tap")
       ) 
-    assign(output.df, tmp2, envir = parent.frame())
+    assign(output.df, tmp2)
   }
   
   tmp5 <- tmp3 %>%
     rbind(tmp4)
   
-  output.name <-  aofm_table
-  output.name.csv <- paste0(output.name, ".csv")
+  if (is.null(csv)!=T){
+    output.name.csv <- paste0(aofm_table, ".csv")
+    write_csv(tmp5, here("output", output.name.csv))
+  }
   
-  assign(output.name,tmp5, envir = parent.frame())
-  write_csv(tmp5, here("output", output.name.csv))
+  return(tmp5)
+  
 }
 
 
@@ -262,18 +286,17 @@ read_syndication <- function(aofm_table
 
 
 
-####### 5 Secondary market turnover ####
-
+####### .5 Secondary market turnover ####
 read_secondary <- function(aofm_table
                            , csv = NULL
                            , data.index = index
 ) {
   
-  file.url <- index %>%
+  file.url <- data.index %>%
     filter(id == aofm_table) %>%
     pull(file.path)
   
-  GET(file.url, write_disk(tmp0 <<- tempfile(fileext = ".xlsx")))
+  GET(file.url, write_disk(tmp0 <- tempfile(fileext = ".xlsx")))
   
   for (i in 2:3){
     tmp1 <- read_excel(tmp0
@@ -289,17 +312,18 @@ read_secondary <- function(aofm_table
       pivot_longer(!colnames(tmp1 %>% select_if(~!is.numeric(.)))) 
       
     output.name <-  paste0("tmp", i+1)
-    assign(output.name,tmp2, envir = parent.frame())
+    assign(output.name,tmp2)
 
   }
   tmp5 <- tmp3 %>%
     rbind(tmp4) 
   
-  output.name <-  aofm_table
-  output.name.csv <- paste0(output.name, ".csv")
+  if (is.null(csv)!=T){
+    output.name.csv <- paste0(aofm_table, ".csv")
+    write_csv(tmp5, here("output", output.name.csv))
+  }
   
-  assign(output.name,tmp5, envir = parent.frame())
-  write_csv(tmp5, here("output", output.name.csv))
+  return(tmp5)
   
 }
 
@@ -310,18 +334,17 @@ read_secondary <- function(aofm_table
 
 
 
-
-####### 6 Term Premium ####
+####### .6 Term Premium ####
 read_premium <- function(aofm_table
                            , csv = NULL
                            , data.index = index
 ) {
   
-  file.url <- index %>%
+  file.url <- data.index %>%
     filter(id == aofm_table) %>%
     pull(file.path)
   
-  GET(file.url, write_disk(tmp0 <<- tempfile(fileext = ".xlsx")))
+  GET(file.url, write_disk(tmp0 <- tempfile(fileext = ".xlsx")))
   
   for (i in 1:2){
     tmp1 <- read_excel(tmp0
@@ -337,7 +360,7 @@ read_premium <- function(aofm_table
       na.omit(value) 
 
     output.name <-  paste0("tmp", i+2)
-    assign(output.name,tmp2, envir = parent.frame())
+    assign(output.name,tmp2)
     
   }
   
@@ -345,11 +368,12 @@ read_premium <- function(aofm_table
     rbind(tmp4) %>%
     arrange(date)
   
-  output.name <-  aofm_table
-  output.name.csv <- paste0(output.name, ".csv")
+  if (is.null(csv)!=T){
+    output.name.csv <- paste0(aofm_table, ".csv")
+    write_csv(tmp5, here("output", output.name.csv))
+  }
   
-  assign(output.name,tmp5, envir = parent.frame())
-  write_csv(tmp5, here("output", output.name.csv))
+  return(tmp5)
   
 }
 
@@ -360,20 +384,21 @@ read_premium <- function(aofm_table
 
 
 
-####### 7 Ownership ####
+
+####### .7 Ownership ####
 read_ownership <- function(aofm_table
                      , csv = NULL
                      , data.index = index
 ) {
   
-  file.url <- index %>%
+  file.url <- data.index %>%
     filter(id == aofm_table) %>%
     pull(file.path)
   
-  GET(file.url, write_disk(tmp0 <<- tempfile(fileext = ".xlsx")))
+  GET(file.url, write_disk(tmp0 <- tempfile(fileext = ".xlsx")))
   tmp1 <- read_excel_allsheets(tmp0)
   
-  if (str_detect(aofm_table, "public_register") == T) {
+  if (str_detect(aofm_table, "public") == T) {
     sheets <- 1:2
     top_rows <- 1:4
     n <-max(top_rows)
@@ -384,15 +409,16 @@ read_ownership <- function(aofm_table
   }
   m <-max(top_rows)
     
+  return.data <- list()
   for (i in sheets) {
-  output.name <-  paste0(aofm_table
+    output.name <-  paste0(aofm_table
                          , "_"
                          , names(tmp1)[i])
   output.name.csv <- paste0(output.name, ".csv")
   
   
     tmp2 <- tmp1[[i]][top_rows, ] %>%
-      transpose()
+      data.table::transpose()
     
     for (j in c(3:1,(4:m))){
       if (j >1){
@@ -405,19 +431,19 @@ read_ownership <- function(aofm_table
     }
     
     tmp3 <- tmp2 %>%
-      transpose() 
+      data.table::transpose() 
 
     tmp4 <- tmp3 %>% 
       rbind(tmp1[[i]][(m+1):(nrow(tmp1[[i]])), ] %>%
               `colnames<-`(names(tmp3))
       ) %>%
       mutate(V1 = ifelse(is.na(V1), V2, V1)) %>%
-      transpose() %>%
+      data.table::transpose() %>%
       `colnames<-`(.[1,]) %>%
       row_to_names(row_number = 1) %>%
       pivot_longer(!c(1:(n-1)), names_to = "date") 
     
-    if (str_detect(aofm_table, "public_register") == T) {
+    if (str_detect(aofm_table, "public") == T) {
       tmp5 <- tmp4 %>%
         mutate(date = as.Date(as.numeric(date), origin = "1899-12-30")) %>%
         distinct() %>%
@@ -431,8 +457,78 @@ read_ownership <- function(aofm_table
         na.omit()
     }
     
-    assign(output.name,tmp5, envir = parent.frame())
-    write_csv(tmp4, here("output", output.name.csv))
+    if(aofm_table == "ownership_nonresident"){
+      return.data[[i-1]] <- tmp5
+      names(return.data)[i-1] <- output.name
+    } else {
+      return.data[[i]] <- tmp5
+      names(return.data)[i] <- output.name
+    }
+    
+    if (is.null(csv)!=T){
+      write_csv(tmp5, here("output", output.name.csv))
+    }
+  }
+
+  return(return.data)
+
+}
+
+
+
+
+
+
+
+####### .10 daddy function #####
+read_aofm <- function(security = NULL
+                      , type = NULL
+                      , data.index = index
+) {
+  
+  # Use the find_file function to get the appropriate table(s) to download
+  table_id <- find_file(security, type, data.index)
+  
+  # if no table returned then exit function
+  if (is.null(table_id)) {
+    # No valid table found, return NULL
+    return(NULL)
+    #if we return a table then run through using the appropriate function, use a for loop so user can download multiple files into R at once
+  } else {
+    
+    if(length(table_id) == 1){
+      
+      child_fn <- data.index %>%
+        filter(id == table_id) %>%
+        pull(fn)
+      
+      if (child_fn == "read_eofy") {
+        return(read_eofy(aofm_table = table_id))
+        
+      } else if (child_fn == "read_eom") {
+        return(read_eom(aofm_table = table_id))
+        
+      } else if (child_fn == "read_transactional") {
+        return(read_transactional(aofm_table = table_id))
+        
+      } else if (child_fn == "read_syndication") {
+        return(read_syndication(aofm_table = table_id))
+        
+      } else if (child_fn == "read_ownership") {
+        return(read_ownership(aofm_table = table_id))
+        
+      } else if (child_fn == "read_secondary") {
+        return(read_secondary(aofm_table = table_id))
+        
+      } else if (child_fn == "read_premium") {
+        return(read_premium(aofm_table = table_id))
+        
+      } else {
+        print("Error: No function exists")
+        return(NULL)
+        
+      }
+    } 
   }
 }
 
@@ -441,18 +537,73 @@ read_ownership <- function(aofm_table
 
 
 
-####### 8 Other ####
-## 
 
 
 
 
-
-
-
-
-
-
-
-
-
+####### looped version (doesnt work) #####
+# read_aofm <- function(security = NULL
+#                       , type = NULL
+#                       , basis = NULL
+#                       , data.index = index
+# ) {
+#   
+#   # Use the find_file function to get the appropriate table(s) to download
+#   table_id <- find_file(security, type, basis, data.index)
+#   
+#   # if no table returned then exit function
+#   if (is.null(table_id)) {
+#     # No valid table found, return NULL
+#     return(NULL)
+#     #if we return a table then run through using the appropriate function, use a for loop so user can download multiple files into R at once
+#   } else {
+#     
+#     for (k in 1:length(table_id)){
+#       
+#       child_fn <- data.index %>%
+#         filter(id == table_id[k]) %>%
+#         pull(fn)
+#       
+#       print(table_id[k]) 
+#       print(child_fn)
+#       
+#       if (child_fn == "read_eofy") {
+#         table_return <- read_eofy(aofm_table = table_id[k])
+#         
+#       } else if (child_fn == "read_eom") {
+#         table_return <- read_eom(aofm_table = table_id[k])
+#         
+#       } else if (child_fn == "read_transactional") {
+#         table_return <- read_transactional(aofm_table = table_id[k])
+#         
+#       } else if (child_fn == "read_syndication") {
+#         table_return <- read_syndication(aofm_table = table_id[k])
+#         
+#       } else if (child_fn == "read_ownership") {
+#         table_return <- read_ownership(aofm_table = table_id[k])
+#         
+#       } else if (child_fn == "read_secondary") {
+#         table_return <- read_secondary(aofm_table = table_id[k])
+#         
+#       } else if (child_fn == "read_premium") {
+#         table_return <- read_premium(aofm_table = table_id[k])
+#         
+#       } else {
+#         print("Error: No function exists")
+#         return(NULL)
+#         
+#       }
+#     } 
+#   }
+# 
+#   print("The following table(s) has been added to your global envrionment")
+#   print(table_id)
+#   assign(table_id, table_return)
+#   rm(tmp0)
+# 
+# 
+#   if (length(table_id) == 1){
+#     return(table_return)
+#   }
+# 
+# }

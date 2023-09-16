@@ -1,7 +1,134 @@
 ## an index dataframe
 
-
 index <- data.frame(
+  p.security = c(
+    "summary"
+    , "aggregate"
+    , "aggregate"
+    , "tb"
+    , "tb"
+    , "tib"
+    , "tib"
+    , "tn"
+    , "tn"
+    , "tb"
+    , NA
+    , "tb"
+    , "tb"
+    , "tib"
+    , "tib"
+    , "tib"
+    , "tn"
+    , "retail"
+    , "slf"
+    , "ownership"
+    , "ownership"
+    , "tb"
+    , "tib"
+    , "termpremium"
+    , NA
+    , NA
+    , NA
+    , NA
+    , NA
+    , NA
+  ),
+  p.type = c(
+    NA    
+    , "dealt"
+    , "settlement"
+    , "dealt"
+    , "settlement"
+    , "dealt"
+    , "settlement"
+    , "dealt"
+    , "settlement"
+    , "issuance"
+    , NA
+    , "syndication"
+    , "buyback"
+    , "issuance"
+    , "syndication"
+    , "buyback"
+    , "issuance"
+    , NA  
+    , NA
+    , "public"
+    , "nonresident"
+    , "turnover"
+    , "turnover"
+    , NA  
+    , NA
+    , NA
+    , NA  
+    , NA
+    , NA
+    , NA  
+  ),
+  id = c(
+    "summary",
+    "aggregate_position_dealt",
+    "aggregate_position_settlement",
+    "tb_position_dealt",
+    "tb_position_settlement",
+    "tib_position_dealt",
+    "tib_position_settlement",
+    "tn_position_dealt",
+    "tn_position_settlement",
+    "tb_issuance",
+    "tb_issuance_conversion",
+    "tb_syndication",
+    "tb_buyback",
+    "tib_issuance",
+    "tib_syndication",
+    "tib_buyback",
+    "tn_issuance",
+    "retail",
+    "slf",
+    "ownership_public",
+    "ownership_nonresident",
+    "tb_turnover",
+    "tib_turnover",
+    "termpremium",
+    "indexation_factors",
+    "rmbs_transactions",
+    "rmbs_auctions",
+    "interest_rate_swaps",
+    "cross_currency_swaps",
+    "portfolio_overview"
+  ),
+  fn = c(
+    "read_eofy",
+    "read_eom",
+    "read_eom",
+    "read_eom",
+    "read_eom",
+    "read_eom",
+    "read_eom",
+    "read_eom",
+    "read_eom",
+    "read_transactional",
+    "no function exists",
+    "read_syndication",
+    "read_transactional",
+    "read_transactional",
+    "read_syndication",
+    "read_transactional",
+    "read_transactional",
+    "read_transactional",
+    "read_transactional",
+    "read_ownership",
+    "read_ownership",
+    "read_secondary",
+    "read_secondary",
+    "read_premium",
+    "no function exists",
+    "no function exists",
+    "no function exists",
+    "no function exists",
+    "no function exists",
+    "no function exists"
+  ),
   category =  c(
     "End of Financial Year Positions",
     "End of Month Positions",
@@ -98,38 +225,6 @@ index <- data.frame(
     "AOFM transactions in Cross Currency Interest Rate Swaps.",
     "An overview of end of financial year outstanding amounts for AGS on issue prior to 2003."
   ),
-  id = c(
-    "eofy_executive_summary",
-    "eom_portfolio_aggregate_dealt",
-    "eom_portfolio_aggregate_settlement",
-    "eom_tb_dealt",
-    "eom_tb_settlement",
-    "eom_tib_dealt",
-    "eom_tib_settlement",
-    "eom_tn_dealt",
-    "eom_tn_settlement",
-    "transactional_tb_issuance_tender_syn",
-    "transactional_tb_issuance_conversion",
-    "transactional_tb_issuance_syn_details",
-    "transactional_tb_buybacks",
-    "transactional_tib_issuance_tender_syn",
-    "transactional_tib_issuance_syn_details",
-    "transactional_tib_buybacks",
-    "transactional_tn_issuance",
-    "transactional_retail_buybacks",
-    "transactional_securities_lending_facility",
-    "ownership_public_register",
-    "ownership_non_res_holdings",
-    "ags_secondary_market_turnover_tb",
-    "ags_secondary_market_turnover_tib",
-    "term_premium_estimates",
-    "other_indexaction_factors",
-    "other_rmbs_transactions",
-    "other_rmbs_auctions",
-    "other_interest_rate_swaps",
-    "other_cross_currency_swaps",
-    "other_portfolio_overview"
-  ),
   file.path = c(
     "https://www.aofm.gov.au/media/530",
     "https://www.aofm.gov.au/media/577",
@@ -162,75 +257,48 @@ index <- data.frame(
     "https://www.aofm.gov.au/media/526",
     "https://www.aofm.gov.au/media/522"
   )
-  , fn = c(
-    "read_eofy",
-    "read_eom",
-    "read_eom",
-    "read_eom",
-    "read_eom",
-    "read_eom",
-    "read_eom",
-    "read_eom",
-    "read_eom",
-    "read_transactional",
-    "no function exists",
-    "read_syndication",
-    "read_transactional",
-    "read_transactional",
-    "read_syndication",
-    "read_transactional",
-    "read_transactional",
-    "read_transactional",
-    "read_transactional",
-    "read_ownership",
-    "read_ownership",
-    "read_secondary",
-    "read_secondary",
-    "read_premium",
-    "no function exists",
-    "no function exists",
-    "no function exists",
-    "no function exists",
-    "no function exists",
-    "no function exists"
-  )
   , file.save = c(
-    "eofy_executive_summary.xlsx",
-    "eom_portfolio_aggregate_dealt.xlsx",
-    "eom_portfolio_aggregate_settlement.xlsx",
-    "eom_tb_dealt.xlsx",
-    "eom_tb_settlement.xlsx",
-    "eom_tib_dealt.xlsx",
-    "eom_tib_settlement.xlsx",
-    "eom_tn_dealt.xlsx",
-    "eom_tn_settlement.xlsx",
-    "transactional_tb_issuance_tender_syn.xlsx",
-    "transactional_tb_issuance_conversion.xls",
-    "transactional_tb_issuance_syn_details.xlsx",
-    "transactional_tb_buybacks.xlsx",
-    "transactional_tib_issuance_tender_syn.xlsx",
-    "transactional_tib_issuance_syn_details.xlsx",
-    "transactional_tib_buybacks.xlsx",
-    "transactional_tn_issuance.xlsx",
-    "transactional_retail_buybacks.xlsx",
-    "transactional_securities_lending_facility.xlsx",
-    "ownership_public_register.xlsx",
-    "ownership_non_res_holdings.xlsx",
-    "ags_secondary_market_turnover_tb.xlsx",
-    "ags_secondary_market_turnover_tib.xlsx",
-    "term_premium_estimates.xlsx",
-    "other_indexaction_factors.xlsx",
-    "other_rmbs_transactions.xls",
-    "other_rmbs_auctions.xlsx",
-    "other_interest_rate_swaps.xls",
-    "other_cross_currency_swaps.xls",
-    "other_portfolio_overview.xlsx"
+    "summary.xlsx",
+    "aggregate_position_dealt.xlsx",
+    "aggregate_position_settlement.xlsx",
+    "tb_position_dealt.xlsx",
+    "tb_position_settlement.xlsx",
+    "tib_position_dealt.xlsx",
+    "tib_position_settlement.xlsx",
+    "tn_position_dealt.xlsx",
+    "tn_position_settlement.xlsx",
+    "tb_issuance.xlsx",
+    "tb_issuance_conversion.xls",
+    "tb_syndication.xlsx",
+    "tb_buyback.xlsx",
+    "tib_issuance.xlsx",
+    "tib_syndication.xlsx",
+    "tib_buyback.xlsx",
+    "tn_issuance.xlsx",
+    "retail.xlsx",
+    "slf.xlsx",
+    "ownership_public.xlsx",
+    "ownership_nonresident.xlsx",
+    "tb_turnover.xlsx",
+    "tib_turnover.xlsx",
+    "termpremium.xlsx",
+    "indexation_factors.xlsx",
+    "rmbs_transactions.xls",
+    "rmbs_auctions.xlsx",
+    "interest_rate_swaps.xls",
+    "cross_currency_swaps.xls",
+    "portfolio_overview.xlsx"
   )
-) 
+ ) #%>%
+#   mutate(output.name = paste(param.1, param.2, param.3, sep="_") %>%
+#            str_replace_all(., "_NA", "") %>%
+#            str_replace_all(., "NA", "")
+#            )  
+
 
 index_nav <- index %>%
-  select(c(4, 6, 1:3)) %>%
-  `colnames<-`(c("Argument", "Function", "Category", "Title", "Description"))
+  select(c(1:2, 5:7)) %>%
+  `colnames<-`(c("Argument 1", "Argument 2", "AOFM Category", "AOFM Title", "AOFM Description"))
 
 
 
@@ -239,9 +307,6 @@ index_nav <- index %>%
 browse_tables <- function(x = index_nav){
   print(x)
 }
-
-
-
 
 
 
