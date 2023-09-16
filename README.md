@@ -10,8 +10,7 @@ The package enables you to read most of the datasets from the [AOFM’s
 datahub](https://www.aofm.gov.au/data-hub) with the exception of *Other
 Historical Datasets.*
 
-## Installation
-
+<!-- ## Installation -->
 <!-- You can install readAOFM from [GitHub](https://github.com/) with: -->
 <!-- ``` r -->
 <!-- # install.packages("devtools") -->
@@ -48,9 +47,6 @@ p
 What the data looks like:
 
 ``` r
-library(here)
-source(here("script", "tidy_data.R"))
-
 print(read_aofm("tb", "issuance"))
 ```
 

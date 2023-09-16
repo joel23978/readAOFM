@@ -20,7 +20,7 @@ knitr::opts_chunk$set(
 The package enables you to read most of the datasets from the [AOFM's datahub](https://www.aofm.gov.au/data-hub) with the exception of *Other Historical Datasets.*
 
 
-## Installation
+<!-- ## Installation -->
 
 <!-- You can install readAOFM from [GitHub](https://github.com/) with: -->
 
@@ -58,17 +58,12 @@ What the data looks like:
 
 
 ```{r example, eval = F}
-library(here)
-source(here("script", "tidy_data.R"))
-
 print(read_aofm("tb", "issuance"))
 
 ```
 
 
 ```{r example2, echo=FALSE, warning=FALSE, message=FALSE}
-library(here)
-source(here("script", "tidy_data.R"))
 
 print(read_aofm("tb", "issuance"))
 
