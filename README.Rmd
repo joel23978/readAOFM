@@ -1,0 +1,81 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# readAOFM
+
+{readAOFM} exists with the goal of making it easier to download data from the AOFM's datahub.
+
+The package enables you to read most of the datasets from the [AOFM's datahub](https://www.aofm.gov.au/data-hub) with thr exception of *Other Historical Datasets.*
+
+
+## Installation
+
+<!-- You can install readAOFM from [GitHub](https://github.com/) with: -->
+
+<!-- ``` r -->
+<!-- # install.packages("devtools") -->
+<!-- devtools::install_github("joel23978/readAOFM") -->
+<!-- ``` -->
+
+## Example
+```{r example, eval = F}
+library(here)
+source(here("script", "tidy_data.R"))
+
+print(read_aofm("tb", "issuance"))
+
+```
+
+
+```{r example2, echo=FALSE, warning=FALSE, message=FALSE}
+library(here)
+source(here("script", "tidy_data.R"))
+
+print(read_aofm("tb", "issuance"))
+
+```
+
+The read_aofm function takes up to four arguments
+
+- security, ## options include; tb, tib, tn, slf, summary, aggregate, ownership, retail, term.premium
+- type, ## options include; dealt, settlement, issuance, syndication, buyback, turnover
+- csv = FALSE, ## defaults to FALSE, if TRUE it will output a csv to /ouput with the cleaned data
+- data.index = index, ## an index of data on the AOFM website, pulled from index.R
+
+
+To see the index of files/arguments to pass, use:
+```{r}
+browse_tables()
+```
+
+
+download.R contains two functions:
+
+- download_aofm_xlsx() enables you down a single file (or all data files) from the AOFM's website to a /data subfolder
+  - if no argument is passed; it will download all files from the AOFM's webite
+  - if an argument with multiple matches is passed it will download all matching tables
+  - if two arguments are passed (security, type) it will download the specific table
+- find_file() takes arguemnts for (security, type) and returns a table id
+
+
+
+
+## Disclaimer
+
+The AOFM website may, at any time, change in such a way that the package stops working (esp if they change the structure of the files).
+
+This package is not affiliated with or endorsed by AOFM, all data is provided under any terms set out on the AOFM website.
+
+
