@@ -32,7 +32,7 @@ not_all_na <- function(x) any(!is.na(x))
 
 ####### .1 EOFY data ####
 read_eofy <- function(aofm_table
-                      , csv = NULL
+                      , csv = F
                       , data.index = index
 ) {
   
@@ -81,7 +81,7 @@ read_eofy <- function(aofm_table
 
 ####### .2 EOM data ####
 read_eom <- function(aofm_table
-                                , csv = NULL
+                                , csv = F
                                 , data.index = index
 ) {
   
@@ -167,7 +167,7 @@ read_eom <- function(aofm_table
 
 ####### .3 transactional ####
 read_transactional <- function(aofm_table
-                     , csv = NULL
+                     , csv = F
                      , data.index = index
 ) {
   
@@ -237,7 +237,7 @@ read_transactional <- function(aofm_table
 
 ####### .4 syndication details ####
 read_syndication <- function(aofm_table
-                               , csv = NULL
+                               , csv = F
                                , data.index = index
 ) {
   
@@ -288,7 +288,7 @@ read_syndication <- function(aofm_table
 
 ####### .5 Secondary market turnover ####
 read_secondary <- function(aofm_table
-                           , csv = NULL
+                           , csv = F
                            , data.index = index
 ) {
   
@@ -336,7 +336,7 @@ read_secondary <- function(aofm_table
 
 ####### .6 Term Premium ####
 read_premium <- function(aofm_table
-                           , csv = NULL
+                           , csv = F
                            , data.index = index
 ) {
   
@@ -387,7 +387,7 @@ read_premium <- function(aofm_table
 
 ####### .7 Ownership ####
 read_ownership <- function(aofm_table
-                     , csv = NULL
+                     , csv = F
                      , data.index = index
 ) {
   
@@ -483,6 +483,7 @@ read_ownership <- function(aofm_table
 ####### .10 daddy function #####
 read_aofm <- function(security = NULL
                       , type = NULL
+                      , csv = F
                       , data.index = index
 ) {
   

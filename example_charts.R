@@ -6,7 +6,7 @@ source(here::here("script", "tidy_data.R"))
 view(browse_tables())
 
 ## Treasury Bond Coverage Ratio's
-p <- read_aofm("tib", "issuance") %>%
+p <- read_aofm("tn", "issuance") %>%
   filter(name == "coverage_ratio") %>%
   ggplot(aes(x = date_held
              , y = value
