@@ -1,6 +1,6 @@
 ## an index dataframe
 
-index <- data.frame(
+aofm_index <- data.frame(
   p.security = c(
     "summary"
     , "aggregate"
@@ -296,19 +296,13 @@ index <- data.frame(
 #            )  
 
 
-index_nav <- index %>%
+aofm_index_nav <- aofm_index %>%
   select(c(1:2, 5:7)) %>%
   `colnames<-`(c("Argument 1", "Argument 2", "AOFM Category", "AOFM Title", "AOFM Description"))
 
 
 
-##### print index ######
-
-browse_tables <- function(x = index_nav){
-  print(x)
-}
-
-
-
+save(aofm_index, file = "aofm_index.Rda")
+save(aofm_index_nav, file = "aofm_index_nav.Rda")
 
 

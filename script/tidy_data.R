@@ -1,17 +1,30 @@
-## read_excel_all_sheets
-library(data.table)
-library(janitor)
+##### packages ###########
+library(readxl)
 library(tidyverse)
+library(httr)
 library(here)
 library(zoo)
+library(data.table)
+library(janitor)
 library(stringr)
 
 source(here::here("script", "index.R"))
-source(here::here("script", "download.R"))
 
 
 
-####### .0 baseline functions ####
+
+##### .00 AOFM Data Index ######
+
+browse_tables <- function(x = aofm_index_nav){
+  print(x)
+}
+
+
+
+
+
+
+####### .03 baseline functions ####
 
 read_excel_allsheets <- function(filename, tibble = FALSE) {
   sheets <- readxl::excel_sheets(filename)
@@ -30,7 +43,91 @@ not_all_na <- function(x) any(!is.na(x))
 
 
 
-####### .1 EOFY data ####
+####### .02 Find files #####
+
+find_file <- function(security = NULL ## options include; tb, tib, tn, slf, summary, aggregate, ownership, retail, term.premium
+                      , type =  NULL ## options include; dealt, settlement, issuance, syndication, buyback, turnover
+                      , data.index = aofm_index
+){
+  
+  if (is.null(security) != T){
+    tmp <- data.index %>%
+      filter(p.security == security)
+  } else {
+    tmp <- data.index
+  }
+  
+  if (is.null(type) != T){
+    tmp <- tmp %>%
+      filter(p.type == type)
+  }
+  
+  
+  if (nrow(tmp) == 0) {
+    print("The input parameters do not map to a valid table. If unsure, please check valid tables using 'index'")
+    return(NULL)
+  } else if (nrow(tmp) == 1){
+    return(tmp$id)
+  } else if (nrow(tmp) > 1) {
+    print("The input parameters do not map to a unique table, please add additional parameters. The below print-out shows all tables selected and their parameters.")
+    print(tmp %>%
+            select(c("p.security", "p.type", "id")))
+    return(tmp$id)
+  }
+  
+}
+
+
+
+
+
+
+
+####### .03 Download xlsx files #####
+
+## this downloads a specified table from the aofm as an xlsx and saves in /data
+# if no params are passed it will download all data files from aofm datahub
+# if non-unique params are passed it will doewnload all matching files
+# if invalid params are specified it wil not download any files
+
+download_aofm_xlsx <- function(security = NULL ## options include; tb, tib, tn, slf, summary, aggregate, ownership, retail, term.premium
+                               , type =  NULL ## options include; dealt, settlement, issuance, syndication, buyback, turnover
+                               , data.index = aofm_index
+) {
+  
+  # run find_file function to determine which file to download
+  aofm_table <- find_file(security, type, basis, data.index)
+  
+  # check if /data sub folder exists and create if not
+  if (dir.exists("data") == F) {
+    dir.create("data")
+  }
+  
+  if (is.null(aofm_table)==T){
+    print(aofm_table)
+    
+  } else {
+    for (i in 1:length(aofm_table)){
+      file.url <- data.index %>%
+        filter(id == data.index$id[i]) %>%
+        pull(file.path)
+      
+      file.name <- data.index$file.save[i]
+      download.file(file.url, destfile = here("data", file.name))
+    }
+    print(paste("The following files have been downloaded to:", here("data")))
+    print(aofm_table)
+  } 
+}
+
+
+
+
+
+
+
+
+####### .10 EOFY data ####
 read_eofy <- function(aofm_table
                       , csv = F
                       , data.index = index
@@ -79,7 +176,7 @@ read_eofy <- function(aofm_table
 
 
 
-####### .2 EOM data ####
+####### .11 EOM data ####
 read_eom <- function(aofm_table
                                 , csv = F
                                 , data.index = index
@@ -165,10 +262,10 @@ read_eom <- function(aofm_table
 
 
 
-####### .3 transactional ####
+####### .12 transactional ####
 read_transactional <- function(aofm_table
                      , csv = F
-                     , data.index = index
+                     , data.index = aofm_index
 ) {
   
   file.url <- data.index %>%
@@ -235,10 +332,10 @@ read_transactional <- function(aofm_table
 
 
 
-####### .4 syndication details ####
+####### .13 syndication details ####
 read_syndication <- function(aofm_table
                                , csv = F
-                               , data.index = index
+                               , data.index = aofm_index
 ) {
   
   file.url <- data.index %>%
@@ -286,10 +383,10 @@ read_syndication <- function(aofm_table
 
 
 
-####### .5 Secondary market turnover ####
+####### .14 Secondary market turnover ####
 read_secondary <- function(aofm_table
                            , csv = F
-                           , data.index = index
+                           , data.index = aofm_index
 ) {
   
   file.url <- data.index %>%
@@ -334,10 +431,10 @@ read_secondary <- function(aofm_table
 
 
 
-####### .6 Term Premium ####
+####### .15 Term Premium ####
 read_premium <- function(aofm_table
                            , csv = F
-                           , data.index = index
+                           , data.index = aofm_index
 ) {
   
   file.url <- data.index %>%
@@ -385,10 +482,10 @@ read_premium <- function(aofm_table
 
 
 
-####### .7 Ownership ####
+####### .16 Ownership ####
 read_ownership <- function(aofm_table
                      , csv = F
-                     , data.index = index
+                     , data.index = aofm_index
 ) {
   
   file.url <- data.index %>%
@@ -480,11 +577,11 @@ read_ownership <- function(aofm_table
 
 
 
-####### .10 daddy function #####
+####### .20 daddy function #####
 read_aofm <- function(security = NULL
                       , type = NULL
                       , csv = F
-                      , data.index = index
+                      , data.index = aofm_index
 ) {
   
   # Use the find_file function to get the appropriate table(s) to download
@@ -542,11 +639,11 @@ read_aofm <- function(security = NULL
 
 
 
-####### looped version (doesnt work) #####
+####### .21 looped version (doesnt work) #####
 # read_aofm <- function(security = NULL
 #                       , type = NULL
 #                       , basis = NULL
-#                       , data.index = index
+#                       , data.index = aofm_index
 # ) {
 #   
 #   # Use the find_file function to get the appropriate table(s) to download
