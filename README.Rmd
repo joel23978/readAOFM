@@ -7,117 +7,98 @@ output: github_document
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
-  comment = "#>",
-  fig.path = "man/figures/README-",
-  out.width = "100%"
+  comment = "#>"
 )
 ```
 
 # readAOFM
 
-<!-- badges: start -->
-<!-- badges: end -->
-
-The goal of {readAOFM} is to it make easier to download and use data from the AOFM's DataHub.
+`readAOFM` downloads workbook data from the Australian Office of Financial
+Management (AOFM) DataHub and returns cleaned R data frames or lists.
 
 ## Installation
 
-You can install the development version of readAOFM from [GitHub](https://github.com/) with:
+You can install the development version from GitHub with:
 
 ``` r
-# install.packages("devtools")
-devtools::install_github("joel23978/readAOFMpackage")
+# install.packages("remotes")
+remotes::install_github("joel23978/readAOFMpackage")
 ```
+
+## Primary interface
+
+The main entrypoint is `read_aofm()`.
+
+- `security`: one of `tb`, `tib`, `tn`, `slf`, `summary`, `aggregate`,
+  `ownership`, `retail`, `term.premium`; optional when you want all supported
+  tables
+- `type`: one of `dealt`, `settlement`, `issuance`, `syndication`,
+  `buyback`, `turnover`; optional when `security` should return all matching
+  supported tables
+- `csv`: if `TRUE`, also writes the parsed output to CSV via the underlying
+  reader
+
+When `security` is omitted, `read_aofm()` returns a named list of all
+supported tables. When only `type` is omitted, it returns all supported
+tables for that security.
 
 ## Example
 
-We can pull data from the AOFM with a single line of code, and a few more lines to make a chart
-```{r exampleChart, warning=FALSE, message=FALSE}
-library(tidyr)
-library(dplyr)
-library(here)
-library(httr)
-library(readxl)
-library(zoo)
-library(data.table)
-library(janitor)
-library(stringr)
-library(tibble)
-library(ggplot2)
-
+``` r
 library(readAOFM)
 
-## Treasury Bond Coverage Ratio's
-p <- read_aofm("tb", "issuance") %>%
-  filter(name == "coverage_ratio") %>%
-  ggplot(aes(x = date_held
-             , y = value
-             , colour = as.numeric(difftime(maturity, date_held))/365
-  )) +
-  geom_point() +
-  theme_minimal() +
-  xlab("Issuance date") +
-  ylab("Coverage ratio") +
-  guides(colour=guide_legend(title="Tenor (yrs)")) +
-  ggtitle("AOFM Treasury Bond Issuance - Coverage Ratio")
-p
-
-```
-
-
-What the data looks like:
-
-
-```{r example, eval = F}
-print(read_aofm("tb", "issuance"))
-
-```
-
-
-```{r example2, echo=FALSE, warning=FALSE, message=FALSE}
-
-print(read_aofm("tb", "issuance"))
-
-```
-
-The read_aofm function takes up to four arguments:
-
-- security, ## options include; tb, tib, tn, slf, summary, aggregate, ownership, retail, term.premium
-- type, ## options include; dealt, settlement, issuance, syndication, buyback, turnover
-- csv = FALSE, ## defaults to FALSE, if TRUE it will output a csv to /ouput with the cleaned data
-- data.index = index, ## an index of data on the AOFM website, pulled from index.R
-
-The function needs to be written to an object like the below:
-
-- Where the excel files has multiple sheets the data is written to a list object with a list element for each sheet.
-- The "Notes" sheet in the orignal files is not read into R
-
-```{r example3, eval = F}
 tb_issuance <- read_aofm("tb", "issuance")
+head(tb_issuance)
 
+all_tables <- read_aofm()
+length(all_tables)
+
+tb_all <- read_aofm("tb")
+names(tb_all)
 ```
 
+## Search helper
 
+`search_aofm()` searches the supported table catalog and returns matching
+tables together with ready-to-run `read_aofm()` calls.
 
-<!-- To see the index of files/arguments to pass, use: -->
-<!-- ```{r} -->
-<!-- browse_tables() -->
-<!-- ``` -->
+``` r
+search_aofm("tb issuance")
+search_aofm("issuance")
+search_aofm("treasury bond")
+search_aofm("inflation")
+```
 
+If you want the data immediately, set `read = TRUE`:
 
-download.R contains two functions:
+``` r
+tb_issuance <- search_aofm("tb issuance", read = TRUE)
+all_issuance <- search_aofm("issuance", read = TRUE)
+```
 
-- download_aofm_xlsx() enables you down a single file (or all data files) from the AOFM's website to a /data subfolder
-  - if no argument is passed; it will download all files from the AOFM's webite
-  - if an argument with multiple matches is passed it will download all matching tables
-  - if two arguments are passed (security, type) it will download the specific table
-- find_file() takes arguments for (security, type) and returns a table id
+For downstream analysis or charting, add your preferred tidyverse packages in
+the calling script:
 
+``` r
+library(dplyr)
+library(ggplot2)
+library(readAOFM)
 
+read_aofm("tb", "issuance") %>%
+  filter(name == "coverage_ratio") %>%
+  ggplot(aes(x = date_held, y = value)) +
+  geom_point() +
+  theme_minimal()
+```
 
+## Secondary helper
+
+`download_aofm_xlsx()` is still available if you want the raw workbooks saved
+locally, but `read_aofm()` is the preferred interface for normal use.
 
 ## Disclaimer
 
-The AOFM website may, at any time, change in such a way that the package stops working (esp if they change the structure of the files).
+The AOFM website may change in ways that require updates to this package.
 
-This package is not affiliated with or endorsed by AOFM, all data is provided under any terms set out on the AOFM website.
+This package is not affiliated with or endorsed by AOFM. All data is provided
+under any terms set out on the AOFM website.
