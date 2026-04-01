@@ -52,12 +52,11 @@ not_all_na <- function(x) any(!is.na(x))
 #' @param type the specific type of data you want, occasionally optional: dealt, settlement, issuance, syndication, buyback, turnover,
 #' @returns a vector with the file/s which match the input params
 #' @examples
-#' \dontrun{find_file("tb", "issuance")}
-#' # returns "tb_issuance"
-#' \dontrun{find_file("tb")}
-#' \dontrun{returns c("tb_issuance", "tb_syndication", "tb_turnover" .....)}
-#' \dontrun{find_file()}
-#' # returns vector of all filenames
+#' \dontrun{
+#' find_file("tb", "issuance")
+#' find_file("tb")
+#' find_file()
+#' }
 
 
 find_file <- function(security = NULL ## options include; tb, tib, tn, slf, summary, aggregate, ownership, retail, term.premium

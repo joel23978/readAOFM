@@ -1,0 +1,52 @@
+url: https://joel23978.github.io/readAOFM/
+
+template:
+  bootstrap: 5
+
+home:
+  title: readAOFM
+  description: Download, search, and read AOFM DataHub tables in R.
+
+navbar:
+  structure:
+    left:
+    - intro
+    - reference
+    - news
+    right:
+    - github
+  components:
+    intro:
+      text: Overview
+      href: index.html
+    reference:
+      text: Reference
+      href: reference/index.html
+    github:
+      icon: fa-github
+      aria-label: GitHub repository
+      href: https://github.com/joel23978/readAOFMpackage
+
+reference:
+- title: Main Interface
+  contents:
+  - read_aofm
+  - search_aofm
+  - download_aofm_xlsx
+
+- title: Table Readers
+  contents:
+  - read_eofy
+  - read_eom
+  - read_transactional
+  - read_syndication
+  - read_ownership
+  - read_secondary
+  - read_premium
+
+- title: Helpers
+  contents:
+  - find_file
+  - browse_tables
+  - read_excel_allsheets
+  - not_all_na

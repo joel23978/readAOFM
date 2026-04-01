@@ -18,10 +18,9 @@ a vector with the file/s which match the input params
 Find name of file to download from AOFM
 }
 \examples{
-\dontrun{find_file("tb", "issuance")}
-# returns "tb_issuance"
-\dontrun{find_file("tb")}
-\dontrun{returns c("tb_issuance", "tb_syndication", "tb_turnover" .....)}
-\dontrun{find_file()}
-# returns vector of all filenames
+\dontrun{
+find_file("tb", "issuance")
+find_file("tb")
+find_file()
+}
 }
