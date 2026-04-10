@@ -6,7 +6,7 @@ Authors@R:
 Description: Downloads, imports, and tidies time series data from the Australian Office of Financial Mnagement DataHub.
 License: MIT + file LICENSE
 URL: https://joel23978.github.io/readAOFM/
-BugReports: https://github.com/joel23978/readAOFMpackage/issues
+BugReports: https://github.com/joel23978/readAOFM/issues
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3

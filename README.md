@@ -17,7 +17,7 @@ You can install the development version from GitHub with:
 
 ``` r
 # install.packages("remotes")
-remotes::install_github("joel23978/readAOFMpackage")
+remotes::install_github("joel23978/readAOFM")
 ```
 
 ## Primary interface

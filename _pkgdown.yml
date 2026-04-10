@@ -27,7 +27,7 @@ navbar:
     github:
       icon: fa-github
       aria-label: GitHub repository
-      href: https://github.com/joel23978/readAOFMpackage
+      href: https://github.com/joel23978/readAOFM
 
 reference:
 - title: Main Interface
