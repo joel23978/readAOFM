@@ -7,7 +7,7 @@
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/joel23978/readAOFMpackage/blob/main/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/joel23978/readAOFM/blob/main/DESCRIPTION)
 
 Findlay J (2026). *readAOFM: Reads data from the AOFM's dataHub*. R
 package version 0.0.0.9000, <https://joel23978.github.io/readAOFM/>.
